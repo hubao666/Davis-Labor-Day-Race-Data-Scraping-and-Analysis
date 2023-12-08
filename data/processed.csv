@@ -1,4 +1,4 @@
-Name,Age,Age_group,Time,Gender,Pace (min/Km),Speed (Km/h),Distance,Year
+Name,Age,Age_group,Time (min),Gender,Pace (min/Km),Speed (Km/h),Distance,Year
 William Liu,19,10 - 19,16.25,Male,3.25,18.462,5K,2023
 Chris Badolato,46,40 - 49,16.983,Male,3.397,17.665,5K,2023
 Matthew Mayo,31,30 - 39,17.033,Male,3.407,17.613,5K,2023
