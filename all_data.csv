@@ -1,0 +1,4355 @@
+Distance,Year,Name,Age,Time,Gender
+5K,2023,William Liu,19,16:15.33,Male
+5K,2023,Chris Badolato,46,16:59.80,Male
+5K,2023,Matthew Mayo,31,17:02.81,Male
+5K,2023,Liam Lopez,18,17:30.58,Male
+5K,2023,Ethan Mccracken,16,18:01.69,Male
+5K,2023,Jose Zaragoza,36,18:05.14,Male
+5K,2023,Payton Hanks,14,18:07.46,Male
+5K,2023,Nicholas Troppy,27,18:11.67,Male
+5K,2023,Norberto Razo,22,19:07.80,Male
+5K,2023,Gabriel Aguilar,15,19:23.17,Male
+5K,2023,Trevor J Mills,16,19:40.25,Male
+5K,2023,Jeremy Alberg,21,19:43.18,Male
+5K,2023,Anouk Brose,24,19:43.82,Female
+5K,2023,Carmen Baxter,42,19:50.06,Female
+5K,2023,Ethan Tang,14,19:50.41,Male
+5K,2023,Caleb Chak,10,20:30.54,Male
+5K,2023,Kristen Mayo,31,20:31.40,Female
+5K,2023,Liam Anderson,15,20:42.19,Male
+5K,2023,Michael Sweeney,60,20:42.73,Male
+5K,2023,Jafet Sanchez,27,21:22.62,Male
+5K,2023,Ned Mckinley,49,21:25.64,Male
+5K,2023,Nathan Vigil,18,21:35.67,Male
+5K,2023,Jaciel Reveles,12,21:49.37,Male
+5K,2023,Henry Candelo,14,21:50.20,Male
+5K,2023,James Durdan,27,21:51.01,Male
+5K,2023,Barth Ballard,56,21:52.21,Male
+5K,2023,Amanda Ioannides,30,22:00.84,Female
+5K,2023,Greg Mandler,60,22:01.97,Male
+5K,2023,Taek Keun Lyu,32,22:08.25,Male
+5K,2023,Kristina Reiswig,34,22:09.41,Female
+5K,2023,Terry Anderson,49,22:22.33,Female
+5K,2023,Adan Cervantes,26,22:47.49,Male
+5K,2023,Alyssa Bivins,34,22:49.41,Female
+5K,2023,Mason Thomsen,31,22:50.21,Male
+5K,2023,John Nutter,39,22:58.45,Male
+5K,2023,Matthew Koestner,32,23:00.71,Male
+5K,2023,Omar Marroquin,44,23:09.96,Male
+5K,2023,Audrey Zaragoza,12,23:18.24,Female
+5K,2023,Edward Olkowski,53,23:25.18,Male
+5K,2023,James Helge,54,23:40.00,Male
+5K,2023,James Deacon,26,23:43.91,Male
+5K,2023,Jenna Evans,21,23:46.89,Female
+5K,2023,Jensen Eighmey,43,23:54.81,Female
+5K,2023,Julia Jaoude,32,24:00.18,Female
+5K,2023,Jesus Mendez,39,24:00.19,Male
+5K,2023,Sophie Price,19,24:03.44,Female
+5K,2023,Erinne Boyd,32,24:10.49,Female
+5K,2023,Chloe Chak,12,24:13.93,Female
+5K,2023,Laura Kay,14,24:25.74,Female
+5K,2023,Doug Riggle,67,24:33.67,Male
+5K,2023,Charles Anderson,54,24:37.56,Male
+5K,2023,Sean Perry,32,24:41.31,Male
+5K,2023,Robert Oldham,59,24:47.25,Male
+5K,2023,Mike French,52,24:52.02,Male
+5K,2023,Neal Sweeney,46,24:53.81,Male
+5K,2023,Dan Coyle,64,24:54.59,Male
+5K,2023,Ryan Bean,33,24:58.44,Male
+5K,2023,Sonia Brown,11,25:07.36,Female
+5K,2023,Wooyoung Jung,16,25:13.66,Male
+5K,2023,Yumeka Kobayashi,21,25:17.22,Female
+5K,2023,Tony Pacheco,62,25:19.10,Male
+5K,2023,Curtis Mann,44,25:21.54,Male
+5K,2023,Layla Wolk,12,25:24.85,Female
+5K,2023,Daniel Wolk,46,25:25.52,Male
+5K,2023,Ciara Munz,21,25:31.94,Female
+5K,2023,Anastasia Martinez,33,25:34.94,Female
+5K,2023,Calliope Chak,8,25:35.28,Female
+5K,2023,Eliand Schwind,17,25:41.68,Male
+5K,2023,Nichole Torgerson,44,25:43.74,Female
+5K,2023,Stuart Matthews,39,25:50.78,Male
+5K,2023,Ramon Matthews,9,25:51.07,Male
+5K,2023,Daniel Spiegel,28,25:56.28,Male
+5K,2023,Marc Bautista,50,25:57.56,Male
+5K,2023,Hyoung-Geun Yoon,32,26:01.52,Male
+5K,2023,Richard King,53,26:04.01,Male
+5K,2023,Alyssa Wristen,34,26:13.11,Female
+5K,2023,Miku Kawahara,28,26:16.46,Female
+5K,2023,Kohei Yamazaki,34,26:20.80,Male
+5K,2023,Claudia Lara,39,26:21.25,Female
+5K,2023,Emily Hyde,27,26:32.19,Female
+5K,2023,Victoria Bianda,43,26:41.18,Female
+5K,2023,Bonnie Miller,39,26:46.18,Female
+5K,2023,Tim Smith,60,26:48.09,Male
+5K,2023,Pete Scully,47,26:53.66,Male
+5K,2023,Syd Berrios,27,26:55.02,Female
+5K,2023,Sue Spencer,49,26:58.46,Female
+5K,2023,Cori Hoffart,36,27:03.78,Female
+5K,2023,Marco Antonio Lopez,45,27:10.29,Male
+5K,2023,Rose Shoen,31,27:25.10,Female
+5K,2023,Jeesoo Jung,19,27:31.51,Female
+5K,2023,Osvaldo Cruz,12,27:35.69,Male
+5K,2023,Sheryl Giesbrecht,66,27:43.44,Female
+5K,2023,Julien Bec,43,27:45.36,Male
+5K,2023,Axel Bec,11,27:45.57,Male
+5K,2023,Anton Bec,8,27:45.94,Male
+5K,2023,Bryce Wong,26,27:47.17,Male
+5K,2023,Qingyu Meng,48,27:47.83,Male
+5K,2023,Justin Jacobs,50,27:49.94,Male
+5K,2023,Sarah Breitenbach,46,27:55.58,Female
+5K,2023,Jubei Lor,15,27:59.99,Male
+5K,2023,Sandy Cridland,37,28:00.01,Female
+5K,2023,Linda Hernandez,51,28:03.68,Female
+5K,2023,Perry Ioannides,33,28:05.34,Male
+5K,2023,Erika Tierney,34,28:14.71,Female
+5K,2023,Tom Ford,71,28:16.88,Male
+5K,2023,Lauren Kissinger,55,28:27.68,Female
+5K,2023,Kristen Ryken,33,28:27.82,Female
+5K,2023,Peter Cridland,43,28:33.34,Male
+5K,2023,Matthew Huang,28,28:38.02,Male
+5K,2023,Allison Zwingenberger,52,28:43.42,Female
+5K,2023,Sean Prather,13,28:45.06,Male
+5K,2023,Fina Meng,13,28:46.29,Female
+5K,2023,Alejandro Alamirra,39,28:47.42,Male
+5K,2023,Cape Zern,39,28:49.09,Male
+5K,2023,Lisa Mcphillips,26,28:49.95,Female
+5K,2023,Jim H.,36,28:50.64,Male
+5K,2023,Parker Liska,8,28:51.97,Male
+5K,2023,Cooper Zern,8,28:53.50,Male
+5K,2023,Lisa Mills,51,28:59.62,Female
+5K,2023,Ray Lawson,52,29:00.41,Male
+5K,2023,Jeffrey Noh,35,29:03.56,Male
+5K,2023,Pat Dimond,31,29:06.46,Male
+5K,2023,John Valdrighi,60,29:08.33,Male
+5K,2023,Zander Memon,23,29:11.96,Non-Binary
+5K,2023,Juliana Candelaria,28,29:14.96,Female
+5K,2023,Athena Maduros,12,29:17.39,Female
+5K,2023,Jahzeel Ormeno,43,29:28.24,Female
+5K,2023,Diana Rubio,20,29:34.07,Female
+5K,2023,Peyton Navarrete,41,29:34.33,Female
+5K,2023,Christopher Tierney,36,29:41.95,Male
+5K,2023,Cuauhtemoc Martinez,37,29:44.39,Male
+5K,2023,Alyssa Liska,35,30:04.65,Female
+5K,2023,Vianey Ortiz,45,30:14.41,Female
+5K,2023,Isabelle Picciotto,30,30:16.04,Female
+5K,2023,David Kissinger,68,30:22.46,Male
+5K,2023,Colin Crane-Smith,37,30:28.19,Male
+5K,2023,Kristabel Chaisson,18,30:36.07,Female
+5K,2023,Abigail Greenberg,19,30:36.43,Female
+5K,2023,Andrea Gonzalez,25,30:40.58,Female
+5K,2023,Gwynn Canfield,17,30:40.81,Female
+5K,2023,Vidya Merchant,16,30:41.69,Female
+5K,2023,Megan Williams,27,30:53.04,Female
+5K,2023,Karin Boston,70,30:55.00,Female
+5K,2023,Ryan Wessells,43,31:04.99,Female
+5K,2023,Carly Jones,35,31:05.65,Female
+5K,2023,Aaron Lor,16,31:05.68,Male
+5K,2023,Pana Wilder,77,31:06.69,Female
+5K,2023,Paul Sieracki,71,31:08.60,Male
+5K,2023,Ashish Atreja,47,31:10.85,Male
+5K,2023,Pedro Lima,37,31:14.81,Male
+5K,2023,Sebastian Morales,10,31:16.54,Male
+5K,2023,Jacqueline Galicia,26,31:18.72,Female
+5K,2023,Nicholas Zaiko,41,31:24.69,Male
+5K,2023,Noreen Karim,33,31:25.07,Female
+5K,2023,David Alltop,63,31:25.64,Male
+5K,2023,Krista Keller,40,31:31.13,Female
+5K,2023,Azeez Flores,6,31:34.99,Male
+5K,2023,Janet Scott,49,31:37.73,Female
+5K,2023,Juliana Luna,26,31:43.28,Female
+5K,2023,Amanda Schwabe,37,31:44.15,Female
+5K,2023,Brandon Zahursky,31,31:51.32,Male
+5K,2023,Lachlan Hannafin,11,31:55.38,Male
+5K,2023,Xochilt Mendoza,24,32:02.58,Female
+5K,2023,Sarah Fowler,45,32:05.94,Female
+5K,2023,Elsa Fowler,6,32:06.39,Female
+5K,2023,Paramo Hernandez,65,32:21.30,Male
+5K,2023,Maria Carroll,26,32:25.76,Female
+5K,2023,Miguel Cruz,27,32:25.93,Male
+5K,2023,Mary Ash,47,32:28.22,Female
+5K,2023,Renee Prather,51,32:33.09,Female
+5K,2023,Margarita Barajas,30,32:36.89,Female
+5K,2023,Noemi Navarrete,11,32:40.00,Female
+5K,2023,Giacomo Stratton-Miller,11,33:03.78,Male
+5K,2023,Erik Sanchez,47,33:11.43,Male
+5K,2023,Dianne Hyson,63,33:15.91,Female
+5K,2023,Sharon Myers,68,33:16.10,Female
+5K,2023,Michelle Cardenas,41,33:16.56,Female
+5K,2023,Carolyn Meredith Simpson,64,33:19.42,Female
+5K,2023,Pak Tang,50,33:28.86,Male
+5K,2023,John Hsu,58,33:33.40,Male
+5K,2023,Nils Carlson,69,33:42.32,Male
+5K,2023,Ugene Lor,12,33:53.17,Male
+5K,2023,Duane Davis,70,33:53.63,Male
+5K,2023,Molly Desantis,43,34:03.14,Female
+5K,2023,Kristen Kay,15,34:09.83,Female
+5K,2023,Tamara Musso,46,34:26.52,Female
+5K,2023,Doug Williams,78,34:33.81,Male
+5K,2023,Karen Ayotte,50,34:40.34,Female
+5K,2023,Andrea Clark,47,34:43.06,Female
+5K,2023,Beckie Fanous,53,34:50.38,Female
+5K,2023,Raul Aguirre,55,34:58.04,Male
+5K,2023,Davin Reusch,12,35:04.17,Male
+5K,2023,Ashley Baeza,39,35:04.85,Female
+5K,2023,Emily Gao,20,35:10.73,Female
+5K,2023,Sara Alcay,33,35:11.73,Female
+5K,2023,Marcus Erba,36,35:21.95,Male
+5K,2023,Sandi Erba,72,35:22.75,Female
+5K,2023,Ariadna Bueno,34,35:25.15,Female
+5K,2023,David Trudell,63,35:31.98,Male
+5K,2023,Chicauac Mixcoatl Martinez,30,35:35.84,Male
+5K,2023,Kamera Bell,12,35:38.84,No Answer
+5K,2023,Robert Hernandez,39,35:47.15,Male
+5K,2023,Eric Spencer,39,35:48.50,Male
+5K,2023,Sarah Ross,36,35:55.04,Female
+5K,2023,Susan Redford,72,36:00.66,Female
+5K,2023,Linda Davis,44,36:16.95,Female
+5K,2023,James Gojkovich,36,36:18.50,Male
+5K,2023,Margaret Delmore,66,36:28.37,Female
+5K,2023,Chitrabhanu Gupta,30,36:33.13,Male
+5K,2023,Melissa Silva,45,36:39.70,Female
+5K,2023,Michelle Jacobs,50,37:00.64,Female
+5K,2023,Andrew Wallace,62,37:01.37,Male
+5K,2023,Dalton Ryken,33,37:01.53,Male
+5K,2023,Michelle Bacigalupi,26,37:22.32,Female
+5K,2023,Tilden Tantillo,9,37:23.83,Male
+5K,2023,Lori Monaco,65,37:26.00,Female
+5K,2023,Selina Wang,43,37:29.88,Female
+5K,2023,Brian Scates,43,37:36.82,Male
+5K,2023,Cristhiaan Ochoa,43,37:39.13,Male
+5K,2023,Courtney Ochoa,39,37:39.88,Female
+5K,2023,Mattaja Willie,21,37:47.37,Female
+5K,2023,Isaac Rivera,22,37:48.80,Male
+5K,2023,Nya Wandji,9,37:49.91,Female
+5K,2023,Andrea Treat,46,37:50.11,Female
+5K,2023,Aboubakar Wandji,36,37:51.02,Male
+5K,2023,Meg Hooper,21,37:52.15,Female
+5K,2023,Jason Tighe,21,37:53.47,Male
+5K,2023,Cerina-Marie Smit,24,38:23.32,Female
+5K,2023,Zach Castagnola-Johnson,31,38:23.78,Male
+5K,2023,Justine Miller,37,38:33.89,Female
+5K,2023,Carlie Rae Whiteman,21,38:36.02,Female
+5K,2023,Anirban Samanta,34,38:43.78,Male
+5K,2023,Lea Cacciato Redfearn,43,38:45.78,Female
+5K,2023,John Dapkewicz,63,38:53.56,Male
+5K,2023,Toby Scott,9,39:09.89,Male
+5K,2023,Carole Scott,12,39:10.10,Female
+5K,2023,Michele Reed,54,39:25.05,Female
+5K,2023,Brian Gleason,52,39:25.09,Male
+5K,2023,Jeanne Poarch,58,39:45.28,Female
+5K,2023,Yochen Chou,8,39:51.55,Male
+5K,2023,Poyen Chou,42,39:51.96,Male
+5K,2023,Beth Rowan,42,39:55.78,Female
+5K,2023,Fisher Rowan-Wang,11,39:56.48,Male
+5K,2023,Lucio Precido Jr,13,40:06.81,Male
+5K,2023,Paul Flanagan,92,40:17.63,Male
+5K,2023,Owen Nguyen,8,41:04.10,Male
+5K,2023,Denise Imai-Leonard,47,41:10.93,Female
+5K,2023,Callan Leonard,9,41:11.57,Male
+5K,2023,John Foraker,60,41:17.62,Male
+5K,2023,Beth Foraker,58,41:17.77,Male
+5K,2023,Graham Stevens,10,41:22.04,Male
+5K,2023,Isaac Stevens,41,41:24.00,Male
+5K,2023,Allison Padecky,37,41:24.82,Female
+5K,2023,Rick Baker,79,41:25.53,Male
+5K,2023,Cynthia Neuenburg,57,41:43.47,Female
+5K,2023,Roslyn Bell,52,42:19.58,Female
+5K,2023,Kathy Matsumoto,65,42:42.62,Female
+5K,2023,Gary Matsumoto,72,42:43.03,Male
+5K,2023,Alejandra Cervantes,32,42:48.42,Female
+5K,2023,Yesenia Avila,32,42:50.45,Female
+5K,2023,April Mardis,45,42:50.71,Female
+5K,2023,George Dean,38,43:05.76,Male
+5K,2023,Dylan Dean,1,43:06.95,Male
+5K,2023,Owen Dean,4,43:08.47,Male
+5K,2023,Megan Dean,42,43:08.98,Female
+5K,2023,Jeff Barbier,58,43:22.89,Male
+5K,2023,Louise Echols,68,43:23.74,Female
+5K,2023,Oliver Reynolds,10,43:36.27,Male
+5K,2023,Luke Reynolds,44,43:37.20,Male
+5K,2023,Judy Shipman,82,43:41.06,Female
+5K,2023,Rudeen Monte,74,43:56.16,Female
+5K,2023,Melodi Alltop,61,44:22.92,Female
+5K,2023,Noah Scates,21,44:36.87,Female
+5K,2023,Madeline Bozdech,5,44:40.54,Female
+5K,2023,Kate Bozdech,37,44:42.78,Female
+5K,2023,Linda Hall,80,44:55.88,Female
+5K,2023,Natalie Casey,34,45:10.76,Female
+5K,2023,Ron Hess,81,45:15.41,Male
+5K,2023,Celeste Gilbert-Avila,47,45:23.85,Female
+5K,2023,Cynthia Kellogg,82,45:25.55,Female
+5K,2023,Kimberlee Penry,45,45:33.46,Female
+5K,2023,Ann Pacheco,66,45:37.03,Female
+5K,2023,Chad Miller,46,46:16.98,Male
+5K,2023,Janelle Murphy,36,46:17.79,Female
+5K,2023,Katy Miller,44,46:18.23,Female
+5K,2023,Tiffany Li,29,46:20.34,Female
+5K,2023,Raphael Torres,28,46:30.77,Male
+5K,2023,Cathy Miller,58,46:38.24,Female
+5K,2023,Bob Gill,68,46:45.72,Male
+5K,2023,Angela Borchert,47,46:51.32,Female
+5K,2023,Nicole White,52,47:15.76,Female
+5K,2023,Renee Monte,69,47:47.80,Female
+5K,2023,Danielle Person,23,47:57.07,Female
+5K,2023,Ariel Alden,28,48:06.28,Female
+5K,2023,Youngamerica Yang,30,48:10.36,Male
+5K,2023,Yanping Liang,30,48:10.94,Female
+5K,2023,Julie Southern,50,48:22.82,Female
+5K,2023,Virginia Navarrete,8,48:43.60,Female
+5K,2023,Lino Navarrete,10,48:47.28,Male
+5K,2023,Jesse Navarrete,41,48:50.72,Male
+5K,2023,Eloise Grey,12,48:56.55,Male
+5K,2023,Kao Nue Xiong,32,49:01.56,Female
+5K,2023,Joel Grey,56,49:01.76,Male
+5K,2023,Margaret Van Warmerdam,61,49:07.90,Female
+5K,2023,Courtney Akey,24,49:10.13,Female
+5K,2023,Imani Rodney,27,49:11.14,Female
+5K,2023,Kate Shipp-Roberts,37,49:15.46,Female
+5K,2023,Hugh Wilder,76,49:22.35,Male
+5K,2023,Jaelynn Funiestas,9,49:55.06,Female
+5K,2023,Marvin Funiestas,45,50:06.65,Male
+5K,2023,Norah Nguyen,10,50:07.36,Female
+5K,2023,Brianna Preciado,10,50:11.74,Female
+5K,2023,Maria Farias,16,50:40.59,Female
+5K,2023,Helen Santos,36,51:40.46,Female
+5K,2023,Norma Santos,62,51:41.40,Female
+5K,2023,Thomas Rosburg,36,52:17.33,Male
+5K,2023,Tamara Rosburg,34,52:17.38,Female
+5K,2023,Margaret Ervin,66,52:18.40,Female
+5K,2023,Eleanor Schneider,63,52:43.36,Female
+5K,2023,Megan Moorhead,42,53:02.12,Female
+5K,2023,Cheryl Guinan,41,53:20.85,Female
+5K,2023,Candice Bersola-Vallejos,37,53:29.67,Female
+5K,2023,David Ortiz,47,54:22.72,Male
+5K,2023,Brody Miller,15,54:29.20,Male
+5K,2023,Jason Ross,47,55:08.72,Male
+5K,2023,Jennifer Ross,42,55:10.85,Female
+5K,2023,Danielle Dorsey,60,55:58.85,Female
+5K,2023,Terry Penry,70,56:17.56,Female
+5K,2023,Maribel Jimenez,48,56:29.12,Female
+5K,2023,Teresa Olson,55,56:36.22,Female
+5K,2023,Tyler Bass,61,56:53.07,Male
+5K,2023,Jerry Jimenez,49,56:53.53,Male
+5K,2023,Rebecca Watermolen,49,58:02.94,Female
+5K,2023,David Treat,51,58:03.93,Male
+5K,2023,Catie Casentini,54,58:33.68,Female
+5K,2023,Greg Casentini,54,58:36.60,Male
+5K,2023,Alison Olsen,76,59:55.76,Female
+5K,2023,Nick Mariano,50,59:56.20,Male
+5K,2023,Shirley Adkins,91,1:00:17.75,Female
+5K,2023,Deborah Glazer,60,1:01:43.76,Female
+5K,2023,Reem Awad-Rashmawi,54,1:01:43.81,Female
+5K,2023,Sara Wandji,42,1:01:53.76,Female
+5K,2023,Michael Majestic,71,1:02:15.74,Male
+5K,2023,Sally Majestic,74,1:02:16.65,Female
+5K,2023,Kerry O'hara,63,1:02:42.74,Female
+5K,2023,Cory Casey,40,1:05:45.56,Female
+5K,2023,Carla Casey,71,1:05:55.18,Female
+5K,2023,Kathy Hicks,72,1:08:36.76,Female
+5K,2023,Matt Bozdech,42,1:08:37.54,Male
+5K,2023,Jerry Hicks,75,1:08:39.06,Male
+5K,2023,Robby Bozdech,7,1:08:39.16,Male
+5K,2023,Amanda Hicks,48,1:08:41.24,Female
+5K,2023,Christine Cooper,34,1:23:53.96,Female
+5K,2023,Chase Hirsig,17,Not started,Male
+5K,2023,Bo Yan Moran,29,Not started,Female
+5K,2023,Barbro Filliquist,49,Not started,Female
+5K,2023,Ellis Filliquist,8,Not started,Male
+5K,2023,Mark Goddard,35,Not started,Male
+5K,2023,Kathleen Goddard,40,Not started,Female
+5K,2023,Laura Friudenberg,51,Not started,Female
+5K,2023,Melissa Padaca,50,Not started,Female
+5K,2023,William Nichols,14,Not started,Male
+5K,2023,Spenser Nichols,14,Not started,Male
+5K,2023,Kym Davis,54,Not started,Female
+5K,2023,Lynne Olsen,55,Not started,Female
+5K,2023,Jeff Olsen,65,Not started,Male
+5K,2023,Valentina Hirsig,34,Not started,Female
+5K,2023,Nicole Ivy-Kutzler,48,Not started,Female
+5K,2023,Mena Andre,30,Not started,Female
+5K,2023,Diana Rodriguez,25,Not started,Female
+5K,2023,Stev Pruette,43,Not started,Female
+5K,2023,Justin Pruette,37,Not started,Male
+5K,2023,Alex Kish,12,Not started,Male
+5K,2023,Savannah Jumpp,37,Not started,Female
+5K,2023,Valentina Hirsig,34,Not started,Female
+5K,2023,Peter Hirsig,50,Not started,Male
+5K,2023,Paula O'laughlin,64,Not started,Female
+5K,2023,Brooks Elliott,65,Not started,Male
+5K,2023,Brei Thompson,43,Not started,Female
+5K,2023,Christopher Dunn,55,Not started,Male
+5K,2023,Gary Barnett,67,Not started,Male
+5K,2023,Derek Stephenson,14,Not started,Male
+5K,2023,Troy Jost,57,Not started,Male
+5K,2023,Trayvon Willis Kennedy,31,Not started,Male
+5K,2023,Emily Goodman,35,Not started,Female
+5K,2023,Edward Letro,67,Not started,Male
+5K,2023,Ron Peck,81,Not started,Male
+5K,2023,Karla Dougherty,49,Not started,Female
+5K,2023,Willow Amato,28,Not started,Female
+5K,2023,Michael Perry,69,Not started,Male
+5K,2023,Zinzi Raymond,49,Not started,Female
+5K,2023,Andre Vareee,26,Not started,Male
+5K,2023,Eric Amato,28,Not started,Male
+5K,2023,Allyssa Clinkenbeard,15,Not started,Female
+5K,2023,Maya Clinkenbeard,13,Not started,Female
+5K,2023,Jeffery Clinkenbeard,44,Not started,Male
+5K,2023,Carrie Clark,54,Not started,Female
+5K,2023,Geoffrey Hulbert,46,Not started,Male
+5K,2023,Allison Hulbert,16,Not started,Female
+5K,2023,Paige Hulbert,13,Not started,Female
+5K,2023,Christopher Treat,16,Not started,Male
+5K,2023,Oliver Treat,15,Not started,Male
+5K,2023,Jennifer Ryan,44,Not started,Female
+10K,2023,Zachary Bonner,34,37:59.97,Male
+10K,2023,Victor Balderas,47,40:07.89,Male
+10K,2023,Andrew Furillo,32,40:18.85,Male
+10K,2023,John Reid,35,41:41.62,Male
+10K,2023,Beverley Anderson-Abbs,59,42:21.90,Female
+10K,2023,Xinfan Lin,37,42:27.70,Male
+10K,2023,Antonio Morales,25,42:40.56,Male
+10K,2023,Clifton Forlee,39,42:40.67,Male
+10K,2023,Albert Hwang,44,42:42.98,Male
+10K,2023,Garen Koelling,21,42:51.77,Male
+10K,2023,Rio Hansen,26,42:52.07,Male
+10K,2023,Alan Abbs,53,43:40.52,Male
+10K,2023,Mario Mayo,25,44:01.85,Male
+10K,2023,Alasdair Wilkins,35,44:24.58,Male
+10K,2023,Felix Su,39,44:35.35,Male
+10K,2023,Patrick Zimmer,25,45:00.15,Male
+10K,2023,Bell Lee,16,45:10.16,Male
+10K,2023,Michael Neuenburg,57,45:59.92,Male
+10K,2023,Jonathan London,54,46:58.62,Male
+10K,2023,Dag Yasui,61,47:07.11,Male
+10K,2023,Rebecca J Schmidt,47,47:21.48,Female
+10K,2023,Carlos Pe±a,29,47:39.16,Male
+10K,2023,Melissa Curley,43,47:42.35,Female
+10K,2023,Lauren Prince,24,48:06.63,Female
+10K,2023,Etan Bard,30,48:28.10,Male
+10K,2023,Jaclyn Lynch,26,48:47.22,Female
+10K,2023,Christian Smit,30,49:08.82,Male
+10K,2023,Brandon Carter,52,49:13.14,Male
+10K,2023,Christopher Koelling,56,49:15.87,Male
+10K,2023,Nicole Hwang,40,49:25.45,Female
+10K,2023,Tania Benitez,16,49:27.58,Female
+10K,2023,Janine Lasalle,56,49:30.34,Female
+10K,2023,Christopher Barr,37,49:31.44,Male
+10K,2023,Melissa Campbell,32,49:32.56,Female
+10K,2023,Kyle Rampollo,13,49:36.83,Male
+10K,2023,Syreeta Rampollo,42,49:40.80,Female
+10K,2023,Morgan Zaffarano,28,49:45.68,Female
+10K,2023,Michal Goodison,25,49:53.69,Male
+10K,2023,Kristofer Zanardelli,44,50:07.74,Male
+10K,2023,Zachary Segal,31,50:28.02,Male
+10K,2023,Ann Marie Zenobia,41,50:36.19,Female
+10K,2023,Paige Brackett,24,51:09.29,Female
+10K,2023,Marcus Worthington,35,51:17.46,Male
+10K,2023,Zhichao Hu,27,51:19.48,Male
+10K,2023,Lianne Vicchio,33,51:59.41,Female
+10K,2023,Jenny Mays,36,52:04.02,Female
+10K,2023,David Brice,45,52:19.94,Male
+10K,2023,Joel Rodriguez-Medina,34,52:47.53,Male
+10K,2023,Nikol Frisch,31,52:54.91,Female
+10K,2023,Sawyer Koelling,16,52:59.75,Male
+10K,2023,Mike Cordano,71,53:00.21,Male
+10K,2023,Hortensia Cisneros Benftez,39,53:02.35,Female
+10K,2023,Kevin Barrett,26,53:07.10,Male
+10K,2023,David Wilson,58,53:09.97,Male
+10K,2023,Timothy Hendrix,24,53:19.90,Male
+10K,2023,Alden Mann,16,53:26.25,Male
+10K,2023,Sukhtej Atwal,35,53:31.96,Female
+10K,2023,Whitney Worthington,34,53:37.25,Female
+10K,2023,Phang Lor,34,53:48.84,Male
+10K,2023,Eason Lor,14,53:51.34,Male
+10K,2023,Stacy Reynolds,51,54:19.49,Female
+10K,2023,Ernest Shimizu,59,54:25.07,Male
+10K,2023,Melanie Dominguez-Martinez,19,54:28.36,Female
+10K,2023,Brett Fafata,25,54:29.43,Male
+10K,2023,Taehee Kim,32,54:40.76,Female
+10K,2023,Eric Daggett,52,54:49.22,Male
+10K,2023,Cameron Huynh,23,54:49.92,Male
+10K,2023,Paul Spolidoro,58,54:56.76,Male
+10K,2023,Christopher Papapietro,26,55:17.61,Male
+10K,2023,Matthew Campbell,37,55:17.90,Male
+10K,2023,Myriah Anderson,33,55:24.69,Female
+10K,2023,Andrea Guggenbickler,27,55:36.86,Female
+10K,2023,Elizabeth Miller,49,55:37.97,Female
+10K,2023,Aubrey Baude,30,55:53.25,Female
+10K,2023,Luke Zhan,19,56:04.87,Male
+10K,2023,Lindsay Frost,39,56:16.75,Female
+10K,2023,Daniel Thomasson,47,56:43.03,Male
+10K,2023,Bao Hu,20,56:51.23,Male
+10K,2023,Reginald Daniels,59,56:52.47,Male
+10K,2023,Ken Holt,54,56:53.81,Male
+10K,2023,Thomas Lee,56,56:55.43,Male
+10K,2023,Chang Sohn,37,57:11.46,Male
+10K,2023,Lauren Lebov,28,57:21.79,Female
+10K,2023,Ian Coad,49,57:25.03,Male
+10K,2023,Angelica Perez,22,57:32.00,Female
+10K,2023,Michael Fry,48,57:56.45,Male
+10K,2023,Ulises Ruiz Mendiola,25,58:01.49,Male
+10K,2023,Briana Mason,32,58:04.55,Female
+10K,2023,Jesus Magdaleno,25,58:09.91,Male
+10K,2023,John Pyle,65,58:10.24,Male
+10K,2023,Kelvin Kay,46,58:14.03,Male
+10K,2023,Charis Rippe,47,58:21.48,Female
+10K,2023,Rich Gelber,64,58:25.79,Male
+10K,2023,Diana Rodriguez,25,58:26.10,Female
+10K,2023,Sophia Blunk,16,58:36.05,Female
+10K,2023,Isabella Beyer,16,58:36.13,Female
+10K,2023,Jack Johnson,27,58:43.17,Male
+10K,2023,Reilly Ryan,21,58:45.90,Female
+10K,2023,Emilie Roncali,42,58:45.99,Female
+10K,2023,Madeleine Morgan,20,59:02.37,Female
+10K,2023,Andreanna Shuman,67,59:43.52,Female
+10K,2023,Soila Rios,67,59:47.52,Female
+10K,2023,Andrea Villanueva,60,1:00:01.93,Female
+10K,2023,Madison Buddingh,22,1:00:26.31,Female
+10K,2023,Katie Jordan,27,1:00:28.10,Female
+10K,2023,Abraham Boskovitz,51,1:00:28.81,Male
+10K,2023,Jessica Guerrieri,38,1:00:37.33,Female
+10K,2023,Andrea Mahoney,63,1:00:39.40,Female
+10K,2023,Michael Davenport,31,1:00:48.27,Male
+10K,2023,Cynthia Fernandez,28,1:00:55.68,Female
+10K,2023,Isela Zavala,54,1:01:17.67,Female
+10K,2023,Garth Lindley,50,1:01:21.49,Male
+10K,2023,Stacy Davidson,35,1:01:26.29,Female
+10K,2023,Maggie Marcotte,41,1:02:19.47,Female
+10K,2023,Erin Hsu,28,1:02:47.17,Female
+10K,2023,Phil Colglazier,36,1:02:48.49,Male
+10K,2023,Paul Kent,34,1:02:48.75,Male
+10K,2023,Adam Reese,40,1:02:49.32,Male
+10K,2023,Carlos Gomez,34,1:02:59.33,Male
+10K,2023,Wayne Lee,48,1:03:24.75,Male
+10K,2023,Carol Jaworowski,64,1:03:31.43,Female
+10K,2023,Todd Swayne,50,1:03:32.13,Male
+10K,2023,Aj Davidson,37,1:03:32.44,Male
+10K,2023,Tony Banks,56,1:03:44.86,Male
+10K,2023,Melanie Casey,38,1:03:46.32,Female
+10K,2023,Diego Barragan,38,1:04:19.75,Male
+10K,2023,Mayu Suzuki,19,1:04:23.46,Female
+10K,2023,Lisa Geibel-Finn,58,1:04:38.39,Female
+10K,2023,Christopher Kim,53,1:05:05.32,Male
+10K,2023,Carey Seal,42,1:05:46.00,Male
+10K,2023,Lenna Ontai,50,1:06:00.97,Female
+10K,2023,Harllee Branch,52,1:06:01.66,Male
+10K,2023,Anvi Atreja,11,1:06:36.63,Female
+10K,2023,Timothy Van Natta,61,1:06:40.73,Male
+10K,2023,Curtis Kroetsch,29,1:07:10.39,Male
+10K,2023,Cutter Hicks,34,1:07:12.22,Male
+10K,2023,Holly Edes,59,1:07:21.80,Female
+10K,2023,Melina Campos,34,1:07:42.79,Female
+10K,2023,Christine Soliva Ward,40,1:07:43.01,Female
+10K,2023,Zoe Hunt,27,1:07:50.98,Female
+10K,2023,Darrion Hancock,28,1:07:54.51,Male
+10K,2023,Heather Barr,33,1:08:04.65,Female
+10K,2023,Onaria Perez,27,1:08:09.36,Female
+10K,2023,Hilary Sanders,27,1:08:33.73,Female
+10K,2023,Danielle Usatin,41,1:08:48.27,Female
+10K,2023,Stacy Schutte,45,1:09:33.73,Female
+10K,2023,Chad Carlock,52,1:10:05.50,Male
+10K,2023,Jen Candelo,49,1:10:05.80,Female
+10K,2023,Tyler Chandon,32,1:10:17.65,Male
+10K,2023,Molly Weber,26,1:10:58.01,Female
+10K,2023,Juliana Osse De Souza,36,1:11:03.38,Female
+10K,2023,Anylu Tinoco,33,1:11:05.26,Female
+10K,2023,Alex Gutierrez,52,1:11:10.34,Male
+10K,2023,Kristy Dyson,45,1:11:21.16,Female
+10K,2023,Monica Slabaugh,31,1:12:21.14,Female
+10K,2023,Santos Cervantes,64,1:13:11.71,Male
+10K,2023,Susan Catron,61,1:13:23.40,Female
+10K,2023,Gabriella Zagone,23,1:13:24.76,Female
+10K,2023,Polly Chen,31,1:13:32.16,Female
+10K,2023,Allyson Beem,27,1:13:36.04,Female
+10K,2023,Grace Lemmon,23,1:13:43.18,Female
+10K,2023,Lizette Swanson,54,1:13:53.76,Female
+10K,2023,Tiffany Wright,40,1:14:11.79,Female
+10K,2023,Victor Medina,41,1:14:41.32,Male
+10K,2023,Patricia Haskin,28,1:14:52.64,Female
+10K,2023,Nick Zagone,58,1:15:16.60,Male
+10K,2023,Mary Northup,67,1:16:10.14,Female
+10K,2023,Bertha Wong,42,1:16:19.30,Female
+10K,2023,Jeff Olson,63,1:18:59.55,Male
+10K,2023,Michelle Kwan,27,1:19:46.45,Female
+10K,2023,Eliza Johnson,21,1:20:16.91,Female
+10K,2023,Her Xiong,26,1:20:44.48,Male
+10K,2023,Ed Tanous,35,1:21:22.29,Male
+10K,2023,Carla-Cristina Edwards,25,1:21:35.34,Female
+10K,2023,Adam Lee,24,1:21:37.08,Male
+10K,2023,Edna Lau,66,1:23:37.39,Female
+10K,2023,Jim Lee,22,1:23:51.58,Male
+10K,2023,Jean Forlee,39,1:24:18.47,Female
+10K,2023,Richard Chadwick,76,1:26:00.77,Male
+10K,2023,Linda S Clark,82,1:26:39.40,Female
+10K,2023,Brianne Zanardelli,44,1:29:20.90,Female
+10K,2023,John Seymour,68,1:34:19.17,Male
+10K,2023,Anna Veronica Bourke,23,1:34:20.42,Female
+10K,2023,Christopher Haley,35,1:35:21.28,Male
+10K,2023,Jennifer Halbrook,54,1:37:22.24,Female
+10K,2023,Kurt Mandich,63,1:37:52.02,Male
+10K,2023,Angy Foster,61,1:39:20.39,Female
+10K,2023,Rob Kane,72,1:48:33.78,Male
+10K,2023,Lori Bloomfield,58,1:59:26.69,Female
+10K,2023,Martha Bernauer,63,1:59:31.61,Female
+10K,2023,Brandon Gehrig,40,Not started,Male
+10K,2023,Cindy Bi,36,Not started,Female
+10K,2023,Rodrigo Perez-German,47,Not started,Male
+10K,2023,Jesus Mendez,39,Not started,Male
+10K,2023,Marco Antonio Lopez,45,Not started,Male
+10K,2023,Tyler Cunningham,23,Not started,Male
+10K,2023,Cameron Davainis,22,Not started,Male
+10K,2023,Whitman Manley,65,Not started,Male
+10K,2023,Nadia Alam,44,Not started,Female
+10K,2023,Tanya Barreto,51,Not started,Female
+10K,2023,Alicia Clinkenbeard,40,Not started,Female
+10K,2023,Julia Croteau,53,Not started,Female
+10K,2023,Joshua Needham,35,Not started,Male
+10K,2023,Nicole Gissell,44,Not started,Female
+10K,2023,Nancy Arkelian,66,Not started,Female
+10K,2023,Renee Verducci,42,Not started,Female
+10K,2023,Peter Hirsig,50,Not started,Male
+10K,2023,John Nichols,58,Not started,Male
+10K,2023,Ray Lawson,52,Not started,Male
+10K,2023,Paul Blumberg,59,Not started,Male
+10K,2023,Tim Yeung,52,Not started,Male
+10K,2023,Ralph Venturino,60,Not started,Male
+10K,2023,Jay Wang,19,Not started,Male
+10K,2023,John Foraker,60,Not started,Male
+10K,2023,Lauren Brackett,27,Not started,Female
+10K,2023,Pam Trudell,66,Started,Female
+10K,2023,Mary Swimley,57,Started,Female
+5K,2022,Mason Tope,26,17:42.47,Male
+5K,2022,Zachary Bonner,33,18:29.95,Male
+5K,2022,Benjamin Faulkner,29,18:52.65,Male
+5K,2022,Juan Sanchez,45,19:03.08,Male
+5K,2022,Payton Hanks,13,20:31.80,Male
+5K,2022,Giuliana Martino,12,20:48.08,Female
+5K,2022,Aaron Ford,31,21:58.35,Male
+5K,2022,Caleb Chak,9,22:04.74,Male
+5K,2022,Grant Garrison,48,22:06.43,Male
+5K,2022,Greg Mandler,59,22:27.63,Male
+5K,2022,Taek Keun Lyu,31,22:39.65,Male
+5K,2022,Eidan Mercado,15,22:45.24,Male
+5K,2022,Fernando Garcia,16,22:45.79,Male
+5K,2022,Barth Ballard,55,22:46.33,Male
+5K,2022,Brei Thompson,42,22:56.50,Female
+5K,2022,Jedward Olkowski,52,22:59.82,Male
+5K,2022,Austin Donnelly,24,23:02.81,Male
+5K,2022,Omar Marroquin,43,23:28.68,Male
+5K,2022,Ali Jafari,46,23:29.29,Male
+5K,2022,Trevor Mills,15,23:29.36,Male
+5K,2022,Joe Taxiera,69,23:47.08,Male
+5K,2022,Greg Montanio,46,24:20.51,Male
+5K,2022,Justino Perez,50,24:38.79,Male
+5K,2022,Chloe Chak,11,24:39.87,Female
+5K,2022,Kristina Reiswig,33,24:44.64,Female
+5K,2022,Hunter Corbitt,22,25:08.21,Male
+5K,2022,Trent Mccann,16,25:16.76,Male
+5K,2022,Gary Barnett,66,25:18.66,Male
+5K,2022,Xander Quest,15,25:22.51,Male
+5K,2022,Stephen Rudnick,50,25:23.69,Male
+5K,2022,Paulo Sanchez,14,25:28.57,Male
+5K,2022,Mario Mayo,24,25:30.31,Male
+5K,2022,Sophia Marchant,19,25:44.08,Female
+5K,2022,Ed Walsh,74,25:48.13,Male
+5K,2022,Xavier Becker,12,25:54.07,Male
+5K,2022,Lorrie Marchant,52,25:54.42,Female
+5K,2022,Roman Mariano,16,25:57.45,Male
+5K,2022,Jeff Henderson,52,25:59.70,Male
+5K,2022,Todd Green,40,26:20.88,Male
+5K,2022,Nichole Torgerson,43,26:21.89,Female
+5K,2022,Calliope Chak,7,26:47.12,Female
+5K,2022,Ethan Stoller,13,26:52.68,Male
+5K,2022,Justin Jacobs,49,27:00.23,Male
+5K,2022,Chris Rivera,51,27:07.54,Male
+5K,2022,Kunlin Tan,25,27:17.27,Male
+5K,2022,Edwin Mercado,46,27:17.88,Male
+5K,2022,Audrey Zaragoza,11,27:20.68,Female
+5K,2022,Alyssa Wristen,33,27:39.27,Female
+5K,2022,Maximilian Tiao,22,27:53.17,Male
+5K,2022,Sergio Monterrosso,50,28:04.25,Male
+5K,2022,Marissa Clawson,28,28:10.39,Female
+5K,2022,Maurice Wroten,45,28:13.34,Male
+5K,2022,Whitney Worthington,33,28:15.98,Female
+5K,2022,Sarah Lawrence,41,28:17.40,Female
+5K,2022,David Stanley,31,28:21.86,Male
+5K,2022,Tom Ford,70,28:27.42,Male
+5K,2022,Aletheia Gibson,13,28:33.64,Female
+5K,2022,Stanford Gibson,47,28:34.74,Male
+5K,2022,Chani Goss,43,28:39.06,Female
+5K,2022,Jacob Louvau,21,28:42.44,Male
+5K,2022,Emily Drake,22,28:43.13,Female
+5K,2022,Jessica Sutherlin,36,28:43.23,Female
+5K,2022,Kohki Kurita,13,28:47.55,Male
+5K,2022,Soila Rios,66,28:48.36,Female
+5K,2022,Elena Adair,42,29:01.35,Female
+5K,2022,Cori Hoffart,35,29:01.59,Female
+5K,2022,Tania Donnelly,58,29:20.28,Female
+5K,2022,Noreen Karim,32,29:52.56,Female
+5K,2022,Crystal Baker,26,30:00.89,Female
+5K,2022,Arturo Medina,14,30:02.51,Male
+5K,2022,Michael Stoller,47,30:08.40,Male
+5K,2022,Michael Davenport,30,30:20.70,Male
+5K,2022,Ulises Ruiz Mendiola,24,30:32.25,Male
+5K,2022,Diana Borchert,17,30:42.37,Female
+5K,2022,Angela Borchert,46,30:42.47,Female
+5K,2022,Edwin Echeverria,41,30:43.19,Male
+5K,2022,Alex Gutierrez,51,30:57.90,Male
+5K,2022,David Alltop,62,31:06.16,Male
+5K,2022,Yeongchan Ko,16,31:09.51,Male
+5K,2022,Max Read-Myers,8,31:19.25,Male
+5K,2022,Heather Mcmillin,59,31:27.20,Female
+5K,2022,Keirsten Taillon,54,31:33.43,Female
+5K,2022,Michael Ryan,39,31:35.38,Male
+5K,2022,Kristen Dowdy,34,31:35.82,Female
+5K,2022,Lisa Mills,50,31:49.37,Female
+5K,2022,Kate Shipp-Roberts,36,31:50.89,Female
+5K,2022,Patricia Conklin,59,31:51.97,Female
+5K,2022,Yeongjun Ko,13,31:58.73,Male
+5K,2022,Renata Sanchez,12,31:59.02,Female
+5K,2022,John Deady,36,32:07.79,Male
+5K,2022,Harrison Taillon,17,32:22.96,Male
+5K,2022,Gabriela Cortez,36,32:30.22,Female
+5K,2022,Jen Boschken,31,32:41.30,Female
+5K,2022,Gannon Duran,9,32:41.54,Male
+5K,2022,Michael Lor,39,32:43.55,Male
+5K,2022,Reginald Daniels,58,32:44.90,Male
+5K,2022,Lisa Burns,57,32:46.94,Female
+5K,2022,Emily Burns,27,32:47.23,Female
+5K,2022,Wayne Frigon,61,33:13.07,Male
+5K,2022,Ismael Cortez,36,33:17.05,Male
+5K,2022,April West,26,33:20.26,Female
+5K,2022,Danny Law,26,33:24.34,Male
+5K,2022,Susan Redford,71,33:37.29,Female
+5K,2022,Mario Pineda,61,33:45.22,Male
+5K,2022,Eden Mercado,20,33:59.20,Female
+5K,2022,Paula O'laughlin,63,34:11.22,Female
+5K,2022,Doug Williams,77,34:20.28,Male
+5K,2022,Yun Ko,10,34:45.97,Female
+5K,2022,Lori Monaco,64,34:46.40,Female
+5K,2022,Nick Mariano,49,34:48.30,Male
+5K,2022,Rosie Mariano,20,34:48.96,Female
+5K,2022,Stacy Schutte,44,34:55.53,Female
+5K,2022,Kerry O'hara,62,34:59.23,Female
+5K,2022,Robert Frigon,34,35:04.39,Male
+5K,2022,Rick Baker,78,35:09.78,Male
+5K,2022,Richard Chadwick,75,35:13.12,Male
+5K,2022,Benjamin Roberts,23,35:20.23,Male
+5K,2022,Rafael Martinez,35,35:23.23,Male
+5K,2022,Katie Medina,19,35:24.28,Female
+5K,2022,Gary Matsumoto,71,35:29.01,Male
+5K,2022,Lily Schneider,12,35:30.05,Female
+5K,2022,Marcus Worthington,34,35:34.59,Male
+5K,2022,Kalina Hatzell,35,35:36.52,Female
+5K,2022,Jose Aguirre,74,35:36.75,Male
+5K,2022,Nicole White,51,35:39.28,Female
+5K,2022,Tony Vang,27,35:51.38,Male
+5K,2022,Clemente Alferez,25,35:53.92,Male
+5K,2022,William Purcell,74,35:55.01,Male
+5K,2022,Carla Doran,58,36:00.66,Female
+5K,2022,Nils Carlson,68,36:16.37,Male
+5K,2022,Lea Cacciato Redfearn,42,36:20.47,No Answer
+5K,2022,Michael Gomez,0,36:22.53,Male
+5K,2022,Alyssa Payton,23,36:23.27,Female
+5K,2022,Margaret Delmore,65,36:35.08,Female
+5K,2022,Alice Ames Jahn,58,36:38.56,Female
+5K,2022,Corinne Stott Schwartz,65,36:40.53,Female
+5K,2022,Robin Carlson,47,36:42.20,Female
+5K,2022,Sonny Lao,35,36:45.63,Male
+5K,2022,Danny Yang,36,36:46.01,Male
+5K,2022,Azeez Flores,5,36:49.46,Male
+5K,2022,Masao Drexel,44,36:49.64,Male
+5K,2022,Michele Reed,53,36:49.80,Female
+5K,2022,Lisa Cappellari,53,37:00.87,Female
+5K,2022,Joseph Schneider,48,37:09.77,Male
+5K,2022,Maria Colon,50,37:12.81,Female
+5K,2022,Cassondra Brayfield,28,37:16.44,Female
+5K,2022,Joshua Downs,14,37:22.15,Male
+5K,2022,Allison Padecky,36,37:34.02,Female
+5K,2022,Cooper Drexel,8,37:37.11,Male
+5K,2022,William Lyon,57,37:53.24,Male
+5K,2022,Tara Lemus,23,38:05.95,Female
+5K,2022,Justine Miller,36,38:14.83,Female
+5K,2022,Jodie Becker,45,38:19.78,Female
+5K,2022,Ella Becker,9,38:20.03,Female
+5K,2022,Maria Echeverria,67,38:23.04,Female
+5K,2022,Steve Mayer,65,38:27.60,Male
+5K,2022,Yuli Landeros,28,38:31.51,Female
+5K,2022,Oliver Izquierdo,2,38:31.95,Male
+5K,2022,Rachel Izquierdo,40,38:32.53,Female
+5K,2022,Meagan Spencer,23,38:34.94,Female
+5K,2022,Michelle Jacobs,49,38:35.12,Female
+5K,2022,Russ Forrester,57,39:00.13,Male
+5K,2022,Jake Forrester,26,39:00.23,Male
+5K,2022,Charles Jafari,15,39:00.69,Male
+5K,2022,Janine Hicks,44,39:02.61,Female
+5K,2022,Magdalena Messbauer,30,39:21.22,Female
+5K,2022,Duane Davis,69,39:24.80,Male
+5K,2022,Leslie Davis,70,39:26.86,Female
+5K,2022,Brian Gleason,51,39:29.78,Male
+5K,2022,Natalia Jafari,11,39:39.81,Female
+5K,2022,Matthew Knutsen,42,39:48.12,Male
+5K,2022,Owen Nguyen,7,39:50.15,Male
+5K,2022,Raychel Walejeski,29,39:54.62,Female
+5K,2022,An Nguyen,47,39:54.63,Male
+5K,2022,Cher Gebhard,52,39:54.82,Female
+5K,2022,Jaime Espinosa,9,39:55.40,Male
+5K,2022,Jaime Espinosa,34,39:56.07,Male
+5K,2022,Debbra Elias,50,40:05.29,Female
+5K,2022,Julia Bursell,69,40:28.03,Female
+5K,2022,Dezhi Yu,31,41:14.01,Male
+5K,2022,Joseph Wood,29,41:14.48,Male
+5K,2022,Nikolai Luu,9,41:21.29,Male
+5K,2022,Elena Fuchs,38,41:22.36,Female
+5K,2022,Alejandra Cervantes,31,41:31.06,Female
+5K,2022,Clarissa Osborn,31,41:31.26,Female
+5K,2022,Lori Corona,45,41:41.62,Female
+5K,2022,Kerri Maya,48,41:41.99,Female
+5K,2022,Anthony Gin,39,41:49.90,Male
+5K,2022,Dallas Chandler,8,41:52.40,Male
+5K,2022,Tilden Tantillo,8,42:11.13,Male
+5K,2022,Jennifer Gin,40,42:15.40,Female
+5K,2022,Judy Shipman,81,42:15.65,Female
+5K,2022,Kimberly Frigon,32,42:17.01,Female
+5K,2022,Selina Wang,42,42:37.90,Female
+5K,2022,Hengjie Wang,31,42:50.36,Female
+5K,2022,Kathy Rudnick,50,42:57.14,Female
+5K,2022,Calyssa Southern,18,43:13.32,Female
+5K,2022,Aboubakar Wandji,35,43:14.11,Male
+5K,2022,Nya Wandji,8,43:15.54,Female
+5K,2022,Victor Ray,52,43:17.39,Male
+5K,2022,Sofia Drexel,10,43:17.51,Female
+5K,2022,Laura Wright,46,43:23.48,Female
+5K,2022,Kim Dean,45,44:01.07,Female
+5K,2022,Roxanna Gomez,49,44:10.65,Female
+5K,2022,Nicole Decena,29,44:11.84,Female
+5K,2022,Michelle Hughes,55,44:16.88,Female
+5K,2022,Lucia Martinez,39,44:17.10,Female
+5K,2022,Paul Flanagan,91,44:21.23,Male
+5K,2022,Killie Yang,41,44:22.55,Male
+5K,2022,Heidi Graber Franchimone,37,44:36.37,Female
+5K,2022,Steve Laney,38,44:36.79,Male
+5K,2022,Brooks Elliott,64,44:38.41,Male
+5K,2022,Jimmy Lor,26,44:42.80,Male
+5K,2022,Anvi Atreja,10,44:48.80,Female
+5K,2022,Louise Echols,67,45:31.28,Female
+5K,2022,Lizbeth Valle,48,45:34.39,Female
+5K,2022,Bob Gill,67,45:34.47,Male
+5K,2022,Eva Mercado,16,45:34.78,Female
+5K,2022,Victoria Jafari,13,45:35.49,Female
+5K,2022,Thomas Gallardo,51,45:37.29,Male
+5K,2022,Joie Nickum,45,45:37.84,Female
+5K,2022,Candice Bersola-Vallejos,36,45:58.54,Female
+5K,2022,Cheryl Charleson,66,46:00.95,Female
+5K,2022,Julie Southern,49,46:18.84,Female
+5K,2022,Maximiliano Espinosa,8,46:21.71,Male
+5K,2022,Sarita Espinosa,33,46:22.81,Female
+5K,2022,Maria Clemencia Hernandez,64,46:27.34,Female
+5K,2022,Natalie Chandler,39,46:53.64,Female
+5K,2022,Spenser Nichols,13,47:01.75,Male
+5K,2022,William Nichols,13,47:01.90,Male
+5K,2022,Ethan Hunter,9,47:43.73,Male
+5K,2022,Rebecca Hunter,41,47:43.97,Female
+5K,2022,Bill Howe,75,47:44.28,Male
+5K,2022,Tristan Kwik,24,47:46.43,Male
+5K,2022,Carol Jaworowski,60,48:30.08,Female
+5K,2022,Morrigan Duran,7,48:36.13,Female
+5K,2022,Andrew Hunter,9,48:38.38,Male
+5K,2022,Will Hunter,39,48:40.69,Male
+5K,2022,Valentina Elliott,9,48:55.43,Female
+5K,2022,Benjamin Knutsen,8,49:13.02,Male
+5K,2022,Josephine Knutsen,42,49:16.71,Female
+5K,2022,Jackie Rourke,22,49:21.23,Female
+5K,2022,Kelly Godwin,43,49:40.29,Female
+5K,2022,Jennifer O'neal-Watts,50,49:43.18,Female
+5K,2022,Blaine Laney,69,49:43.83,Male
+5K,2022,Johnny O'neal-Watts,58,49:43.92,Male
+5K,2022,Brenda Hernandez,38,49:57.53,Female
+5K,2022,Severino Forgach,31,50:41.24,Male
+5K,2022,Gabel Gloria,66,50:42.16,Male
+5K,2022,Raphael Torres,27,50:42.96,Male
+5K,2022,Lady Joy Ann Mercado,47,50:55.53,Female
+5K,2022,Ron Peck,80,51:08.56,Male
+5K,2022,Caleb Downs,10,51:08.72,Male
+5K,2022,Anne Sabater,41,51:15.69,Female
+5K,2022,Nancy Yu,30,51:18.33,Female
+5K,2022,Cynthia Kellogg,81,51:25.71,Female
+5K,2022,Ryleigh Dean,10,51:39.67,Female
+5K,2022,Norah Nguyen,9,51:52.89,Female
+5K,2022,Mai Tran,45,51:54.11,Female
+5K,2022,Linda Hall,79,51:56.34,Female
+5K,2022,Amparo Lemus,62,52:16.91,Female
+5K,2022,Aaron Dean,7,52:38.77,Male
+5K,2022,Eleanor Schneider,62,52:49.59,Female
+5K,2022,Danielle Dorsey,59,52:54.92,Female
+5K,2022,Aaron Salita,34,53:43.74,Male
+5K,2022,Sandy Acuna,52,53:52.82,Female
+5K,2022,Henry Dean,48,54:03.22,Male
+5K,2022,Regina Wright,39,54:03.36,Female
+5K,2022,Therese Chu,43,54:04.82,Female
+5K,2022,Dorothy Kirkland,62,54:14.58,Female
+5K,2022,David Treat,50,54:39.41,Male
+5K,2022,Andrea Treat,45,54:39.96,Female
+5K,2022,Christopher Treat,15,54:40.50,Male
+5K,2022,Christopher Dizon,11,54:46.78,Male
+5K,2022,Amanda Hicks,47,54:50.20,Female
+5K,2022,Wesley Euer,9,54:50.62,Male
+5K,2022,Kathy Hicks,71,54:50.87,Female
+5K,2022,Jennifer Euer,41,54:52.24,Female
+5K,2022,Hayden Dean,8,55:00.78,Male
+5K,2022,Megan Moorhead,41,55:04.99,Female
+5K,2022,Lois Ranftle,72,55:38.87,Female
+5K,2022,Rebecca Watermolen,48,55:40.12,Female
+5K,2022,Alison Olsen,75,55:50.84,Female
+5K,2022,Sara Wandji,41,59:12.41,Female
+5K,2022,Susan Errington,60,1:00:31.41,Female
+5K,2022,Emrys Duran,3,1:00:40.89,Male
+5K,2022,Carol Davis,54,1:00:59.72,Female
+5K,2022,Carmen Nera,67,1:01:00.45,Female
+5K,2022,Dini Caldwell,41,1:01:25.66,Female
+5K,2022,Suzi Howe,76,1:03:20.15,Female
+5K,2022,Charis Gibson,15,1:03:35.10,Female
+5K,2022,Xavier Gibson,11,1:03:39.66,Male
+5K,2022,Latoia Mcfarland,46,1:04:06.47,Female
+5K,2022,Hannah Dizon,6,1:04:12.94,Female
+5K,2022,Mey Dizon,40,1:04:14.77,Female
+5K,2022,Irene Cormane,65,1:04:51.97,Female
+5K,2022,Olive Chang,77,1:04:52.30,Female
+5K,2022,Parker Gin,12,1:05:12.32,Male
+5K,2022,Georgia Baldwin,58,1:06:13.28,Female
+5K,2022,Teresa West,69,1:06:13.66,Female
+5K,2022,Megan West,29,1:06:14.29,Female
+5K,2022,Diane Guild,58,1:09:23.52,Female
+5K,2022,Jackson Guild,4,1:09:27.01,Male
+5K,2022,Matt Guild,33,1:09:27.39,Male
+5K,2022,Sangthilah Yang,38,1:14:51.28,Male
+5K,2022,Tingwei Zhang,30,1:34:49.53,Male
+5K,2022,Josie O'flaherty,88,1:45:22.34,Non-Binary
+5K,2022,Jeff Corbitt,51,Not started,Male
+5K,2022,Shirley Adkins,90,Not started,Female
+5K,2022,Navdip Bhachech,54,Not started,Male
+5K,2022,Christine Caro,59,Not started,Female
+5K,2022,Meagan Chandler,12,Not started,Female
+5K,2022,Barry Cooper,79,Not started,Male
+5K,2022,Bryan Downs,41,Not started,Male
+5K,2022,Kimberly Downs,39,Not started,Female
+5K,2022,Margaret Ervin,65,Not started,Female
+5K,2022,Sheryl Giesbrecht,65,Not started,Female
+5K,2022,Ricky Gjertsen Jr,38,Not started,Male
+5K,2022,Eugene Han,7,Not started,Male
+5K,2022,Jack He,20,Not started,Male
+5K,2022,Lindsay Kara,35,Not started,Female
+5K,2022,Jeeyon Lee,38,Not started,Female
+5K,2022,Andrew Luten,13,Not started,Male
+5K,2022,Christine Morrison,59,Not started,Female
+5K,2022,Andrea Nolasco,32,Not started,Female
+5K,2022,Teresa Olson,54,Not started,Female
+5K,2022,Archal Pratap,20,Not started,Female
+5K,2022,Alexa Pritchard,59,Not started,Female
+5K,2022,Bruno Sanchez,9,Started,Male
+5K,2022,Pete Scully,46,Not started,Male
+5K,2022,Kaneesha Singh,29,Not started,Female
+5K,2022,Taylor Snibbe,28,Not started,Female
+5K,2022,Roo Treat,14,Not started,Male
+5K,2022,Ciera Tsutsui,32,Not started,Female
+5K,2022,Julie Tucker,47,Not started,Female
+5K,2022,John Valdrighi,59,Not started,Male
+5K,2022,Kimberly Wheatley,41,Not started,Female
+5K,2022,Carlie Rae Whiteman,20,Not started,Female
+5K,2022,Denise Wilson,57,Not started,Female
+5K,2022,Jim Wilson,56,Not started,Male
+5K,2022,Jenn Wroten,42,Not started,Female
+5K,2022,Jessica Yang,39,Not started,Female
+5K,2022,Sheila Estaniel,43,0.00,Female
+10K,2022,Felipe Garcia,33,40:33.51,Male
+10K,2022,Nicholas Troppy,26,40:55.78,Male
+10K,2022,Joseph Huang,36,41:55.93,Male
+10K,2022,Arie Bialostozky,21,42:27.61,Male
+10K,2022,Chris Jones,50,42:38.72,Male
+10K,2022,Jenna Calvert,16,43:43.14,Female
+10K,2022,Justin Tenney,32,44:20.89,Male
+10K,2022,Christopher Babel,28,44:47.99,Male
+10K,2022,Jim Farrar,57,44:48.70,Male
+10K,2022,Brian Hawley,39,45:03.50,Male
+10K,2022,Tom Carroll,46,45:05.69,Male
+10K,2022,Demetrio Corraltitlan,56,45:26.15,Male
+10K,2022,John Nichols,57,46:20.69,Male
+10K,2022,John Reid,34,47:36.38,Male
+10K,2022,Jonathan Lederer,48,47:44.31,Male
+10K,2022,Marlon Cuellar,40,47:48.73,Male
+10K,2022,Clifton Forlee,38,48:07.80,Male
+10K,2022,Katie Reece,36,48:18.70,Female
+10K,2022,Erik Bjelke,34,48:24.09,Male
+10K,2022,Shaun Hayes,43,48:28.13,Male
+10K,2022,Alejandro Salazar Hernandez,28,48:33.11,Male
+10K,2022,Michael Walden,62,48:39.69,Male
+10K,2022,Nigel Pedersen,47,48:40.50,Male
+10K,2022,Juana Jung,29,48:44.07,Female
+10K,2022,Greg Donati,62,48:49.07,Male
+10K,2022,Christopher Koelling,55,48:53.82,Male
+10K,2022,Lauren Prince,23,49:17.84,Female
+10K,2022,Andrew Owens,38,50:01.82,Male
+10K,2022,Charles Poutasse,67,50:13.22,Male
+10K,2022,Hudson Shih,24,50:32.54,Male
+10K,2022,Ethan Stonecipher,32,51:16.50,Male
+10K,2022,Skylar Jauregui,26,51:44.27,Female
+10K,2022,Bradley Doucette,32,51:54.90,Male
+10K,2022,Joel Rodriguez-Medina,33,52:00.00,Male
+10K,2022,Archan Vyas,24,52:12.41,Male
+10K,2022,Jeffrey Phang,34,52:13.58,Male
+10K,2022,Jacob Sando,26,52:13.69,Male
+10K,2022,Ann Marie Zenobia,40,52:27.69,Female
+10K,2022,Stacey Rivera,42,52:37.05,Female
+10K,2022,Josh Wood,39,52:43.16,Male
+10K,2022,Daryl Mccririe,38,52:51.36,Male
+10K,2022,Alana Nelson,38,53:11.20,Female
+10K,2022,Daniel Zenobia,40,53:17.95,Male
+10K,2022,Ernest Shimizu,58,53:31.84,Male
+10K,2022,Elise Henderson,15,53:52.48,Female
+10K,2022,Richard Cutler,65,53:58.82,Male
+10K,2022,Timothy Long,37,54:01.82,Male
+10K,2022,Jennifer Harwood,51,54:25.60,Female
+10K,2022,Ken Holt,53,54:27.90,Male
+10K,2022,Melissa Campbell,31,54:54.84,Female
+10K,2022,Paul Spolidoro,57,55:22.16,Male
+10K,2022,Michael Fry,47,55:50.16,Male
+10K,2022,Scott Morris,48,56:01.33,Male
+10K,2022,Erick Lor,23,56:21.33,Male
+10K,2022,Matthew Campbell,36,56:27.41,Male
+10K,2022,Bradford Pillion,43,57:31.38,Male
+10K,2022,Sawyer Koelling,15,57:56.93,Male
+10K,2022,Ann Shuman,66,58:00.77,Female
+10K,2022,Shaun Carroll,38,58:19.56,Male
+10K,2022,Rody Ono,29,58:30.66,Male
+10K,2022,Shannon Mccann,44,58:54.14,Female
+10K,2022,Andrea Mahoney,62,59:06.95,Female
+10K,2022,Carl Garner,33,59:08.65,Male
+10K,2022,Cameron Gaskell,24,59:11.16,Male
+10K,2022,Tim Yeung,51,59:34.88,Male
+10K,2022,Yayoi Whetstone,59,59:40.46,Female
+10K,2022,George Vercelli,63,59:41.29,Male
+10K,2022,Lillian Jones,36,59:53.93,Female
+10K,2022,Jenny Mays,35,1:00:54.58,Female
+10K,2022,Nadav Boskovitz,16,1:01:04.40,Male
+10K,2022,Ryoya Tanahashi,30,1:01:08.65,Male
+10K,2022,Katrina Cook,31,1:01:18.24,Female
+10K,2022,Aarit Atreja,13,1:01:27.84,Male
+10K,2022,Colin Crane-Smith,36,1:01:31.65,Male
+10K,2022,Shawnecee Schneider,38,1:01:48.55,Female
+10K,2022,Ruth Goins,30,1:01:49.98,Female
+10K,2022,Robert Llewellyn,28,1:02:00.56,Male
+10K,2022,Mj Heise,30,1:02:06.50,Female
+10K,2022,Uriel Uribe,26,1:02:10.26,Male
+10K,2022,Abby Hering,25,1:02:11.75,Female
+10K,2022,Hunter Oæbrion,25,1:02:17.17,Male
+10K,2022,Andrea Villanueva,59,1:02:18.10,Female
+10K,2022,Jacob Hale,42,1:02:21.63,Male
+10K,2022,Kristen Nichols,60,1:02:23.77,Female
+10K,2022,Jonathan Jespersen,33,1:02:24.48,Male
+10K,2022,Christopher Kim,52,1:02:42.97,Male
+10K,2022,Lattha Souvannaseng,40,1:02:46.43,Female
+10K,2022,Kylie Heintz,43,1:02:58.96,Female
+10K,2022,Ethan Lu,18,1:03:35.61,Male
+10K,2022,Ashneek Nanua,28,1:03:42.71,Female
+10K,2022,Shu Yu,32,1:03:57.97,Female
+10K,2022,Shelly Lee,22,1:03:58.22,Female
+10K,2022,Timothy Van Natta,60,1:04:11.60,Male
+10K,2022,Abraham Boskovitz,50,1:04:20.88,Male
+10K,2022,Jose Aguilar,65,1:04:30.28,Male
+10K,2022,Julia Croteau,52,1:04:31.91,Female
+10K,2022,Mansha Dubey,24,1:04:56.95,Female
+10K,2022,Brandon Gehrig,39,1:05:10.40,Male
+10K,2022,Nicole Stephanie Osorio,25,1:06:58.03,Female
+10K,2022,Clifford Benzel,74,1:07:27.00,Male
+10K,2022,Cindy Tessier,69,1:07:27.16,Female
+10K,2022,John Carroll,64,1:07:56.26,Male
+10K,2022,Bruce Fisher,75,1:08:28.09,Male
+10K,2022,Evan Gage,51,1:08:29.25,Male
+10K,2022,Dorothy Hoang,29,1:08:44.36,Female
+10K,2022,James Reede,28,1:08:45.38,Male
+10K,2022,Stacy Davidson,34,1:09:03.50,Female
+10K,2022,Jessica Wong,21,1:09:33.42,Female
+10K,2022,Kevin Bickerton,44,1:09:35.34,Male
+10K,2022,Tony Cohn,44,1:09:54.36,Male
+10K,2022,David Kornsand,45,1:09:57.22,Male
+10K,2022,Bingwei Wang,23,1:09:59.94,Male
+10K,2022,Ryan Maguire,47,1:10:27.66,Male
+10K,2022,Jay Stewart,42,1:10:27.79,Male
+10K,2022,Lisa Geibel-Finn,57,1:10:50.02,Female
+10K,2022,Amanda Gibson,47,1:11:05.50,Female
+10K,2022,Alex Kermani,31,1:11:18.70,Male
+10K,2022,Dakota Jackson,25,1:12:18.46,Female
+10K,2022,Shubhankar Raykar,27,1:13:42.76,Male
+10K,2022,Cristian Camarena,32,1:13:48.60,Male
+10K,2022,Marcia Morrison,74,1:14:02.46,Female
+10K,2022,Nydia Gonzalez,31,1:14:07.15,Female
+10K,2022,Shi Bai,23,1:14:09.35,Male
+10K,2022,Jaimina Schulz,58,1:14:31.87,Female
+10K,2022,Aj Davidson,36,1:14:37.70,Male
+10K,2022,Mary Northup,66,1:15:05.34,Female
+10K,2022,Ryan Doctor,35,1:15:20.82,Male
+10K,2022,Marlene Amador,30,1:15:21.01,Female
+10K,2022,Erin Brantley,44,1:16:08.54,Female
+10K,2022,Yer Thao,39,1:16:37.24,Female
+10K,2022,Anna Luong,39,1:16:52.71,Female
+10K,2022,Kim Fenske,52,1:16:55.20,Female
+10K,2022,Karla Dougherty,48,1:17:09.10,Female
+10K,2022,Alison Van Eenennaam,58,1:18:10.18,Female
+10K,2022,Dori Vasquez,48,1:18:13.42,Female
+10K,2022,Alena Hansen,32,1:18:15.15,Female
+10K,2022,Edna Lau,65,1:18:28.99,Female
+10K,2022,Frisby Smith,62,1:18:47.18,Male
+10K,2022,Renee Verducci,41,1:19:12.25,Female
+10K,2022,Allan Salita,38,1:19:40.68,Male
+10K,2022,Kristofer Zanardelli,43,1:19:42.65,Male
+10K,2022,Charis Vigil,39,1:19:51.06,Female
+10K,2022,Mariza Kermani,31,1:19:57.86,Female
+10K,2022,Joshua Morris,45,1:20:07.84,Male
+10K,2022,John (Spirit Fingers) Hudson,52,1:20:16.76,Male
+10K,2022,Varun Gore,23,1:20:30.63,Male
+10K,2022,Jeff Olson,62,1:20:49.84,Male
+10K,2022,Pam Trudell,65,1:21:25.07,Female
+10K,2022,Jeff Corbitt,51,1:22:31.20,Male
+10K,2022,Matthew Crome,47,1:24:10.79,Male
+10K,2022,Joshua Littell,49,1:24:34.99,Male
+10K,2022,Teri Wong,18,1:25:02.47,Female
+10K,2022,Linda S Clark,81,1:28:55.20,Female
+10K,2022,Christina Pang,30,1:29:39.62,Female
+10K,2022,Renvelyn Grey,78,1:30:21.57,Female
+10K,2022,Shilo Cortes,59,1:32:14.05,Female
+10K,2022,Maria Aguilar,61,1:32:16.19,Female
+10K,2022,Lesley Liladevi Householder,50,1:33:15.65,Female
+10K,2022,Liwenan Li,23,1:46:56.70,Female
+10K,2022,Sarah Heuckeroth,30,1:48:48.92,Female
+10K,2022,Lorna Gill,67,1:54:31.10,Female
+10K,2022,Rita Lundin,66,1:54:36.84,Female
+10K,2022,Dianne Stassi,63,1:54:37.12,Female
+10K,2022,Anna Bowler,31,2:05:47.93,Female
+10K,2022,Justin Jacobs,49,Not started,Male
+10K,2022,Michelle Jacobs,49,Not started,Female
+10K,2022,Richard Chadwick,75,Not started,Male
+10K,2022,Shea Mcadams,34,Not started,Male
+10K,2022,Aaron Ford,31,Not started,Male
+10K,2022,Sheila Estaniel,43,Not started,Female
+10K,2022,Nancy Arkelian,65,Not started,Female
+10K,2022,Tanya Barreto,50,Not started,Female
+10K,2022,Madeline Brattesani,73,Not started,Female
+10K,2022,Chelsea Breckenridge,45,Not started,Female
+10K,2022,Brigette Bucke,56,Not started,Female
+10K,2022,Walter Bullock,65,Not started,Male
+10K,2022,Madison Connelly,24,Not started,Female
+10K,2022,Thu Doan,45,Not started,Female
+10K,2022,Ken Eckey,52,Not started,Male
+10K,2022,Sharlet Gilbert,71,Not started,Female
+10K,2022,Albert Hwang,43,Not started,Male
+10K,2022,Nicole Hwang,39,Not started,Female
+10K,2022,Michelle Kazeminejad,34,Not started,Female
+10K,2022,Brandon Kline,38,DQ,Male
+10K,2022,Greg Montanio,46,Not started,Male
+10K,2022,Marnie Musser,62,Not started,Female
+10K,2022,Eleonora Napoli,51,Not started,Female
+10K,2022,Jeff Olsen,64,Not started,Male
+10K,2022,Lynne Olsen,54,Not started,Female
+10K,2022,Amanda Price,27,Not started,Non-Binary
+10K,2022,John Rasey,54,Not started,Male
+10K,2022,Lianne Vicchio,32,Not started,Female
+10K,2022,Carol Wong,57,Started,Female
+10K,2022,Derraugh Dawson,62,Not started,Female
+5K,2019,Raymond Rodriguez,57,00:17:46.93,Male
+5K,2019,Claire Nieuwenhuis,29,00:20:07.98,Female
+5K,2019,Richard King,49,00:20:15.73,Male
+5K,2019,Elijah Barao,39,00:20:37.70,Male
+5K,2019,Emily Castles,15,00:20:37.72,Female
+5K,2019,Cynthia Morales,27,00:20:41.20,Female
+5K,2019,Grant Garrison,45,00:20:50.04,Male
+5K,2019,Martin Luu,36,00:20:58.06,Male
+5K,2019,Greg Mandler,56,00:21:04.23,Male
+5K,2019,Marjorie Longo,53,00:21:13.29,Female
+5K,2019,Dan Coyle,60,00:22:28.99,Male
+5K,2019,Charles Anderson,50,00:22:48.19,Male
+5K,2019,Mary Ann Smith,46,00:22:51.91,Female
+5K,2019,Michael Neuenburg,53,00:22:58.66,Male
+5K,2019,Joachim Schnier,66,00:23:14.79,Male
+5K,2019,Peter Friederich,66,00:23:26.71,Male
+5K,2019,Ed Walsh,71,00:23:29.96,Male
+5K,2019,Michael Erazo,35,00:23:31.51,Male
+5K,2019,Jeff Henderson,49,00:23:47.68,Male
+5K,2019,Aaron Ford,28,00:23:50.00,Male
+5K,2019,Sewon Chun,38,00:23:57.24,Male
+5K,2019,David Sundin,49,00:23:58.46,Male
+5K,2019,Vincent Cendejas,32,00:24:00.40,Male
+5K,2019,Owen Fernandes,14,00:24:05.94,Male
+5K,2019,Jefferson Wright,12,00:24:17.69,Male
+5K,2019,Matt Knapp,35,00:24:20.84,Male
+5K,2019,Nathan Hines,30,00:24:24.83,Male
+5K,2019,Mark Ho,48,00:24:55.00,Male
+5K,2019,Dalila Rodriguez,48,00:24:55.52,Female
+5K,2019,John Cutler,12,00:25:00.78,Male
+5K,2019,Richard Cutler,62,00:25:01.76,Male
+5K,2019,Holly Doremus,59,00:25:04.85,Female
+5K,2019,William Haas,59,00:25:05.20,Male
+5K,2019,Margie Schmidt,52,00:25:13.95,Female
+5K,2019,Charles Smith,35,00:25:14.76,Male
+5K,2019,Jocelyn Rodriguez,16,00:25:16.69,Female
+5K,2019,Domonic Perez,16,00:25:16.71,Male
+5K,2019,Todd Grames,58,00:25:33.52,Male
+5K,2019,Toni Salvitti,25,00:25:37.24,Female
+5K,2019,Jess Koehne,27,00:25:37.40,Female
+5K,2019,Lindsay Frost,35,00:25:41.60,Female
+5K,2019,Victoria Bianda,39,00:25:45.95,Female
+5K,2019,Sam Siegel,36,00:25:49.23,Female
+5K,2019,Murray Siegel,7,00:25:49.78,Male
+5K,2019,Alan Jones,47,00:25:51.08,Male
+5K,2019,Vi Pham,47,00:25:58.31,Female
+5K,2019,Aaron Letinsky,31,00:26:02.49,Male
+5K,2019,Margaret Tom,30,00:26:21.60,Female
+5K,2019,Jason Layland,44,00:26:25.99,Male
+5K,2019,Emily Olavarri,42,00:26:36.97,Female
+5K,2019,Sarah Nichols,42,00:26:47.96,Female
+5K,2019,Tom Ford,67,00:26:55.35,Male
+5K,2019,Soila Rios,63,00:26:59.22,Female
+5K,2019,Fernando Garcia,13,00:27:16.32,Male
+5K,2019,Sanjai Parikh,42,00:27:23.58,Male
+5K,2019,Patricia Conklin,56,00:27:39.91,Female
+5K,2019,David Hubbell,36,00:27:40.16,Male
+5K,2019,Ben Geerts,57,00:27:46.40,Male
+5K,2019,Nopmanee Taechangam,32,00:27:46.51,Female
+5K,2019,James Frazier,52,00:27:48.09,Male
+5K,2019,Stephen Bowers,47,00:27:55.55,Male
+5K,2019,Wally Hesseltine,76,00:28:01.41,Male
+5K,2019,John Valdrighi,56,00:28:07.88,Male
+5K,2019,Lori Monaco,61,00:28:16.25,Female
+5K,2019,Michael Ryan,36,00:28:16.79,Male
+5K,2019,Donna Lairmore,62,00:28:33.58,Female
+5K,2019,Richard Harkless,50,00:28:43.61,Male
+5K,2019,Tania Donnelly,55,00:28:49.30,Female
+5K,2019,Claire Norris,36,00:29:01.21,Female
+5K,2019,Patricia Galindo,36,00:29:08.00,Female
+5K,2019,Catherine Crump,41,00:29:09.57,Female
+5K,2019,Andrew Zajicek,36,00:29:09.96,Male
+5K,2019,Jen Boschken,28,00:29:13.51,Female
+5K,2019,Amanda Bowers,20,00:29:27.80,Female
+5K,2019,Kora Bitcon,64,00:29:29.80,Female
+5K,2019,Gabriella Moghadam,28,00:29:31.12,Female
+5K,2019,Kat Gamber,48,00:29:42.44,Female
+5K,2019,Leah Weidinger,31,00:29:49.50,Female
+5K,2019,Freddie Vaziri,48,00:29:58.49,Male
+5K,2019,Charlie Pollock,15,00:30:15.65,Male
+5K,2019,Kristin Jerome,28,00:31:04.09,Female
+5K,2019,Maggie Marcotte,37,00:31:06.50,Female
+5K,2019,Matthew Belz,36,00:31:07.87,Male
+5K,2019,Buzz Boschken,75,00:31:10.26,Male
+5K,2019,Michael O'haver,74,00:31:17.29,Male
+5K,2019,Debbie Geerts,57,00:31:29.27,Female
+5K,2019,Joshua Downs,11,00:31:47.99,Male
+5K,2019,Vi Ha,33,00:31:57.11,Female
+5K,2019,Brooks Elliott,61,00:32:12.22,Male
+5K,2019,Judy Callis,64,00:32:15.68,Female
+5K,2019,Conner Mckemie,13,00:32:18.09,Male
+5K,2019,Laurel Raleigh-Klimowicz,40,00:32:18.50,Female
+5K,2019,Amanda Avakian,42,00:32:19.00,Female
+5K,2019,Lynne Olsen,51,00:32:19.18,Female
+5K,2019,Tiffany Huynh,48,00:32:23.69,Female
+5K,2019,Josh Mcewen,30,00:32:25.09,Male
+5K,2019,Donita Escamilla,45,00:32:28.48,Female
+5K,2019,Alexandra Potter,29,00:32:40.45,Female
+5K,2019,Greg Lohse,35,00:32:52.21,Male
+5K,2019,Carl Prutch,59,00:32:52.52,Male
+5K,2019,Ricky Gjertsen Jr.,35,00:32:53.70,Male
+5K,2019,Dianna Barsotti,63,00:33:37.43,Female
+5K,2019,Scott White,46,00:33:48.69,Male
+5K,2019,Ezra Cortez,15,00:34:07.34,Male
+5K,2019,Tommy Thach,32,00:34:12.26,Male
+5K,2019,Merlin James,19,00:34:14.15,Male
+5K,2019,Ramon Hernandez,56,00:34:14.96,Male
+5K,2019,Roman Mariano,13,00:34:15.67,Male
+5K,2019,Melissa Padaca,46,00:34:18.38,Female
+5K,2019,Shawna Rickard,42,00:34:18.82,Female
+5K,2019,Linda Davis,40,00:34:26.57,Female
+5K,2019,Jonathan Villavert,38,00:34:27.21,Male
+5K,2019,Tammy Hogan,55,00:34:49.30,Female
+5K,2019,Leslie Davis,67,00:34:55.74,Female
+5K,2019,Duane Davis,66,00:34:55.75,Male
+5K,2019,Nathan Sorenson,60,00:35:23.31,Male
+5K,2019,Bill Howe,72,00:35:23.36,Male
+5K,2019,Olivier Auclair,67,00:35:28.26,Male
+5K,2019,Nathaniel Pollock,11,00:35:35.07,Male
+5K,2019,Ben Mccoy,78,00:35:45.54,Male
+5K,2019,Tom Isaacs,56,00:35:51.46,Male
+5K,2019,Cynthia Neuenburg,53,00:36:10.57,Female
+5K,2019,Dorothy Kirkland,59,00:36:11.20,Female
+5K,2019,Joel Cortez,57,00:36:17.84,Male
+5K,2019,Robert Hassanali,48,00:36:23.99,Male
+5K,2019,Ryan Sumida,49,00:36:31.65,Male
+5K,2019,Jenny Shu,47,00:36:32.31,Female
+5K,2019,Rosie Mariano,17,00:36:42.36,Female
+5K,2019,Nick Mariano,46,00:36:43.39,Male
+5K,2019,Martin Tenette,49,00:36:48.25,Male
+5K,2019,Steve Laney,35,00:37:07.38,Male
+5K,2019,Jackie Oda,51,00:37:21.39,Female
+5K,2019,Tracy Yarbrough,45,00:37:22.87,Female
+5K,2019,Patti Lowe-Stevenson,65,00:37:36.14,Female
+5K,2019,Jeff Olsen,61,00:37:55.37,Male
+5K,2019,Kelly Froman,35,00:38:02.37,Female
+5K,2019,Kathy Matsumoto,61,00:38:12.20,Female
+5K,2019,Gary Matsumoto,68,00:38:13.00,Male
+5K,2019,Beth Stein,56,00:38:13.33,Female
+5K,2019,Deborah Boersma,60,00:38:14.52,Female
+5K,2019,Paul Lewis,45,00:38:17.48,Male
+5K,2019,Susann Pinter,55,00:38:38.56,Female
+5K,2019,Gail Tateyama,44,00:38:54.31,Female
+5K,2019,Brianne Zanardelli,40,00:39:15.19,Female
+5K,2019,Augustine Tapia,40,00:39:15.46,Male
+5K,2019,Percival De La Rosa,42,00:39:17.16,Male
+5K,2019,Glen Grim,59,00:39:25.53,Male
+5K,2019,David Kalb,65,00:39:27.52,Male
+5K,2019,Kristin Olson,41,00:39:30.79,Female
+5K,2019,Blaine Laney,66,00:39:40.10,Male
+5K,2019,Stephanie Carlstrom,44,00:39:42.17,Female
+5K,2019,Kelia Carbin,20,00:39:51.08,Female
+5K,2019,Sean Campbell,53,00:40:03.89,Male
+5K,2019,Shannon File,34,00:40:04.10,Female
+5K,2019,Lisa Romero,47,00:40:21.29,Female
+5K,2019,Dilpreet Singh,37,00:40:21.67,Male
+5K,2019,Stephanie Dvorak,54,00:40:31.59,Female
+5K,2019,Bonnie Slusarz,67,00:40:39.65,Female
+5K,2019,Elizabeth Stotler-Turner,35,00:40:42.58,Female
+5K,2019,Lisa Berriz,53,00:40:45.14,Female
+5K,2019,Colton Gojkovich,9,00:41:12.63,Male
+5K,2019,Jessica Gojkovich,30,00:41:12.81,Female
+5K,2019,Cynthia Kellogg,78,00:41:23.68,Female
+5K,2019,Cheryl Charleson,63,00:41:26.41,Female
+5K,2019,Susanna Cutler,9,00:42:07.70,Female
+5K,2019,Elizabeth Henson,40,00:42:08.86,Female
+5K,2019,Robin Rainwater,41,00:42:08.92,Female
+5K,2019,Norman Stoldt,77,00:42:16.40,Male
+5K,2019,Amber Layland,44,00:42:52.67,Female
+5K,2019,Joseph Lucas,38,00:43:03.80,Male
+5K,2019,Sarah Heuckeroth,27,00:43:07.79,Female
+5K,2019,Ron Peck,77,00:43:13.10,Male
+5K,2019,Clark Adams,73,00:43:21.16,Male
+5K,2019,Gina Saxton,51,00:43:48.75,Female
+5K,2019,Michael Clark,50,00:44:14.56,Male
+5K,2019,Stacy Clark,48,00:44:14.81,Female
+5K,2019,Sherri Goss,50,00:44:19.32,Female
+5K,2019,Carol Davis,51,00:44:24.26,Female
+5K,2019,Jason Medina,45,00:44:34.00,Male
+5K,2019,Jennifer O'neal-Watts,47,00:44:38.50,Female
+5K,2019,Evan Eickmeyer,51,00:44:42.50,Male
+5K,2019,David C Bailey,73,00:44:49.86,Male
+5K,2019,Kristine De Guzman,46,00:46:13.34,Female
+5K,2019,Katrina Panganiban,25,00:46:14.19,Female
+5K,2019,Johnny O'neal-Watts,55,00:46:38.91,Male
+5K,2019,Teresa Olson,51,00:46:39.11,Female
+5K,2019,Daljit Singh,72,00:46:40.40,Male
+5K,2019,Lee Britton,62,00:46:43.62,Male
+5K,2019,Pauline Walker,62,00:46:50.72,Female
+5K,2019,Grandma Meow,63,00:47:21.01,Female
+5K,2019,Marjorie Britton,56,00:47:44.64,Female
+5K,2019,Lois Standley,59,00:47:58.15,Female
+5K,2019,Carlos Munoz,62,00:48:04.43,Male
+5K,2019,Jackalyn Munoz,26,00:48:05.44,Female
+5K,2019,Caraine Leon Guerrero,46,00:48:12.65,Female
+5K,2019,Geneil Muhammad,48,00:48:13.30,Female
+5K,2019,Katie Kelly,21,00:48:33.22,Female
+5K,2019,Jamie Brown,25,00:48:34.84,Male
+5K,2019,Jamie Brown,49,00:48:35.83,Male
+5K,2019,"Richard Barna, Senior",63,00:48:55.39,Male
+5K,2019,Laurie Holm,70,00:49:08.42,Female
+5K,2019,Shirley Adkins,87,00:49:09.20,Female
+5K,2019,Megan Moorhead,38,00:49:36.02,Female
+5K,2019,Donna Hessling,72,00:49:39.93,Female
+5K,2019,Carolyn Chang,50,00:49:49.03,Female
+5K,2019,Calyssa Southern,15,00:50:01.76,Female
+5K,2019,Nicole Ivy-Kutzler,44,00:50:06.48,Female
+5K,2019,Danny Spadaro,12,00:50:09.13,Male
+5K,2019,Michelle Hughes,52,00:50:11.42,Female
+5K,2019,Tracy Wickenhoefer,55,00:50:23.11,Female
+5K,2019,Barbara Reynolds,73,00:50:33.97,Female
+5K,2019,Heather Reynolds,44,00:50:34.85,Female
+5K,2019,Donald Celerio,51,00:50:56.33,Male
+5K,2019,Kimberly Procida,27,00:51:06.65,Female
+5K,2019,Maria Celerio,38,00:51:07.54,Female
+5K,2019,Kiersten Brown,21,00:51:29.97,Female
+5K,2019,Amanda Hicks,44,00:51:47.35,Female
+5K,2019,Benny Azevedo,63,00:51:53.53,Male
+5K,2019,Diane Thomas,74,00:52:25.94,Female
+5K,2019,Lauri Massey,75,00:52:27.35,Female
+5K,2019,Linda Herrera,64,00:52:41.95,Female
+5K,2019,Danielle Dorsey,56,00:52:54.85,Female
+5K,2019,Daniel Ingram,36,00:53:13.84,Male
+5K,2019,Albert Patrick,79,00:53:14.83,Male
+5K,2019,Stella Ingram,1,00:53:16.21,Female
+5K,2019,Stephanie Ingram,36,00:53:21.57,Female
+5K,2019,Janice Bissell,60,00:53:25.54,Female
+5K,2019,Michael Berriz,58,00:53:41.34,Male
+5K,2019,Deanna Magee,50,00:53:58.91,Female
+5K,2019,Margaret Smith,51,00:53:59.23,Female
+5K,2019,Bailey Smith,15,00:53:59.34,Female
+5K,2019,Stacy Smith,42,00:53:59.46,Female
+5K,2019,Larry Ferguson,65,00:54:03.45,Male
+5K,2019,Roxanne Ferguson,63,00:54:03.74,Female
+5K,2019,Lynn Hesseltine,74,00:54:14.54,Female
+5K,2019,Stu Kinney,79,00:54:17.09,Male
+5K,2019,Cindy Auclair,65,00:54:26.24,Female
+5K,2019,Cindy Lewis,61,00:55:18.84,Female
+5K,2019,Nancy Ryder,83,00:55:19.18,Female
+5K,2019,Christine Brown,48,00:55:41.85,Female
+5K,2019,Ron Kelly,62,00:55:47.70,Male
+5K,2019,Susan Kelly,59,00:55:48.16,Female
+5K,2019,Spenser Nichols,10,00:56:36.59,Male
+5K,2019,William Nichols,10,00:56:37.20,Male
+5K,2019,Susan Metzger,72,00:58:22.65,Female
+5K,2019,Christine Caro,56,01:03:34.53,Female
+5K,2019,Lesta Chavier,72,01:03:34.62,Female
+5K,2019,Connie Huyser,62,01:03:48.19,Female
+5K,2019,Eddie Armijo,18,DQ,Male
+5K,2019,Samantha Barstow,47,Not started,Female
+5K,2019,Gabrielle Burgess,22,Not started,Female
+5K,2019,Andrew Coleman,40,Not started,Male
+5K,2019,Craig Compton,45,Not started,Male
+5K,2019,Tess Compton,46,Not started,Female
+5K,2019,Marc Diab,77,Not started,Male
+5K,2019,Cloren Edwards,62,Not started,Male
+5K,2019,Paul Flanagan,88,Not started,Male
+5K,2019,Nancy Gelbard,66,Not started,Female
+5K,2019,Maria Hernandez,54,Not started,Female
+5K,2019,Savannah Ingram,3,Not started,Female
+5K,2019,Kaitlin Jeuris,19,Not started,Female
+5K,2019,Stacey Jeuris,54,Not started,Female
+5K,2019,Margaret Jones,37,Not started,Female
+5K,2019,Punita Juneja,37,Not started,Female
+5K,2019,Bethany Kuhn,23,Not started,Female
+5K,2019,Ryan Kuhn,23,Not started,Male
+5K,2019,Heidi Labudde,45,Not started,Female
+5K,2019,Yen Thanh Luu,31,Not started,Female
+5K,2019,Katherine Murray,47,Not started,Female
+5K,2019,Samar Muzaffar,45,Not started,Female
+5K,2019,Michelle Orrock,45,Not started,Female
+5K,2019,William Palmer,32,Not started,Male
+5K,2019,Marcia Rackusin,69,Not started,Female
+5K,2019,Cherie Sanborn,45,Not started,Female
+5K,2019,Joanne Snapp,38,Not started,Female
+5K,2019,Sonia Varela,44,Started,Female
+5K,2019,Brandon Vernoy,20,Not started,Male
+5K,2019,Mark Vernoy,56,Not started,Male
+5K,2019,Alex Vukasinovic,37,Not started,Male
+5K,2019,Harper Vukasinovic,6,Not started,Female
+5K,2019,Isaac Vukasinovic,3,Not started,Male
+5K,2019,Laura Vukasinovic,36,Not started,Female
+5K,2019,Jen Weil,34,Not started,Female
+5K,2019,Matthew Weil,34,Not started,Male
+5K,2019,Barbara Zimmer,65,Not started,Female
+10K,2019,Ryan Waddington,28,00:32:29.11,Male
+10K,2019,Blake Fonda,22,00:35:02.42,Male
+10K,2019,John Kretschmann,23,00:37:21.56,Male
+10K,2019,Erik Bost,45,00:40:33.07,Male
+10K,2019,James Mccanne,40,00:40:59.95,Male
+10K,2019,John Nichols,54,00:41:08.79,Male
+10K,2019,Andrew Liu,34,00:41:15.96,Male
+10K,2019,Zac Rosenbaum,23,00:42:20.22,Male
+10K,2019,Nancy Rashid,47,00:43:06.28,Female
+10K,2019,Olof Bystrom,50,00:43:28.62,Male
+10K,2019,Frank Anders,46,00:43:57.32,Male
+10K,2019,Pieter De Somer,33,00:45:47.11,Male
+10K,2019,Nicholas Pinter,55,00:46:20.04,Male
+10K,2019,Chris Fluetsch,48,00:46:53.01,Male
+10K,2019,Austin Donnelly,21,00:47:14.50,Male
+10K,2019,Ted Standley,63,00:47:57.95,Male
+10K,2019,Noel Castellanos,40,00:48:07.92,Male
+10K,2019,Josh Wood,36,00:48:11.32,Male
+10K,2019,Mike Moffat,55,00:48:16.87,Male
+10K,2019,Dijon Walker,36,00:48:37.18,Male
+10K,2019,Terry Anderson,45,00:49:11.45,Female
+10K,2019,Brendan Price,32,00:49:12.92,Male
+10K,2019,Lynn Delgado,52,00:49:20.80,Female
+10K,2019,Daniel Cheung,32,00:49:34.49,Male
+10K,2019,Minh-Tri Dang,43,00:49:39.64,Male
+10K,2019,Christopher Koelling,52,00:49:51.91,Male
+10K,2019,Michael Walden,59,00:50:10.28,Male
+10K,2019,Lianne Vicchio,29,00:50:51.23,Female
+10K,2019,Valerie Park,57,00:51:09.79,Female
+10K,2019,Paul Smith,53,00:51:17.71,Male
+10K,2019,Dan Mckemie,48,00:51:23.04,Male
+10K,2019,Logan Mckemie,12,00:51:23.66,Male
+10K,2019,Jennifer Harwood,48,00:51:35.73,Female
+10K,2019,Sophia Young,37,00:51:47.83,Female
+10K,2019,Benjamin Stein,56,00:52:31.15,Male
+10K,2019,Brian Porter,39,00:52:32.58,Male
+10K,2019,Bruno Debus,32,00:52:41.43,Male
+10K,2019,Brandon Kline,38,00:52:49.04,Male
+10K,2019,Sharlet Gilbert,68,00:52:51.13,Female
+10K,2019,Glen Turley,39,00:53:01.49,Male
+10K,2019,Kyree Joppy,23,00:53:04.32,Male
+10K,2019,Emma Fox,49,00:53:12.79,Female
+10K,2019,James Fox,51,00:53:13.01,Male
+10K,2019,Eardley Scheffer,60,00:53:22.73,Male
+10K,2019,Beth Nixon,47,00:53:26.68,Female
+10K,2019,Sean Birdwell,30,00:53:40.65,Male
+10K,2019,Kristofer Zanardelli,40,00:53:42.28,Male
+10K,2019,Elizabeth Miller,45,00:53:51.59,Female
+10K,2019,Ernest Shimizu,55,00:53:55.79,Male
+10K,2019,Jon Daniells,60,00:54:39.93,Male
+10K,2019,Thomas Lee,52,00:54:46.06,Male
+10K,2019,Blake Cooper,39,00:55:15.63,Male
+10K,2019,Pablo Mogollon,50,00:56:17.61,Male
+10K,2019,Anna Chrissanthis,51,00:56:25.19,Female
+10K,2019,Bruce Fisher,72,00:56:44.53,Male
+10K,2019,Amy Mathison,37,00:56:49.67,Female
+10K,2019,Gary Kamei,57,00:57:01.33,Male
+10K,2019,Brent Woodcock,47,00:57:05.99,Male
+10K,2019,Steve Minervini,58,00:57:07.63,Male
+10K,2019,Carolina Roberts,46,00:57:11.66,Female
+10K,2019,Karl Kaess,36,00:57:33.64,Male
+10K,2019,David Alltop,59,00:57:41.61,Male
+10K,2019,Andrea Villanueva,56,00:57:47.26,Female
+10K,2019,Karla Dougherty,45,00:58:09.81,Female
+10K,2019,Don Hagen,71,00:58:30.46,Male
+10K,2019,Cammy Rieger,44,00:58:41.05,Female
+10K,2019,Troy Azzivitto,50,00:58:47.88,Male
+10K,2019,Nichole Torgerson,40,00:58:51.88,Female
+10K,2019,Teresa Bowers,44,00:59:00.72,Female
+10K,2019,Jennifer Remington,61,00:59:05.19,Female
+10K,2019,Lisa Geibel-Finn,54,00:59:06.32,Female
+10K,2019,Gary Campbell,64,00:59:07.66,Male
+10K,2019,Betty Ma,39,00:59:13.19,Female
+10K,2019,Dori Freitas,49,00:59:27.75,Female
+10K,2019,Anwar Idriss,31,00:59:29.66,Male
+10K,2019,Benjamin Chew,55,00:59:40.07,Male
+10K,2019,Hannah Melhorn,24,00:59:56.29,Female
+10K,2019,Frank Mcnally,57,01:00:57.38,Male
+10K,2019,Ann Shuman,63,01:00:59.17,Female
+10K,2019,Julia Croteau,49,01:00:59.24,Female
+10K,2019,Brooke Herrgesell,54,01:00:59.85,Female
+10K,2019,Susan Redford,68,01:01:15.65,Female
+10K,2019,Yayoi Whetstone,56,01:01:27.68,Female
+10K,2019,Kathryn Woodward,37,01:01:31.12,Female
+10K,2019,Jeremy Woodward,34,01:01:31.30,Male
+10K,2019,Walter Bullock,62,01:01:38.90,Male
+10K,2019,Aaron Farnon,12,01:01:55.22,Female
+10K,2019,Julien Bec,39,01:01:55.24,Male
+10K,2019,Axel Bec,7,01:01:57.04,Male
+10K,2019,Aaron Farnon,46,01:01:57.55,Male
+10K,2019,Emilie Roncali,38,01:01:57.96,Female
+10K,2019,Eleonora Napoli,48,01:02:10.58,Female
+10K,2019,Alexandra Green,25,01:02:14.91,Female
+10K,2019,Julie Kotowski,52,01:02:39.81,Female
+10K,2019,John Hudson,49,01:03:23.55,Male
+10K,2019,Jeff Olson,59,01:03:23.69,Male
+10K,2019,Joey Rana,36,01:03:28.54,Male
+10K,2019,Katrina Birdwell,35,01:04:56.88,Female
+10K,2019,Vigdis Asmundson,41,01:04:59.01,Female
+10K,2019,Camila Andaluz,30,01:04:59.83,Female
+10K,2019,Bri Anne Hudock,14,01:05:00.24,Female
+10K,2019,Megan Ransdell,30,01:05:00.27,Female
+10K,2019,Ashley Contreras,31,01:05:01.11,Female
+10K,2019,Jaimina Schulz,55,01:05:07.72,Female
+10K,2019,Becky Sheehan,47,01:05:10.42,Female
+10K,2019,Maria Lara-Rodriguez,42,01:05:47.24,Female
+10K,2019,Joshua Collver-Horvath,39,01:06:04.62,Male
+10K,2019,Jason Mccoy,43,01:06:05.50,Male
+10K,2019,Jodi Mickens,45,01:06:08.14,Female
+10K,2019,Pete Hirsig,46,01:06:49.35,Male
+10K,2019,Chad Carlock,48,01:07:01.11,Male
+10K,2019,Jackie Venus,57,01:07:12.83,Female
+10K,2019,Terry Dvorak,73,01:07:29.11,Male
+10K,2019,Roxanne Mitchell,29,01:07:47.23,Female
+10K,2019,Kara Jenkins,41,01:08:03.03,Female
+10K,2019,Nicole Cederquist,26,01:08:03.42,Female
+10K,2019,Nicole White,48,01:08:16.15,Female
+10K,2019,Marc Hudock,44,01:08:27.25,Male
+10K,2019,Richard Chadwick,72,01:08:34.07,Male
+10K,2019,James Kotowski,60,01:08:42.54,Male
+10K,2019,Catherine Nishikawa,49,01:08:55.34,Female
+10K,2019,Wilhelmina Chon,32,01:08:59.49,Female
+10K,2019,Hudson Freitas,12,01:09:02.57,Male
+10K,2019,Nina Stewart,28,01:09:19.13,Female
+10K,2019,Tanya Barreto,47,01:09:20.37,Female
+10K,2019,Margaret Delmore,62,01:09:41.95,Female
+10K,2019,Rongkui Han,25,01:10:13.61,Female
+10K,2019,Sarah Cook,31,01:10:32.39,Female
+10K,2019,Colleen Meyer,32,01:10:49.80,Female
+10K,2019,Michelle Buckley,49,01:10:51.55,Female
+10K,2019,Jennifer Desideri,42,01:10:53.44,Female
+10K,2019,Marissa Franke,24,01:11:01.99,Female
+10K,2019,Marcia Morrison,71,01:11:09.47,Female
+10K,2019,Clifford Benzel,71,01:11:10.36,Male
+10K,2019,Hector Gomez,29,01:11:14.68,Male
+10K,2019,Amy Kienzle,38,01:11:21.97,Female
+10K,2019,Tiffany King,31,01:11:25.86,Female
+10K,2019,Jonathan Kendrick,38,01:12:19.57,Male
+10K,2019,Rosa De Solis,37,01:13:19.85,Female
+10K,2019,Aaron Farnon,14,01:13:27.36,Female
+10K,2019,Aaron Farnon,10,01:13:29.68,Male
+10K,2019,Edren Santander,39,01:13:32.35,Male
+10K,2019,Anh-Vu Pham,47,01:13:38.81,Male
+10K,2019,Martin Raygoza,54,01:14:38.29,Male
+10K,2019,Tynikka Houston,46,01:14:39.95,Female
+10K,2019,Lori Webber,52,01:14:40.77,Female
+10K,2019,Bethany Wittren,34,01:15:01.14,Female
+10K,2019,Steven Wittren,33,01:15:01.19,Male
+10K,2019,Erin Kelly,27,01:16:13.35,Female
+10K,2019,Samnit Singh,12,01:16:24.00,Male
+10K,2019,Shabnam Saggi,38,01:16:25.44,Female
+10K,2019,Genetha Gray,48,01:18:03.33,Female
+10K,2019,Tami Dokter,51,01:18:29.30,Female
+10K,2019,Debi Seifert,49,01:18:30.69,Female
+10K,2019,Renvelyn Grey,75,01:19:16.60,Female
+10K,2019,Dianne Cohn,71,01:19:24.83,Female
+10K,2019,Patty Kang,71,01:19:58.74,Female
+10K,2019,Marie Gonzales,58,01:20:30.79,Female
+10K,2019,Alan Riquelmy,43,01:20:54.10,Male
+10K,2019,Sonya Sorich,37,01:20:55.00,Female
+10K,2019,Margaret Ervin,62,01:21:53.17,Female
+10K,2019,Marcie Hudock,45,01:22:33.10,Female
+10K,2019,Joe Baldi,21,01:24:06.20,Male
+10K,2019,Jeanne Poarch,54,01:24:06.45,Female
+10K,2019,Ron Poarch,57,01:24:07.47,Male
+10K,2019,Gabel Gloria,63,01:24:42.61,Male
+10K,2019,James Robertson,60,01:25:28.82,Male
+10K,2019,Marilyn Harper,61,01:28:02.34,Female
+10K,2019,Pius Kamber,69,01:28:19.73,Male
+10K,2019,Nancy Mandler,64,01:29:05.51,Female
+10K,2019,Paul Harper,43,01:29:39.90,Male
+10K,2019,Carmen Nera,64,01:30:07.90,Female
+10K,2019,Crista Corbett,46,01:38:20.00,Female
+10K,2019,Alyssa Alvarez,39,01:42:32.76,Female
+10K,2019,Julie Southern,46,01:42:38.34,Female
+10K,2019,Tom Fones,65,01:50:16.51,Male
+10K,2019,Genises Abe,28,Not started,Female
+10K,2019,Jennifer Bullen,25,Not started,Female
+10K,2019,Eva Cheng,35,Not started,Female
+10K,2019,Claudia Crist,46,Not started,Female
+10K,2019,Danielle Davis,33,Not started,Female
+10K,2019,Claris Diaz,36,Not started,Female
+10K,2019,Hannah Dunham,32,Not started,Female
+10K,2019,Rachel Feldman,31,Not started,Female
+10K,2019,Kyle Fletcher,31,Not started,Male
+10K,2019,Simas Januskevicius,26,Not started,Male
+10K,2019,Gursimrat Kaur,36,Not started,Female
+10K,2019,Julie Sauer,28,Not started,Female
+10K,2019,Corinne Stott Schwartz,62,Not started,Female
+10K,2019,Sarah Watson,42,Not started,Female
+10K,2019,Owen Yancher,21,Not started,Male
+5K,2018,Bennett,17,00:16:16.630,Male
+5K,2018,Nolan,21,00:16:42.217,Male
+5K,2018,Raymond,56,00:18:37.337,Male
+5K,2018,Luis,30,00:18:53.710,Male
+5K,2018,Allie,30,00:19:37.527,Female
+5K,2018,Allison,16,00:20:50.013,Female
+5K,2018,Martin,35,00:21:31.007,Male
+5K,2018,Brieanna,16,00:21:35.847,Female
+5K,2018,Ted,55,00:21:36.187,Male
+5K,2018,Luke,25,00:21:37.067,Male
+5K,2018,Lance,59,00:21:43.580,Male
+5K,2018,Jessica,33,00:21:50.657,Female
+5K,2018,Steve,60,00:21:59.007,Male
+5K,2018,Grant,44,00:22:00.093,Male
+5K,2018,Matt,33,00:22:11.967,Male
+5K,2018,Edward,48,00:22:18.453,Male
+5K,2018,Jackson,14,00:22:31.000,Male
+5K,2018,Tom,28,00:22:32.303,Male
+5K,2018,Dan,59,00:22:33.040,Male
+5K,2018,David,25,00:22:36.287,Male
+5K,2018,Matthew,48,00:22:44.597,Male
+5K,2018,Mary Ann,45,00:22:50.923,Female
+5K,2018,Dan,56,00:22:52.107,Male
+5K,2018,Cristobal J.,35,00:22:54.420,Male
+5K,2018,Robert,52,00:23:01.307,Male
+5K,2018,Craig,44,00:23:27.133,Male
+5K,2018,Owen,20,00:24:00.303,Male
+5K,2018,Peter,65,00:24:03.400,Male
+5K,2018,Zina,53,00:24:03.530,Female
+5K,2018,Robert,38,00:24:05.037,Male
+5K,2018,Richard,61,00:24:13.453,Male
+5K,2018,Joe,65,00:24:23.087,Male
+5K,2018,Derek,24,00:24:29.490,Male
+5K,2018,Verna,46,00:24:35.047,Female
+5K,2018,Brigida,46,00:24:40.460,Female
+5K,2018,Mark,55,00:24:43.850,Male
+5K,2018,Matt,62,00:24:43.910,Male
+5K,2018,Dan,47,00:25:20.593,Male
+5K,2018,Jennifer,49,00:25:21.167,Female
+5K,2018,Dalila,47,00:25:22.443,Female
+5K,2018,Coleman,12,00:25:26.090,Male
+5K,2018,Logan,11,00:25:26.703,Male
+5K,2018,Charles,49,00:25:27.517,Male
+5K,2018,Gib,60,00:25:39.523,Male
+5K,2018,Tess,45,00:25:41.353,Female
+5K,2018,Hunter,13,00:25:57.540,Male
+5K,2018,Siobhan,41,00:26:02.480,Female
+5K,2018,William,58,00:26:25.970,Male
+5K,2018,Malcolm,16,00:26:47.027,Male
+5K,2018,David,41,00:26:49.277,Male
+5K,2018,Marisa,20,00:26:49.373,Female
+5K,2018,David,48,00:26:58.223,Male
+5K,2018,Janet,64,00:27:21.043,Female
+5K,2018,Justin,37,00:27:21.217,Male
+5K,2018,Jeremy,42,00:27:24.610,Male
+5K,2018,Tingrui,40,00:27:26.610,Male
+5K,2018,Lori,60,00:27:37.417,Female
+5K,2018,Allison,57,00:27:40.137,Female
+5K,2018,Tania,54,00:27:41.323,Female
+5K,2018,Walter,70,00:27:47.583,Male
+5K,2018,Greg,51,00:27:50.560,Male
+5K,2018,James,51,00:27:59.610,Male
+5K,2018,Kiley,43,00:27:59.730,Male
+5K,2018,Nikolas,9,00:28:05.403,Male
+5K,2018,Sabrina,46,00:28:09.080,Female
+5K,2018,Jessica,39,00:28:11.200,Female
+5K,2018,Freddie,47,00:28:14.010,Male
+5K,2018,Yayoi,55,00:28:14.960,Female
+5K,2018,John,11,00:28:17.037,Male
+5K,2018,Megan,40,00:28:23.183,Female
+5K,2018,Corie,51,00:28:25.703,Female
+5K,2018,Shannon,37,00:28:33.043,Female
+5K,2018,Lucy,29,00:28:37.663,Female
+5K,2018,Anna,30,00:28:38.380,Female
+5K,2018,Maya,11,00:28:40.147,Female
+5K,2018,Scott,61,00:28:50.840,Male
+5K,2018,Rick,66,00:28:55.323,Male
+5K,2018,Jennifer,35,00:29:10.220,Female
+5K,2018,Steve,37,00:29:18.157,Male
+5K,2018,Tiffany,33,00:29:19.243,Female
+5K,2018,Amy,26,00:29:28.433,Female
+5K,2018,Betty,66,00:29:40.470,Female
+5K,2018,Hannah,24,00:29:46.100,Female
+5K,2018,Timothy,56,00:29:48.533,Male
+5K,2018,Claudia,55,00:29:49.067,Female
+5K,2018,Barbro,44,00:29:54.017,Female
+5K,2018,Hannah,23,00:29:54.590,Female
+5K,2018,Ejnar,49,00:30:00.277,Male
+5K,2018,Tabatha,43,00:30:00.787,Female
+5K,2018,Cloren,61,00:30:08.793,Male
+5K,2018,Andra,38,00:30:13.000,Female
+5K,2018,Cathy,56,00:30:13.487,Female
+5K,2018,Carolyn,59,00:30:17.603,Female
+5K,2018,Chip,59,00:30:18.243,Male
+5K,2018,Annmarie,61,00:30:21.940,Female
+5K,2018,Stephanie,31,00:30:25.817,Female
+5K,2018,Anissa,41,00:30:29.830,Female
+5K,2018,Lorelei,8,00:30:29.873,Female
+5K,2018,Monica,34,00:30:32.997,Female
+5K,2018,Brooks,60,00:30:38.303,Male
+5K,2018,Edward,36,00:30:39.197,Male
+5K,2018,Butch,72,00:30:44.317,Male
+5K,2018,Benjamin,24,00:30:46.040,Male
+5K,2018,Ben,39,00:30:46.740,Male
+5K,2018,Jodi,44,00:30:49.207,Female
+5K,2018,Cynthia,52,00:30:54.343,Female
+5K,2018,Jennifer,55,00:30:57.513,Female
+5K,2018,Marissa,35,00:31:02.840,Female
+5K,2018,Malia,11,00:31:14.907,Female
+5K,2018,Fei,38,00:31:30.617,Female
+5K,2018,Venkata Phaniven Anand,28,00:31:32.713,Male
+5K,2018,Talli,47,00:31:33.067,Female
+5K,2018,Tamara,35,00:31:49.670,Female
+5K,2018,Andre,39,00:31:52.613,Male
+5K,2018,Jaime,33,00:31:58.043,Female
+5K,2018,Jen,27,00:32:04.797,Female
+5K,2018,Morgan,26,00:32:06.787,Female
+5K,2018,Gary,63,00:32:15.980,Male
+5K,2018,Laura,24,00:32:22.320,Female
+5K,2018,Buzz,74,00:32:29.500,Male
+5K,2018,Kate,42,00:32:35.657,Female
+5K,2018,Jae,48,00:32:40.050,Female
+5K,2018,Adam,11,00:32:42.140,Male
+5K,2018,Chaeny,43,00:32:42.550,Male
+5K,2018,Alex,14,00:32:47.553,Male
+5K,2018,Matt,24,00:32:47.943,Male
+5K,2018,Paul,87,00:32:51.300,Male
+5K,2018,Charlie,14,00:32:53.697,Male
+5K,2018,Dalila,28,00:32:56.313,Female
+5K,2018,Scott,40,00:32:57.107,Male
+5K,2018,Araceli,44,00:33:03.043,Female
+5K,2018,Ramon,55,00:33:05.477,Male
+5K,2018,Sarah,31,00:33:14.713,Female
+5K,2018,Saurit,34,00:33:25.287,Male
+5K,2018,Christine,60,00:33:30.613,Female
+5K,2018,Lisa,36,00:33:41.093,Female
+5K,2018,Dianna,62,00:33:41.497,Female
+5K,2018,Amy,48,00:33:41.687,Female
+5K,2018,Jessica,33,00:34:00.870,Female
+5K,2018,Patricia,35,00:34:14.457,Female
+5K,2018,Lynnise,34,00:34:20.247,Female
+5K,2018,Lisa,55,00:34:25.303,Female
+5K,2018,Joel,56,00:34:26.283,Male
+5K,2018,Lori,46,00:34:39.660,Female
+5K,2018,Nathaniel,10,00:34:40.070,Male
+5K,2018,Melanie,55,00:34:41.557,Female
+5K,2018,Sylvia,54,00:34:52.103,Female
+5K,2018,Albert,60,00:34:56.480,Male
+5K,2018,Lisa,55,00:34:57.197,Female
+5K,2018,Stephanie,32,00:34:58.537,Female
+5K,2018,Serra,50,00:35:27.250,Female
+5K,2018,Ben,77,00:35:47.980,Male
+5K,2018,James,10,00:36:07.057,Male
+5K,2018,Seth,40,00:36:07.603,Male
+5K,2018,Sheila,33,00:36:32.617,Female
+5K,2018,Becky,46,00:36:42.810,Female
+5K,2018,Glen,58,00:36:57.270,Male
+5K,2018,Koa,5,00:37:13.470,Male
+5K,2018,Shawn,39,00:37:14.150,Male
+5K,2018,Steven,46,00:37:16.007,Male
+5K,2018,Shiva Kumar,31,00:37:19.733,Male
+5K,2018,Rosie,16,00:37:25.980,Female
+5K,2018,Frank,52,00:37:29.383,Male
+5K,2018,Craig,58,00:37:38.397,Male
+5K,2018,Todd,50,00:37:49.317,Male
+5K,2018,Isaac,2,00:37:50.710,Male
+5K,2018,Laura,35,00:37:51.723,Female
+5K,2018,Harper,5,00:37:53.797,Female
+5K,2018,Charles,57,00:37:53.910,Male
+5K,2018,Roanan,10,00:38:06.253,Male
+5K,2018,Chaiyuth,74,00:38:07.057,Male
+5K,2018,Andrew,49,00:38:07.067,Male
+5K,2018,Katherine,12,00:38:08.340,Female
+5K,2018,Michelle,49,00:38:08.413,Female
+5K,2018,Amanda,17,00:38:08.690,Female
+5K,2018,Margot,51,00:38:09.310,Female
+5K,2018,Alandrea,35,00:38:14.220,Female
+5K,2018,Sean,52,00:38:28.140,Male
+5K,2018,Olivia,26,00:38:40.887,Female
+5K,2018,Kiel,35,00:38:40.980,Male
+5K,2018,Sarah,28,00:38:50.240,Female
+5K,2018,Sarah,42,00:38:56.053,Female
+5K,2018,Cheryl,62,00:39:00.367,Female
+5K,2018,Linda,75,00:39:06.257,Female
+5K,2018,Carissa,37,00:39:06.883,Female
+5K,2018,Linda,38,00:39:12.903,Female
+5K,2018,Katrina,18,00:39:26.017,Female
+5K,2018,Bich Mai,51,00:39:26.263,Female
+5K,2018,Blaine,65,00:39:36.407,Male
+5K,2018,Lucas,36,00:39:43.493,Male
+5K,2018,Linda,58,00:39:43.593,Female
+5K,2018,Lori,41,00:39:45.253,Female
+5K,2018,Bronwyn,37,00:40:01.173,Female
+5K,2018,Gary,67,00:40:01.813,Male
+5K,2018,Kathy,60,00:40:02.303,Female
+5K,2018,Jane,71,00:40:06.837,Female
+5K,2018,Lucia,22,00:40:16.903,Female
+5K,2018,Kearston,33,00:40:33.080,Female
+5K,2018,Ezra,14,00:40:34.347,Male
+5K,2018,Preston,11,00:40:37.350,Male
+5K,2018,Frisby,58,00:40:37.967,Male
+5K,2018,Bonnie,66,00:40:46.520,Female
+5K,2018,Tammy,56,00:40:48.950,Female
+5K,2018,Steve,49,00:40:58.080,Male
+5K,2018,Liam,10,00:41:18.643,Male
+5K,2018,David,42,00:41:23.017,Male
+5K,2018,Rosilynn,34,00:41:25.307,Female
+5K,2018,Haley,21,00:41:29.297,Female
+5K,2018,Susanna,8,00:41:29.880,Female
+5K,2018,Cassie,43,00:41:35.120,Female
+5K,2018,Sarahmichelle,23,00:41:35.557,Female
+5K,2018,Tracy,40,00:42:11.873,Female
+5K,2018,Roman,12,00:42:21.343,Male
+5K,2018,Nick,45,00:42:21.633,Male
+5K,2018,Christina,58,00:42:29.793,Female
+5K,2018,Christine,50,00:43:56.560,Female
+5K,2018,Megan,37,00:44:11.703,Female
+5K,2018,Sarah,62,00:44:29.280,Female
+5K,2018,David C,72,00:44:35.803,Male
+5K,2018,Cynthia,77,00:44:37.597,Female
+5K,2018,Alison,71,00:44:40.347,Female
+5K,2018,Louise,58,00:44:52.497,Female
+5K,2018,Jackalyn,25,00:45:28.800,Female
+5K,2018,Carlos,61,00:45:28.983,Male
+5K,2018,Joanne,56,00:45:41.853,Female
+5K,2018,M,36,00:45:48.313,Female
+5K,2018,Scott,71,00:45:51.820,Male
+5K,2018,Diana,70,00:46:06.750,Female
+5K,2018,Alice,5,00:46:23.700,Female
+5K,2018,Soohyun,39,00:46:24.460,Female
+5K,2018,Liz,60,00:47:08.277,Female
+5K,2018,Steve,34,00:47:10.270,Male
+5K,2018,Shirley Trinidad,61,00:47:26.273,Female
+5K,2018,Angela,31,00:47:28.387,Female
+5K,2018,Marcia,68,00:47:37.317,Female
+5K,2018,Jennifer,49,00:47:56.293,Female
+5K,2018,Lee,61,00:48:20.877,Male
+5K,2018,Marjorie,55,00:48:22.113,Female
+5K,2018,Lucy,12,00:48:36.753,Female
+5K,2018,Kelly,52,00:48:38.267,Female
+5K,2018,Debbie,51,00:48:39.463,Female
+5K,2018,E,36,00:49:02.740,Male
+5K,2018,Juliet,7,00:49:07.867,Female
+5K,2018,Mike,68,00:49:52.330,Male
+5K,2018,Stephanie,29,00:49:55.507,Female
+5K,2018,Mike,30,00:49:57.277,Male
+5K,2018,Wendy,47,00:50:05.683,Female
+5K,2018,Joann,52,00:50:07.917,Female
+5K,2018,Suzanne,50,00:50:12.857,Female
+5K,2018,Megan,36,00:50:13.323,Female
+5K,2018,Chris,57,00:50:13.467,Male
+5K,2018,Cindy,51,00:50:13.827,Female
+5K,2018,Kathy,29,00:50:15.213,Female
+5K,2018,Eleanor,7,00:51:19.060,Female
+5K,2018,Andre,33,00:51:19.243,Male
+5K,2018,Grandma,62,00:51:30.947,Female
+5K,2018,Charles,34,00:51:38.123,Male
+5K,2018,Christopher,48,00:51:42.327,Male
+5K,2018,Burch,53,00:51:43.897,Male
+5K,2018,Jay,40,00:52:08.287,Male
+5K,2018,Sheila,64,00:52:28.587,Female
+5K,2018,Olivia,5,00:52:47.583,Female
+5K,2018,Louisa,33,00:52:50.627,Female
+5K,2018,Ana Marie,49,00:52:59.393,Female
+5K,2018,Heather,50,00:53:00.273,Female
+5K,2018,Latoia,42,00:53:11.830,Female
+5K,2018,Dini,37,00:53:12.257,Female
+5K,2018,Edwyna,68,00:53:13.003,Female
+5K,2018,Andrea,51,00:54:07.830,Female
+5K,2018,Nina,62,00:54:23.797,Female
+5K,2018,Nadene,68,00:54:24.233,Female
+5K,2018,Jennifer,41,00:54:25.700,Female
+5K,2018,Nicole,43,00:54:31.750,Female
+5K,2018,Venkata Deepthi,26,00:54:58.593,Female
+5K,2018,Shirley,86,00:55:19.230,Female
+5K,2018,Laurie,69,00:55:23.093,Female
+5K,2018,Sheryl,61,00:55:25.770,Female
+5K,2018,Janelle,38,00:56:03.083,Female
+5K,2018,Susan,71,00:56:03.947,Female
+5K,2018,Stacy,47,00:56:30.120,Female
+5K,2018,Pamela,62,00:56:30.537,Female
+5K,2018,Martin,55,00:56:45.923,Male
+5K,2018,Becky,34,00:57:31.170,Female
+5K,2018,Vanessa,36,00:57:41.933,Female
+5K,2018,Lesta,71,00:58:53.337,Female
+5K,2018,Diane,73,01:00:56.180,Female
+5K,2018,Lauri,74,01:00:57.030,Female
+5K,2018,Jim,67,01:00:58.373,Male
+5K,2018,Karen,67,01:02:54.820,Female
+5K,2018,Deanna,33,01:03:08.023,Female
+5K,2018,Connie,61,01:03:16.123,Female
+5K,2018,Robert,72,01:03:54.670,Male
+5K,2018,Ginny,64,01:03:55.840,Female
+5K,2018,Cynthia,55,01:03:56.643,Female
+5K,2018,Sandra,50,01:04:02.843,Female
+5K,2018,Stu,78,Not started,Male
+5K,2018,Tonia,46,Not started,Female
+5K,2018,Vicky,60,Not started,Female
+5K,2018,Brandon,28,Not started,Male
+5K,2018,Abigail,62,Not started,Female
+5K,2018,Rick,74,Not started,Male
+5K,2018,Amy,42,Not started,Female
+5K,2018,Beau,11,Not started,Male
+5K,2018,Alicia,50,Not started,Female
+5K,2018,Alandrea,35,Not started,Female
+5K,2018,Susan,56,Not started,Female
+5K,2018,Ruth,24,Not started,Female
+10K,2018,Tommy,34,00:33:39.587,Male
+10K,2018,Joseph,32,00:39:35.553,Male
+10K,2018,Mike,59,00:40:55.750,Male
+10K,2018,Michael,52,00:40:58.363,Male
+10K,2018,Jason,40,00:41:10.313,Male
+10K,2018,Cameron,20,00:41:17.773,Male
+10K,2018,David,35,00:42:11.400,Male
+10K,2018,Noli,36,00:43:09.267,Male
+10K,2018,Mark,50,00:43:21.187,Male
+10K,2018,Frank,45,00:43:27.453,Male
+10K,2018,Tracy,39,00:43:49.293,Female
+10K,2018,Melissa,20,00:44:43.633,Female
+10K,2018,Jonathan,49,00:45:14.680,Male
+10K,2018,Austin,20,00:45:32.233,Male
+10K,2018,Patricia,41,00:45:34.343,Female
+10K,2018,Haley,19,00:46:10.920,Female
+10K,2018,Jacob,27,00:46:12.327,Male
+10K,2018,Terry,41,00:46:18.813,Male
+10K,2018,Bradley,37,00:46:24.553,Male
+10K,2018,Terry,44,00:46:37.113,Female
+10K,2018,Pieter,32,00:47:25.077,Male
+10K,2018,Lisa,42,00:47:32.590,Female
+10K,2018,Nellie,16,00:47:33.573,Female
+10K,2018,Aryn,33,00:47:37.787,Female
+10K,2018,Tony,57,00:47:40.643,Male
+10K,2018,Zoe,14,00:48:01.267,Female
+10K,2018,Cameron,61,00:48:09.597,Male
+10K,2018,Connie,60,00:48:29.630,Female
+10K,2018,Jeff,48,00:48:50.667,Male
+10K,2018,Noel,39,00:49:02.727,Male
+10K,2018,Michael,58,00:49:04.547,Male
+10K,2018,Daphne,38,00:49:04.700,Female
+10K,2018,Robert,70,00:49:05.903,Male
+10K,2018,Brendan,31,00:49:32.313,Male
+10K,2018,Madison,16,00:49:46.897,Female
+10K,2018,Jennifer,47,00:49:51.773,Female
+10K,2018,Bruno,31,00:49:58.290,Male
+10K,2018,Alison,36,00:50:12.850,Female
+10K,2018,Michael,43,00:50:13.733,Male
+10K,2018,Michael,50,00:50:32.857,Male
+10K,2018,Bill,58,00:50:36.587,Male
+10K,2018,Brandon,37,00:51:08.543,Male
+10K,2018,Laura,24,00:51:09.473,Female
+10K,2018,James,50,00:51:11.367,Male
+10K,2018,Young,52,00:51:27.557,Male
+10K,2018,Simon,37,00:51:27.707,Male
+10K,2018,Thomas,51,00:51:31.527,Male
+10K,2018,Gerry,55,00:52:03.953,Male
+10K,2018,Kelly,26,00:52:29.590,Female
+10K,2018,Kirk,49,00:52:32.543,Male
+10K,2018,Alex,30,00:52:37.710,Male
+10K,2018,John,66,00:52:57.587,Male
+10K,2018,Laura,28,00:52:57.610,Female
+10K,2018,Shannon,42,00:52:58.567,Male
+10K,2018,Gary,56,00:53:09.113,Male
+10K,2018,Will,36,00:53:10.990,Male
+10K,2018,Kyle,0,00:53:12.800,Unknown
+10K,2018,Steven,51,00:53:14.710,Male
+10K,2018,Asvi,44,00:53:27.693,Female
+10K,2018,Troy,49,00:53:35.540,Male
+10K,2018,Bruce,71,00:53:38.180,Male
+10K,2018,Elizabeth,48,00:53:46.983,Female
+10K,2018,Jefferson,11,00:53:52.833,Male
+10K,2018,Gerard,52,00:54:00.247,Male
+10K,2018,Skylar,22,00:54:28.063,Female
+10K,2018,Neal,8,00:54:30.707,Male
+10K,2018,Rachel,43,00:54:32.083,Female
+10K,2018,Gregory,50,00:54:38.717,Male
+10K,2018,Juan,55,00:54:41.877,Male
+10K,2018,Ali,40,00:54:49.627,Female
+10K,2018,Devon,29,00:54:57.300,Female
+10K,2018,Ernest,54,00:55:04.350,Male
+10K,2018,Rebecca,30,00:55:04.793,Female
+10K,2018,Lisa,53,00:55:21.193,Female
+10K,2018,Jihye,34,00:56:01.770,Female
+10K,2018,Blake,38,00:56:13.203,Male
+10K,2018,Patti,64,00:56:14.767,Female
+10K,2018,Frank,56,00:56:27.660,Male
+10K,2018,Agnieszka,40,00:56:27.983,Female
+10K,2018,Beth,46,00:56:29.367,Female
+10K,2018,Greg,48,00:56:41.817,Male
+10K,2018,Edward,58,00:56:58.787,Male
+10K,2018,Anne,44,00:57:05.780,Female
+10K,2018,Margaret,29,00:57:15.073,Female
+10K,2018,Stephen,63,00:57:20.820,Male
+10K,2018,Megan,35,00:57:46.523,Female
+10K,2018,Barry,75,00:57:50.813,Male
+10K,2018,Don,70,00:58:33.240,Male
+10K,2018,Ann,62,00:58:35.027,Female
+10K,2018,Michael,58,00:58:52.797,Male
+10K,2018,Nicole,18,00:58:52.887,Female
+10K,2018,Hannah,20,00:59:02.567,Female
+10K,2018,Caitlin,37,00:59:07.577,Female
+10K,2018,Christy,38,00:59:08.023,Female
+10K,2018,Michael,37,00:59:09.500,Male
+10K,2018,Brian,53,00:59:16.840,Male
+10K,2018,Linda,64,00:59:25.897,Female
+10K,2018,Kari,37,00:59:39.597,Female
+10K,2018,Mela,29,00:59:43.543,Female
+10K,2018,Jennifer,60,00:59:45.690,Female
+10K,2018,Sierra,21,00:59:49.927,Female
+10K,2018,Nichole,39,01:00:13.333,Female
+10K,2018,Julie,27,01:00:19.570,Female
+10K,2018,Gabriella,51,01:00:48.110,Female
+10K,2018,Randy,49,01:01:27.980,Male
+10K,2018,Douglas,48,01:01:55.447,Male
+10K,2018,Laura,47,01:01:57.743,Female
+10K,2018,Jennifer,41,01:02:08.700,Female
+10K,2018,Lauren,27,01:02:27.830,Female
+10K,2018,Katherine,52,01:02:42.973,Female
+10K,2018,Tommy,31,01:02:44.403,Male
+10K,2018,Jeff,58,01:02:44.760,Male
+10K,2018,Jose,70,01:02:44.843,Male
+10K,2018,Lauren,24,01:03:02.460,Female
+10K,2018,Jackie,56,01:03:13.990,Female
+10K,2018,Emma,48,01:03:28.960,Female
+10K,2018,James,50,01:03:29.147,Male
+10K,2018,Norma,59,01:03:39.193,Female
+10K,2018,Lauri,56,01:03:51.703,Female
+10K,2018,Nicholas,41,01:04:23.893,Male
+10K,2018,Grace,36,01:04:30.003,Female
+10K,2018,Nicole,47,01:05:05.743,Female
+10K,2018,Robin,43,01:05:16.597,Female
+10K,2018,Lucas,25,01:05:16.733,Male
+10K,2018,Jeffrey,32,01:05:45.717,Male
+10K,2018,Tracy,55,01:05:47.717,Female
+10K,2018,Betty,38,01:05:57.847,Female
+10K,2018,Chad,47,01:06:40.827,Male
+10K,2018,Alex,25,01:07:05.080,Male
+10K,2018,Tina,43,01:07:13.087,Female
+10K,2018,Jim,46,01:07:13.493,Male
+10K,2018,Carolina,45,01:07:18.850,Female
+10K,2018,Lisa,44,01:07:34.013,Female
+10K,2018,Karen,36,01:08:05.567,Female
+10K,2018,Sandeep,38,01:08:16.853,Male
+10K,2018,Cameron,36,01:08:17.390,Male
+10K,2018,Taemi,49,01:08:29.850,Female
+10K,2018,Leslie,66,01:08:46.543,Female
+10K,2018,Duane,65,01:08:47.103,Male
+10K,2018,Thomas,65,01:09:14.197,Male
+10K,2018,Susan,69,01:09:21.617,Female
+10K,2018,Andrea,27,01:09:24.987,Female
+10K,2018,Andrea,41,01:09:38.053,Female
+10K,2018,Anne,65,01:10:00.097,Female
+10K,2018,Derraugh,58,01:11:08.737,Female
+10K,2018,Tiffany,30,01:11:13.283,Female
+10K,2018,Allen,78,01:12:09.007,Male
+10K,2018,Julia,48,01:12:25.880,Female
+10K,2018,Diane,59,01:12:38.190,Female
+10K,2018,Genetha,47,01:12:44.543,Female
+10K,2018,Brandy,39,01:13:09.350,Female
+10K,2018,Carmen,51,01:13:38.177,Female
+10K,2018,Patrice,54,01:14:12.717,Female
+10K,2018,Brittany,31,01:14:15.303,Female
+10K,2018,Beata,54,01:14:40.533,Female
+10K,2018,Lien,33,01:14:46.603,Female
+10K,2018,Barbara,64,01:15:05.703,Female
+10K,2018,Kathy,51,01:15:11.960,Female
+10K,2018,Kimo,64,01:15:52.613,Male
+10K,2018,Terry,55,01:16:30.637,Male
+10K,2018,Laura,52,01:16:30.843,Female
+10K,2018,Ann,58,01:16:55.717,Female
+10K,2018,Patty,70,01:17:11.077,Female
+10K,2018,Nancy,63,01:17:42.707,Female
+10K,2018,Renvelyn,74,01:21:55.367,Female
+10K,2018,Bill,41,01:23:52.623,Male
+10K,2018,Nora,30,01:24:30.457,Female
+10K,2018,Hank,53,01:25:53.210,Male
+10K,2018,Jeannie,48,01:27:02.310,Female
+10K,2018,Lori,47,01:27:52.130,Female
+10K,2018,Jennifer,48,01:27:52.453,Female
+10K,2018,Robyn,40,01:28:02.347,Female
+10K,2018,Lawrence,60,01:28:26.623,Male
+10K,2018,Amanda,34,01:32:00.057,Female
+10K,2018,Alena,28,01:40:34.900,Female
+10K,2018,Ken,49,01:42:37.350,Male
+10K,2018,Clark,72,01:43:36.043,Male
+10K,2018,Calyssa,14,01:46:05.610,Female
+10K,2018,Julie,45,01:46:41.043,Female
+10K,2018,Dong,47,Not started,Male
+10K,2018,Arnold,71,Not started,Male
+10K,2018,Linda,67,Not started,Female
+10K,2018,Karla,44,Not started,Female
+10K,2018,Anna,74,Not started,Female
+10K,2018,Pius,68,Not started,Male
+10K,2018,Tanya,46,Not started,Female
+10K,2018,Eleonora,47,Not started,Female
+10K,2018,Kim,47,Not started,Female
+10K,2018,Mike,49,Not started,Male
+10K,2018,Alex,23,Not started,Male
+10K,2018,Alexander,24,Not started,Male
+10K,2018,Shelbi,21,Not started,Female
+10K,2018,Helen,40,Not started,Female
+10K,2018,Jessica,36,Not started,Female
+10K,2018,Howard,36,Not started,Male
+10K,2018,Sallie,40,Not started,Female
+10K,2018,Praveen,36,Not started,Male
+10K,2018,Pete,60,Not started,Male
+10K,2018,Dan,19,Not started,Male
+10K,2018,Tiffanie,28,Not started,Female
+10K,2018,Cayden,17,Not started,Female
+5K,2017,Stephen,47,00:18:54.847,Male
+5K,2017,Michael,26,00:19:29.603,Male
+5K,2017,Isaac,23,00:19:43.693,Male
+5K,2017,Ned,43,00:19:56.990,Male
+5K,2017,Peter,41,00:20:10.530,Male
+5K,2017,Jaxin,15,00:20:21.287,Female
+5K,2017,Luke,14,00:20:42.240,Male
+5K,2017,Paul,40,00:21:10.407,Male
+5K,2017,J.R.,51,00:21:36.347,Male
+5K,2017,Charles,48,00:21:37.480,Male
+5K,2017,Alex,25,00:22:32.577,Male
+5K,2017,Louise,29,00:22:59.750,Female
+5K,2017,Rose,25,00:23:04.353,Female
+5K,2017,Terry,43,00:23:06.423,Female
+5K,2017,Dan,58,00:23:11.560,Male
+5K,2017,Mchael,45,00:23:34.980,Male
+5K,2017,Josilynn,27,00:23:43.467,Female
+5K,2017,T.R.,37,00:23:44.763,Male
+5K,2017,Gavin,12,00:23:52.960,Male
+5K,2017,Owen,19,00:24:32.350,Male
+5K,2017,Peter,64,00:25:20.463,Male
+5K,2017,Andrew,43,00:25:20.833,Male
+5K,2017,Gary,61,00:25:29.177,Male
+5K,2017,Sharlet,66,00:25:29.770,Female
+5K,2017,Diana,52,00:25:38.837,Female
+5K,2017,David,57,00:25:41.180,Male
+5K,2017,Brian,37,00:25:48.967,Male
+5K,2017,Jefferson,10,00:26:01.563,Male
+5K,2017,Gavin,13,00:26:24.770,Male
+5K,2017,Ben,12,00:26:25.500,Male
+5K,2017,Tatiana,23,00:26:32.433,Female
+5K,2017,Thomas,65,00:26:52.013,Male
+5K,2017,Kris,60,00:27:00.237,Male
+5K,2017,Tingrui,40,00:27:10.000,Male
+5K,2017,Kevin,27,00:27:18.757,Male
+5K,2017,Jennifer,24,00:27:22.200,Female
+5K,2017,Dennis,57,00:27:30.767,Male
+5K,2017,Hannah,22,00:27:50.253,Female
+5K,2017,Rebecca,13,00:28:01.327,Female
+5K,2017,Kirk,48,00:28:05.840,Male
+5K,2017,Ashley,20,00:28:28.603,Female
+5K,2017,Greg,50,00:28:37.280,Male
+5K,2017,Melanie,16,00:28:39.450,Female
+5K,2017,John,61,00:28:44.353,Male
+5K,2017,Karen,54,00:28:54.493,Female
+5K,2017,Emily,40,00:28:59.370,Female
+5K,2017,Sunet,33,00:29:01.293,Female
+5K,2017,Emily,22,00:29:01.673,Female
+5K,2017,Matt,47,00:29:35.077,Male
+5K,2017,Drew,17,00:30:00.237,Male
+5K,2017,Dave,64,00:30:17.653,Male
+5K,2017,Chris,33,00:30:27.523,Male
+5K,2017,Sean,9,00:30:33.233,Male
+5K,2017,Leah,29,00:30:44.827,Female
+5K,2017,Nicole,13,00:30:46.033,Female
+5K,2017,Brian,51,00:31:06.260,Male
+5K,2017,Michael,13,00:31:14.960,Male
+5K,2017,Patrick,15,00:31:23.610,Male
+5K,2017,Luca,11,00:31:39.183,Male
+5K,2017,Cynthia,51,00:31:45.310,Female
+5K,2017,Adelie,43,00:31:49.853,Female
+5K,2017,David,68,00:31:59.367,Male
+5K,2017,Betty,65,00:32:02.070,Female
+5K,2017,Butch,71,00:32:11.353,Male
+5K,2017,Tony,13,00:32:29.783,Male
+5K,2017,Suzie Chock,70,00:32:31.573,Female
+5K,2017,Jalina,28,00:32:39.047,Female
+5K,2017,Lucas,26,00:32:40.650,Male
+5K,2017,Daniel,55,00:32:41.283,Male
+5K,2017,Matt,23,00:32:42.793,Male
+5K,2017,Isabelle,41,00:32:54.200,Female
+5K,2017,Dana,58,00:32:56.603,Female
+5K,2017,Doug,72,00:32:57.970,Male
+5K,2017,Linda,58,00:33:05.963,Female
+5K,2017,Kristine,33,00:33:27.263,Female
+5K,2017,Brooks,59,00:34:20.803,Male
+5K,2017,Nathan,23,00:34:38.473,Male
+5K,2017,Michael,58,00:34:38.917,Male
+5K,2017,Patrick,77,00:34:48.887,Male
+5K,2017,Brett,41,00:35:01.467,Male
+5K,2017,Maria,28,00:35:26.677,Female
+5K,2017,Robin,42,00:35:30.200,Female
+5K,2017,Linda,74,00:35:54.647,Female
+5K,2017,Margot,50,00:36:20.757,Female
+5K,2017,Amanda,16,00:36:20.757,Female
+5K,2017,Ben,76,00:36:25.383,Male
+5K,2017,Jackie,49,00:36:33.157,Female
+5K,2017,Kenneth,49,00:36:33.750,Male
+5K,2017,Christine,58,00:37:29.527,Female
+5K,2017,Vanessa,35,00:37:30.290,Female
+5K,2017,Mariana,16,00:37:34.007,Female
+5K,2017,Walta,44,00:37:34.740,Male
+5K,2017,Penny,60,00:37:34.947,Female
+5K,2017,Tammy,55,00:37:49.657,Female
+5K,2017,Sherri,48,00:37:58.283,Female
+5K,2017,Oskar,11,00:38:05.913,Male
+5K,2017,Henriette,45,00:38:18.790,Female
+5K,2017,Jessica,32,00:38:21.797,Female
+5K,2017,Rick,70,00:38:39.637,Male
+5K,2017,Haeyoung,40,00:39:16.587,Female
+5K,2017,Kathy,59,00:39:58.163,Female
+5K,2017,Gary,66,00:39:59.783,Male
+5K,2017,Glen,57,00:40:06.677,Male
+5K,2017,Amy,37,00:41:35.237,Female
+5K,2017,Aimee,51,00:41:38.190,Female
+5K,2017,Amy,26,00:41:38.193,Female
+5K,2017,William,44,00:42:22.523,Male
+5K,2017,Jerry,55,00:42:23.873,Male
+5K,2017,Barbara,72,00:43:20.917,Female
+5K,2017,Shirley,85,00:44:03.173,Female
+5K,2017,David C,71,00:44:09.777,Male
+5K,2017,Lee,60,00:44:51.720,Male
+5K,2017,Nazreen,45,00:45:06.550,Female
+5K,2017,Laurel,39,00:45:12.453,Female
+5K,2017,Sarah,27,00:45:12.650,Female
+5K,2017,Nancy,38,00:45:32.227,Female
+5K,2017,Blaine,64,00:46:10.340,Male
+5K,2017,Danielle,30,00:46:52.223,Female
+5K,2017,Nick,44,00:47:35.937,Male
+5K,2017,Roman,11,00:47:36.560,Male
+5K,2017,Calyssa,13,00:48:14.107,Female
+5K,2017,Steve,33,00:48:16.310,Male
+5K,2017,Beryl,27,00:48:18.693,Female
+5K,2017,Shannon,42,00:48:30.363,Female
+5K,2017,Marjorie,54,00:48:31.747,Female
+5K,2017,Diana,54,00:49:05.880,Female
+5K,2017,Jody,38,00:49:06.217,Female
+5K,2017,Joanne,52,00:49:06.567,Female
+5K,2017,Alison,31,00:49:24.143,Female
+5K,2017,Doug,33,00:49:24.153,Male
+5K,2017,John,62,00:49:50.997,Male
+5K,2017,Barbara,63,00:49:51.390,Female
+5K,2017,Gayle,65,00:50:02.243,Female
+5K,2017,Sharon,72,00:50:07.340,Female
+5K,2017,Alex,7,00:51:53.030,Female
+5K,2017,Crista,44,00:51:56.763,Female
+5K,2017,Diego,42,00:52:35.063,Male
+5K,2017,Teresa,49,00:52:37.090,Female
+5K,2017,Josephn,83,00:52:37.413,Male
+5K,2017,Eleanor,35,00:52:38.657,Female
+5K,2017,Carlynn,62,00:53:07.633,Female
+5K,2017,Paula,43,00:55:16.513,Female
+5K,2017,Nadene,67,00:55:18.927,Female
+5K,2017,Nina,61,00:55:19.070,Female
+5K,2017,Bill,70,00:55:38.667,Male
+5K,2017,Suzi,71,00:55:41.877,Female
+5K,2017,Karen,53,00:56:16.980,Female
+5K,2017,Sheila,63,00:56:24.900,Female
+5K,2017,Amy,50,00:56:26.040,Female
+5K,2017,Tooka,23,00:56:46.983,Female
+5K,2017,Lesta,70,00:57:08.033,Female
+5K,2017,Whitney,24,01:02:37.937,Female
+5K,2017,Tanya,42,01:02:41.027,Female
+5K,2017,Dianna,61,Not started,Female
+5K,2017,Sandi,49,Not started,Female
+5K,2017,Sean,51,Not started,Male
+5K,2017,John,10,Not started,Male
+5K,2017,Susanna,7,Not started,Female
+5K,2017,Aya,19,Not started,Female
+5K,2017,Ricky,33,Not started,Male
+5K,2017,Scott,70,Not started,Male
+5K,2017,Jenn,40,Not started,Female
+5K,2017,Cynthia,76,Not started,Female
+5K,2017,Susana,51,Not started,Female
+5K,2017,Anne,45,Not started,Female
+5K,2017,Grace,17,Not started,Female
+5K,2017,Sylvia,57,Not started,Female
+5K,2017,Stephanie,50,Not started,Female
+5K,2017,Ginger,41,Not started,Female
+5K,2017,Maria,42,Not started,Female
+5K,2017,Isabel,19,Not started,Female
+5K,2017,Isabella,14,Not started,Female
+5K,2017,Elaine,51,Not started,Female
+10K,2017,Corey,34,00:36:12.840,Male
+10K,2017,Raymond,55,00:40:42.423,Male
+10K,2017,Mariano,44,00:42:24.000,Male
+10K,2017,Michael,51,00:42:59.377,Male
+10K,2017,Jim,52,00:43:12.780,Male
+10K,2017,John,52,00:44:27.517,Male
+10K,2017,Nancy,45,00:44:36.020,Female
+10K,2017,Norman,41,00:44:52.383,Male
+10K,2017,Greg,50,00:45:26.920,Male
+10K,2017,Chris,45,00:45:29.080,Male
+10K,2017,Ben,16,00:46:58.953,Male
+10K,2017,Marjorie,51,00:47:15.810,Female
+10K,2017,Halea,27,00:47:28.560,Female
+10K,2017,Kinya,26,00:47:43.507,Male
+10K,2017,Bradley,36,00:48:27.620,Male
+10K,2017,Noel,38,00:50:29.703,Male
+10K,2017,Andrew,41,00:50:35.560,Male
+10K,2017,Robert,44,00:50:39.513,Male
+10K,2017,Ron,54,00:50:42.557,Male
+10K,2017,Alexandra,29,00:51:47.360,Female
+10K,2017,Jennifer,33,00:51:56.773,Female
+10K,2017,Matt,59,00:52:03.827,Male
+10K,2017,Talia,14,00:52:08.497,Female
+10K,2017,Ken,50,00:52:22.923,Male
+10K,2017,Katie,42,00:52:27.160,Female
+10K,2017,Ernest,53,00:52:34.420,Male
+10K,2017,Dalila,46,00:52:37.127,Female
+10K,2017,Hector,43,00:52:59.423,Male
+10K,2017,Bruno,30,00:53:01.847,Male
+10K,2017,Elizabeth,43,00:53:10.533,Female
+10K,2017,Zina,53,00:53:14.780,Female
+10K,2017,Gary,62,00:53:23.233,Male
+10K,2017,Stephen,62,00:53:35.670,Male
+10K,2017,Jaron,15,00:53:45.597,Male
+10K,2017,Bruce,70,00:54:11.310,Male
+10K,2017,Chris,46,00:54:44.077,Male
+10K,2017,Thomas,57,00:54:52.950,Male
+10K,2017,Jennifer,46,00:55:01.877,Female
+10K,2017,Luis,42,00:55:21.170,Male
+10K,2017,David,50,00:55:21.727,Male
+10K,2017,Alexander,42,00:55:25.423,Male
+10K,2017,Gary,55,00:56:32.657,Male
+10K,2017,Laura,23,00:56:42.497,Female
+10K,2017,David,64,00:57:32.480,Male
+10K,2017,Allen,76,00:57:40.940,Male
+10K,2017,Yuri,25,00:57:42.047,Female
+10K,2017,Sandi,51,00:58:09.787,Female
+10K,2017,Caryn,34,00:58:35.140,Female
+10K,2017,Troy,48,00:59:07.583,Male
+10K,2017,Emma,47,00:59:09.197,Female
+10K,2017,Patti,63,00:59:51.453,Female
+10K,2017,Barry,74,00:59:59.423,Male
+10K,2017,James,49,01:00:14.677,Male
+10K,2017,Lovely,28,01:00:16.663,Female
+10K,2017,Jennifer,59,01:01:49.687,Female
+10K,2017,Li,43,01:02:53.043,Female
+10K,2017,John,64,01:04:13.387,Male
+10K,2017,Tim,54,01:04:19.093,Male
+10K,2017,Ida,29,01:04:21.820,Female
+10K,2017,Kerri,65,01:04:31.593,Female
+10K,2017,Bob,74,01:04:50.883,Male
+10K,2017,Donna,44,01:04:55.377,Female
+10K,2017,Jose,69,01:05:06.803,Male
+10K,2017,Dakota,13,01:05:33.273,Male
+10K,2017,Mindy,63,01:05:46.550,Female
+10K,2017,Candice,42,01:05:57.930,Female
+10K,2017,Stacey,41,01:05:58.140,Female
+10K,2017,James,44,01:06:00.717,Male
+10K,2017,Suzanne,35,01:06:34.400,Female
+10K,2017,Jeff,57,01:07:46.127,Male
+10K,2017,Tanya,45,01:07:47.003,Female
+10K,2017,Paul,86,01:07:56.510,Male
+10K,2017,Nick,37,01:08:14.977,Male
+10K,2017,Kyle,44,01:11:18.577,Male
+10K,2017,Richard,70,01:11:19.417,Male
+10K,2017,Chaiyuth,73,01:11:36.780,Male
+10K,2017,Andy,56,01:11:40.600,Male
+10K,2017,Renee,49,01:12:24.547,Female
+10K,2017,Inglise,39,01:12:40.257,Female
+10K,2017,Beth,43,01:13:59.170,Female
+10K,2017,Janet,47,01:15:16.067,Female
+10K,2017,Derraugh,57,01:16:26.450,Female
+10K,2017,Kerri,46,01:16:35.533,Female
+10K,2017,Beth,54,01:16:41.373,Female
+10K,2017,Shannon,23,01:17:33.613,Female
+10K,2017,Jeannette,63,01:18:04.427,Female
+10K,2017,Julie,42,01:18:06.057,Female
+10K,2017,Kimo,63,01:18:45.337,Male
+10K,2017,Genetha,46,01:20:21.570,Female
+10K,2017,Neva,59,01:20:45.520,Female
+10K,2017,Renvelyn,73,01:21:38.520,Female
+10K,2017,Margaret,60,01:22:08.120,Female
+10K,2017,Marie,56,01:22:08.280,Female
+10K,2017,Susan,56,01:23:21.723,Female
+10K,2017,Amy,47,01:23:23.067,Female
+10K,2017,Elena,56,01:24:19.820,Female
+10K,2017,Gena,54,01:25:23.820,Female
+10K,2017,Kelli,45,01:25:24.873,Female
+10K,2017,Nora,29,01:27:18.977,Female
+10K,2017,Cherie,42,01:27:26.153,Female
+10K,2017,Nancy,62,01:37:53.463,Female
+10K,2017,Alejandra,36,01:37:55.673,Female
+10K,2017,Julie,44,01:44:35.823,Female
+10K,2017,Andrea,50,01:48:15.030,Female
+10K,2017,Clark,71,Not started,Male
+10K,2017,Eddy,74,Started,Male
+10K,2017,Kristen,36,Not started,Female
+10K,2017,Vigdis,39,Not started,Female
+10K,2017,Greg,47,Not started,Male
+10K,2017,Walter,60,Not started,Male
+10K,2017,Richard,60,Not started,Male
+10K,2017,Fadi,53,Not started,Male
+10K,2017,Michael,42,Not started,Male
+10K,2017,Gabel,61,Not started,Male
+10K,2017,Luis,67,Not started,Male
+10K,2017,Pete,44,Not started,Male
+10K,2017,Chang,26,Not started,Female
+10K,2017,John,54,Not started,Male
+10K,2017,Eleonora,46,Not started,Female
+10K,2017,Kim,57,Started,Female
+10K,2017,Jennifer,47,Not started,Female
+10K,2017,Benjamin,54,Not started,Male
+10K,2017,Liz,57,Not started,Female
+10K,2017,Hilma,67,Not started,Female
+10K,2017,Tim,59,Not started,Male
+10K,2017,Jonathan,15,Not started,Male
+10K,2017,Chizuru,44,Not started,Female
+5K,2016,Alexander Garcia,19,15:37.750,Male
+5K,2016,Osama Tada,36,16:03.810,Male
+5K,2016,Nolan Gerlach,19,16:52.670,Male
+5K,2016,Zachary Bonner,27,16:58.617,Male
+5K,2016,Rikiya Ichihara,15,17:24.063,Male
+5K,2016,Matt Hellier,32,17:25.017,Male
+5K,2016,Erick Lengtat,15,17:30.420,Male
+5K,2016,Kobe Standefer,15,17:32.587,Male
+5K,2016,Misty (we Need Your Age) Diaz,0,18:26.793,Female
+5K,2016,Kevin Kamai,37,19:08.750,Male
+5K,2016,Pam Runquist,53,19:14.830,Female
+5K,2016,Laura Cox,20,19:19.843,Female
+5K,2016,Kirk Wilbur,30,19:33.383,Male
+5K,2016,Colin Walsh,12,19:51.903,Male
+5K,2016,Sean Riordan,38,19:58.713,Male
+5K,2016,Jacob Cota,26,20:03.297,Male
+5K,2016,Greg Mandler,53,20:09.620,Male
+5K,2016,Robert Becerril,45,20:43.137,Male
+5K,2016,Risa Fugisita,17,20:53.530,Female
+5K,2016,Mao Umeda,20,20:54.253,Female
+5K,2016,Malcolm Burns,14,21:13.877,Male
+5K,2016,Nancy Rashid,44,21:14.843,Female
+5K,2016,Terry Smiley,39,21:14.973,Male
+5K,2016,Hans Faye,25,21:21.597,Male
+5K,2016,Richard King,46,21:30.033,Male
+5K,2016,Andrew Farhood,40,22:00.187,Male
+5K,2016,Dag Yasui,54,22:14.967,Male
+5K,2016,Robert Chrum,50,22:15.820,Male
+5K,2016,Austin Donnelly,18,22:42.583,Male
+5K,2016,Zenith Gonzalez,39,22:46.787,Female
+5K,2016,Luke Panttaja,11,22:52.037,Male
+5K,2016,Sydney Pritchard,13,22:54.927,Female
+5K,2016,Eli Yasui,13,22:55.620,Male
+5K,2016,Dan Coyle,57,22:56.687,Male
+5K,2016,Terry anderson,43,23:07.610,Female
+5K,2016,Mark Wogulis,53,23:42.240,Male
+5K,2016,Erik Henricson,45,23:51.190,Male
+5K,2016,Joachim Schnier,63,23:51.440,Male
+5K,2016,Lily Gieschen,13,23:56.120,Female
+5K,2016,Eric Jensen,34,23:56.397,Male
+5K,2016,Cori Eden,29,23:58.140,Female
+5K,2016,William Wagner,54,24:07.457,Male
+5K,2016,Tracy Alexander,34,24:12.403,Female
+5K,2016,Molly Stanley,33,24:13.720,Female
+5K,2016,Scott Aramaki,42,24:15.473,Male
+5K,2016,Ethan Walsh,43,24:17.783,Male
+5K,2016,Drew Van Court,9,24:19.143,Male
+5K,2016,Peter Friederich,63,24:23.567,Male
+5K,2016,Robert Newcomb,36,24:25.160,Male
+5K,2016,Makoto Hagata,62,24:33.793,Male
+5K,2016,Jefferson Wright,9,24:35.953,Male
+5K,2016,Nick Gonzales,19,24:48.357,Male
+5K,2016,Leah Weidinger,28,25:00.237,Female
+5K,2016,Madeleine Gallay,19,25:07.860,Female
+5K,2016,David Alltop,56,25:17.743,Male
+5K,2016,Eardley Scheffer,57,25:29.237,Male
+5K,2016,Zina Claunch,52,25:30.603,Female
+5K,2016,Kristen Nichols,54,25:31.227,Female
+5K,2016,Chiharu Sugiyama,20,25:32.617,Female
+5K,2016,Richard Jennings,56,25:37.107,Male
+5K,2016,Christina Jennings,56,25:37.763,Female
+5K,2016,Danny Lee,40,25:46.233,Male
+5K,2016,Shawn Slimp,39,25:47.890,Male
+5K,2016,Ryan Wessells,36,25:48.397,Female
+5K,2016,Sheryl Giesbrecht,59,26:01.443,Female
+5K,2016,Lori Monaco,58,26:16.157,Female
+5K,2016,Claire Waters,46,26:19.427,Female
+5K,2016,Christine Engel,45,26:19.997,Female
+5K,2016,Tim Jones,54,26:24.597,Male
+5K,2016,James Yoon,32,26:33.570,Male
+5K,2016,Abby Carroll,10,26:45.713,Female
+5K,2016,Milania Panttaja,9,26:50.273,Female
+5K,2016,Elizabeth Ewens,46,26:52.780,Female
+5K,2016,Nicole Panttaja,41,26:58.127,Female
+5K,2016,Michael Vlach,35,26:58.857,Male
+5K,2016,Michael Mallett,56,27:09.023,Male
+5K,2016,Jamie Henson,36,27:17.373,Female
+5K,2016,Julie Tominaga,59,27:22.513,Female
+5K,2016,Tingrui Pan,36,27:28.667,Male
+5K,2016,Fadi Fathallah,52,27:33.533,Male
+5K,2016,Maura Ferrero,29,27:39.067,Female
+5K,2016,David Still,49,27:45.130,Male
+5K,2016,John Peterson,52,27:45.503,Male
+5K,2016,Kurt Erickson,46,27:46.070,Male
+5K,2016,Dj Michel,10,27:46.443,Male
+5K,2016,Philip Stone,56,27:51.713,Male
+5K,2016,John McMeekin,41,28:01.610,Male
+5K,2016,Michael Lairmore,60,28:14.973,Male
+5K,2016,Donna Lairmore,59,28:16.380,Female
+5K,2016,Dean Panttaja,16,28:34.320,Male
+5K,2016,Henriette O'geen,44,28:38.507,Female
+5K,2016,Butch Pearman,70,28:45.147,Male
+5K,2016,Dianna Barsotti,60,28:47.787,Female
+5K,2016,John Edwards,60,28:48.047,Male
+5K,2016,Heather Kirschner,42,28:48.553,Female
+5K,2016,Delmarie Cister,37,28:56.033,Female
+5K,2016,Ashleigh Matzoll,29,28:59.773,Female
+5K,2016,Matt Mccormac,22,29:01.533,Male
+5K,2016,Joe Edwards,58,29:08.217,Male
+5K,2016,Jay Aziz,42,29:12.277,Male
+5K,2016,Anthony Burns,53,29:18.977,Male
+5K,2016,Marisa Burns,18,29:19.973,Female
+5K,2016,Annmarie Baines,32,29:24.907,Female
+5K,2016,Dee Dee Luu,30,29:39.867,Female
+5K,2016,Gary Hollinger,80,29:46.590,Male
+5K,2016,John Clerkin,31,30:04.357,Male
+5K,2016,Emma Pfanner,25,30:09.293,Female
+5K,2016,Jose Aguirre,68,30:09.530,Male
+5K,2016,Amanda Mccormac,15,30:09.577,Female
+5K,2016,Tania Donnelly,52,30:18.287,Female
+5K,2016,Tess Boutin,12,30:37.413,Female
+5K,2016,Doug Williams,71,30:46.160,Male
+5K,2016,Suzie Chock-Hunt,69,30:48.223,Female
+5K,2016,Kelly Finn,27,30:52.280,Female
+5K,2016,Nolan Zafonte,7,30:54.680,Male
+5K,2016,Dana Farkas,57,30:57.670,Female
+5K,2016,Matthew Zafonte,46,31:02.347,Male
+5K,2016,Brett Rondeau,40,31:02.980,Male
+5K,2016,Taylor Hunsucker,23,31:04.417,Female
+5K,2016,Elie Leaderman-Bray,21,31:07.953,Female
+5K,2016,Rachel Nickens,28,31:09.513,Female
+5K,2016,Betty Pearman,64,31:09.920,Female
+5K,2016,Zoe Buck,12,31:15.443,Female
+5K,2016,Mike Buck,49,31:15.633,Male
+5K,2016,Linda Randes,57,31:34.840,Female
+5K,2016,Grace Mariano,16,31:43.320,Female
+5K,2016,Roland Faller,44,31:44.577,Male
+5K,2016,Nick Mariano,43,31:47.620,Male
+5K,2016,Rosie Mariano,14,31:49.217,Female
+5K,2016,Alexandra Holtsclaw,32,31:49.290,Female
+5K,2016,Melanie Bowden,53,32:06.353,Female
+5K,2016,Wayne Eckert,70,32:14.410,Male
+5K,2016,Jennifer Rockwell,45,32:16.857,Female
+5K,2016,Charlie Pollock,12,32:24.847,Male
+5K,2016,Kareasa Wilkins,39,32:39.340,Female
+5K,2016,Dianne Cohn,68,32:39.497,Female
+5K,2016,Linda Hall,73,32:49.063,Female
+5K,2016,Lynsey Provost,33,32:50.580,Female
+5K,2016,Erin Backman,28,32:51.263,Female
+5K,2016,Patrick Hunt,76,32:53.540,Male
+5K,2016,Christie Carroll,41,32:54.177,Female
+5K,2016,Julia Rea,13,32:56.187,Female
+5K,2016,Gene Wong,30,32:56.907,Female
+5K,2016,Fani Henry,16,33:05.317,Female
+5K,2016,Isabelle Henry,40,33:13.033,Female
+5K,2016,Kelli Lynes,29,33:44.700,Female
+5K,2016,Wen Hua Wu,40,33:59.780,Female
+5K,2016,Peyton Navarrete,34,34:06.300,Female
+5K,2016,Gerald James,36,34:07.787,Male
+5K,2016,Tiffany James,33,34:08.893,Female
+5K,2016,Frank Smith,56,34:16.163,Male
+5K,2016,Natali Saldana,27,34:16.850,Female
+5K,2016,Joyful Stoves,38,34:17.760,Female
+5K,2016,Gillian Nagle,9,34:19.043,Female
+5K,2016,Angelina Yoon,32,34:38.813,Female
+5K,2016,Kejie (Tina) Duan,42,34:39.937,Female
+5K,2016,Linling Zhu,52,34:41.163,Female
+5K,2016,Miri Leaderman-Bray,14,34:42.987,Female
+5K,2016,Elizabeth Honaker,38,34:44.050,Female
+5K,2016,Duane Davis,63,34:48.443,Male
+5K,2016,Leslie Davis,64,34:49.343,Female
+5K,2016,Matthew Bray,53,35:14.260,Male
+5K,2016,Alexander Hampe,24,35:27.237,Male
+5K,2016,Julia Kunberger,25,35:27.640,Female
+5K,2016,Rachel Peterson,42,35:28.710,Female
+5K,2016,Jennifer Heitz,37,35:33.377,Female
+5K,2016,Emily Agar,11,35:41.083,Female
+5K,2016,Sean Campbell,50,36:13.613,Male
+5K,2016,Cassie Royce,41,36:18.053,Female
+5K,2016,Gabriel Villadelgado,13,36:18.433,Male
+5K,2016,Todd Schroeder,48,36:25.040,Male
+5K,2016,Barbara Zimmer,62,36:30.717,Female
+5K,2016,John Parente,61,36:31.913,Male
+5K,2016,Betty Mcnamara,51,36:52.003,Female
+5K,2016,Ronda Johnson,42,36:57.993,Female
+5K,2016,Mark Ewens,48,37:02.700,Male
+5K,2016,Jaymie Wabaunsee,40,37:03.567,Female
+5K,2016,Anna Mulvihill,38,37:03.793,Female
+5K,2016,Olivia Simpson,40,37:30.323,Female
+5K,2016,Aimee Korynta,50,37:36.957,Female
+5K,2016,Ana De Loera,30,37:38.413,Female
+5K,2016,Kiersen Clerkin,26,37:43.117,Female
+5K,2016,Lorelei Nachman,6,37:55.963,Female
+5K,2016,Anissa Nachman,39,37:56.753,Female
+5K,2016,Ralph De Unamuno,40,38:11.237,Male
+5K,2016,Scott Miltenberger,38,38:12.140,Male
+5K,2016,Jean Xu,55,38:16.123,Female
+5K,2016,Guoping Xu,56,38:16.320,Male
+5K,2016,Blaine Laney,63,38:42.587,Male
+5K,2016,Art Gonzales Sr,68,38:48.753,Male
+5K,2016,Anna Buck,32,38:50.783,Female
+5K,2016,Teresa Olson,48,39:07.077,Female
+5K,2016,Susann Pinter,52,39:28.543,Female
+5K,2016,Malou Cortez,42,39:38.163,Female
+5K,2016,Joel Cortez,54,39:38.390,Male
+5K,2016,Norm Stoldt,74,39:40.800,Male
+5K,2016,Monica Voicu,33,39:46.340,Female
+5K,2016,David Kent,71,40:51.447,Male
+5K,2016,Laurel Leong,44,41:02.497,Female
+5K,2016,Nathaniel Pollock,8,41:03.063,Male
+5K,2016,Barbara Davy,71,41:41.550,Female
+5K,2016,Rick Entrikin,69,41:44.110,Male
+5K,2016,Steve Laney,32,41:56.360,Male
+5K,2016,Louise Kellogg,56,41:59.320,Female
+5K,2016,Sharon Dario,71,42:15.873,Female
+5K,2016,Barbara Colton,71,42:25.383,Female
+5K,2016,Andra Hagata,57,43:06.633,Female
+5K,2016,Shirley Adkins,84,43:44.193,Female
+5K,2016,Ethan Agar,8,44:28.423,Male
+5K,2016,Darryne Agar,45,44:29.480,Male
+5K,2016,Cynthia Kellogg,75,45:10.063,Female
+5K,2016,Ezra Cortez,12,45:41.887,Male
+5K,2016,Terry Nagle,52,46:11.657,Male
+5K,2016,Bridget Nagle,11,46:12.627,Female
+5K,2016,Steven Tagawa,48,46:26.847,Male
+5K,2016,Melody Munsey,55,46:34.053,Female
+5K,2016,Kathryn Ollenberger,47,46:48.760,Female
+5K,2016,Lilly Greene,26,47:41.673,Female
+5K,2016,Mariel Vazquez,45,47:55.753,Female
+5K,2016,Elie De Paz,34,49:25.577,Female
+5K,2016,Diego De Paz,41,49:26.613,Male
+5K,2016,Michael Hatzigeorgio,59,49:45.733,Male
+5K,2016,Sheila Pallotta,62,50:11.697,Female
+5K,2016,Marjorie Britton,53,50:29.160,Female
+5K,2016,Lee Britton,59,50:30.707,Male
+5K,2016,Kristi Burns,47,50:47.450,Female
+5K,2016,Louise Uota,63,51:05.803,Female
+5K,2016,Vernyle Meyst,76,51:07.727,Female
+5K,2016,Kathy Lopez,61,51:08.993,Female
+5K,2016,Jamie Brown,22,51:59.193,Male
+5K,2016,Jennifer Davis,43,52:01.853,Female
+5K,2016,Catherine Harrington,50,52:17.597,Female
+5K,2016,Laurel Mckinney,38,52:17.850,Female
+5K,2016,Bonnie Fisher,63,52:18.027,Female
+5K,2016,Hilma Valtatie,66,52:35.483,Female
+5K,2016,Jeannette Hagen,62,52:35.577,Female
+5K,2016,Ashlyn Barbieri,18,52:41.607,Female
+5K,2016,Tammy Thomas,57,52:48.047,Female
+5K,2016,Anelise Colvin,21,53:21.407,Female
+5K,2016,Laureen Valencia,58,53:22.183,Female
+5K,2016,Amy Jones,40,53:35.417,Female
+5K,2016,Lesta Chavier,69,54:00.253,Female
+5K,2016,Barbara Mcnurlin,72,54:11.347,Female
+5K,2016,Davida Pugh,59,54:41.690,Female
+5K,2016,Sherry Blunk,43,56:50.207,Female
+5K,2016,Nancy Leaderman,50,57:05.817,Female
+5K,2016,Marian Clutterbuck,76,57:14.087,Female
+5K,2016,Gary Korynta,50,57:15.010,Male
+5K,2016,Maria Nastor,32,57:52.677,Female
+5K,2016,Rowena Nastor,60,57:53.217,Female
+5K,2016,Jo Christensen,40,57:54.050,Female
+5K,2016,Sarah Tighe,50,58:57.013,Female
+5K,2016,Jeannette Hogan,74,59:02.977,Female
+5K,2016,Cheryl Vito,45,1:01:05.860,Female
+5K,2016,Sandra Bugg,48,1:01:06.187,Female
+5K,2016,Amy Laundrie,61,1:02:21.037,Female
+5K,2016,Frank Laundrie,72,1:02:42.193,Male
+5K,2016,Dee Farkas,-12,1:03:42.030,Female
+5K,2016,Gretchen McMeekin,34,1:05:29.293,Female
+5K,2016,Regina Zavodovskaya,38,1:07:53.563,Female
+5K,2016,Jim Burns,50,Not started,Male
+5K,2016,Tonia Burns-Montiero,44,Not started,Female
+5K,2016,Christine Caro,53,Not started,Female
+5K,2016,Jon Catterson,35,Not started,Male
+5K,2016,Margaret Delmore,59,Not started,Female
+5K,2016,Alicia Gonzalez Flores,33,Not started,Female
+5K,2016,Blaine Hannafin,39,Not started,Male
+5K,2016,Tamara Musso,39,Not started,Female
+5K,2016,Gavin Rashid,11,Not started,Male
+5K,2016,Natasha Sramek,26,Not started,Female
+5K,2016,John Valdrighi,53,Not started,Male
+5K,2016,Jennifer Walker,43,Not started,Female
+5K,2016,Aya Fathallah,18,Not started,Female
+5K,2016,James (we Need Your Bib # & Age) McMeekin,0,Not started,Male
+10K,2016,Ken Misawa,45,33:05.423,Male
+10K,2016,Jake Dialesandro,27,33:18.480,Male
+10K,2016,Corey Baxter,33,34:16.887,Male
+10K,2016,R Matthew Wise,36,35:04.980,Male
+10K,2016,Stephen Andrews,34,36:18.867,Male
+10K,2016,Adam Warner,30,38:23.707,Male
+10K,2016,Rowen Hodgson-Cruz,19,39:01.103,Male
+10K,2016,Jeremy Bennett,41,39:03.040,Male
+10K,2016,Jose Zaragoza,29,39:28.100,Male
+10K,2016,Thomas Liebrand,30,41:01.353,Male
+10K,2016,Kinya Toride,25,41:19.790,Male
+10K,2016,Jim Farrar,51,41:34.800,Male
+10K,2016,Art Gonzales,47,41:45.257,Male
+10K,2016,Annie Ciernia,30,41:46.100,Female
+10K,2016,Ron Hayashi,58,42:16.600,Male
+10K,2016,Joshua Peppers,35,42:27.680,Male
+10K,2016,"J,R. Mintz",50,42:47.120,Male
+10K,2016,Molly Spencer,25,43:03.937,Female
+10K,2016,Jason Carney,37,43:05.043,Male
+10K,2016,Eric Jessen,33,43:45.620,Male
+10K,2016,Jesse Deere,39,44:38.880,Male
+10K,2016,Daniel Navarro,20,45:02.323,Male
+10K,2016,Estevan Preciado,18,45:06.217,Male
+10K,2016,Charles Anderson,47,45:09.093,Male
+10K,2016,Andrew Wyly,38,45:18.483,Male
+10K,2016,Kenneth Lyons,25,45:43.667,Male
+10K,2016,Kristen Andersen,35,45:59.937,Female
+10K,2016,Tim Ojima,52,46:12.523,Male
+10K,2016,Chris Fluetsch,45,46:18.880,Male
+10K,2016,Connie Rowden,58,46:28.573,Female
+10K,2016,Nicole Gilmore,23,47:16.550,Female
+10K,2016,Marc Blumberg,23,47:33.467,Male
+10K,2016,Luke Rashid,13,47:39.797,Male
+10K,2016,Sharlett Gilbert,65,48:08.010,Female
+10K,2016,Tara Rogers,34,48:28.787,Female
+10K,2016,Erich Schaefer,55,48:58.870,Male
+10K,2016,Erika Larson,48,49:02.123,Female
+10K,2016,Michael Fry,41,49:19.137,Male
+10K,2016,Maricela Rivera,41,49:37.520,Female
+10K,2016,Michael gould,41,49:39.520,Male
+10K,2016,Eric Lopez,38,49:47.617,Male
+10K,2016,Robert Hattori,43,49:49.023,Male
+10K,2016,Tim Warta,37,49:53.823,Male
+10K,2016,Koya Shimokawa,46,49:54.220,Male
+10K,2016,Thomas Adams,56,49:55.093,Male
+10K,2016,Katherine Voepel,27,50:03.750,Female
+10K,2016,Flavio Leandro De Souza,38,50:18.797,Male
+10K,2016,Glen Marnmoto,54,50:21.643,Male
+10K,2016,Rachel Shaffer,32,50:29.403,Female
+10K,2016,Young Chun,50,50:37.560,Male
+10K,2016,Steve Garcia,50,50:39.553,Male
+10K,2016,Angela Borchers,43,50:41.877,Female
+10K,2016,Burch Bryant,51,50:45.530,Male
+10K,2016,Jennifer Harwood,45,50:57.927,Female
+10K,2016,Elizabeth Miller,42,51:19.497,Female
+10K,2016,Yuri Kusano,24,51:27.097,Female
+10K,2016,Jeff Steele,55,51:28.603,Male
+10K,2016,Andres Diaz,27,52:05.093,Male
+10K,2016,Paul Kidwell,43,52:45.817,Male
+10K,2016,Wei Tong,36,52:52.217,Male
+10K,2016,Alexander Goldshmidt,38,53:06.457,Male
+10K,2016,Owen Yancher,18,53:08.580,Male
+10K,2016,Anna Belenis,18,53:08.607,Female
+10K,2016,Betty Homer,41,53:08.880,Female
+10K,2016,Jon Paul Ollenberger,45,53:22.367,Male
+10K,2016,Tom Lee,49,53:32.253,Male
+10K,2016,Gary Kamei,54,53:39.197,Male
+10K,2016,Paul Yang,28,53:41.020,Male
+10K,2016,Lilleybelle Deer,23,53:42.960,Female
+10K,2016,Rochelle Coulson,27,53:43.393,Female
+10K,2016,Iris Leutenegger,47,53:46.807,Female
+10K,2016,Shannon Harkless,41,54:10.333,Female
+10K,2016,Bertha Ramirez-Preciado,48,54:18.027,Female
+10K,2016,Ernest Shimizu,52,54:18.543,Male
+10K,2016,Tom Ford,64,54:25.063,Male
+10K,2016,Brieanna Anderson,14,54:35.203,Female
+10K,2016,Jason Tighe,14,55:27.810,Male
+10K,2016,Ryan Wright,13,55:31.667,Male
+10K,2016,Aaron Wright,41,55:32.623,Male
+10K,2016,Brian Knieriem,42,56:06.037,Male
+10K,2016,Mayra Dancini Goncalves,29,56:16.810,Female
+10K,2016,Trevor Johnston,41,56:19.330,Male
+10K,2016,Craig Daniels,67,56:19.560,Male
+10K,2016,Alexia Johnson,25,56:22.443,Female
+10K,2016,Michael Johnson,50,56:34.577,Male
+10K,2016,Tess Compton,43,56:49.313,Female
+10K,2016,John Hudson,46,56:49.917,Male
+10K,2016,Yuliana Santillan,30,57:08.500,Female
+10K,2016,Anna Vue,35,57:09.637,Female
+10K,2016,Lovely Galang,27,57:09.810,Female
+10K,2016,Joshua Hoong,18,57:11.120,Male
+10K,2016,Paul Blumberg,52,57:14.377,Male
+10K,2016,Karina Kidwell,40,57:20.650,Female
+10K,2016,Adam Kron,39,57:29.460,Male
+10K,2016,Bernd Von Sosen,70,57:37.240,Male
+10K,2016,Casey Warta,35,57:38.360,Female
+10K,2016,Clifford Benzel,68,57:39.053,Male
+10K,2016,Ruya Li,29,57:52.133,Female
+10K,2016,Allen Wyly,75,58:03.080,Male
+10K,2016,Bruce Fisher,69,58:06.367,Male
+10K,2016,Todd Shaffer,33,58:18.940,Male
+10K,2016,Stanley Zeto,37,58:51.103,Male
+10K,2016,Greg Bard,59,58:56.760,Male
+10K,2016,Peter hirsig,43,59:06.073,Male
+10K,2016,Don Kiser,50,59:12.850,Male
+10K,2016,Richard Chadwick,69,59:26.337,Male
+10K,2016,David Gavia,54,59:28.260,Male
+10K,2016,Jeff Olson,56,59:41.747,Male
+10K,2016,Alan Uota,61,59:56.037,Male
+10K,2016,Craig Simmons,49,1:00:16.947,Male
+10K,2016,Allison Alcalay,61,1:00:18.833,Female
+10K,2016,Araceli Chaveste,37,1:00:38.227,Female
+10K,2016,Adam Kirchgessner,32,1:00:40.247,Male
+10K,2016,Kristen Kirchgessner,32,1:00:41.700,Female
+10K,2016,Donna Hattori,43,1:01:01.790,Female
+10K,2016,Virginia Hughes,47,1:01:19.653,Female
+10K,2016,Rama Ramakrishnan,48,1:01:31.790,Male
+10K,2016,David Garcia,36,1:01:43.920,Male
+10K,2016,Paul Flanagan,85,1:02:09.640,Male
+10K,2016,Dereck Muche,30,1:02:21.583,Male
+10K,2016,Erica Muche,31,1:02:21.593,Female
+10K,2016,Quincy Zhao,22,1:02:29.590,Male
+10K,2016,Doug Alfar,38,1:02:41.390,Male
+10K,2016,Josh Liuni,40,1:02:45.640,Male
+10K,2016,Mike Martinez,48,1:02:56.137,Male
+10K,2016,Rob Kane,65,1:03:02.323,Male
+10K,2016,Linda Holt,63,1:03:07.333,Female
+10K,2016,Chizuru Stevens,43,1:03:08.500,Female
+10K,2016,Freddie Lee Jones III,37,1:03:34.083,Male
+10K,2016,Daniel Gong,60,1:03:58.560,Male
+10K,2016,Alan Carstensen,63,1:04:15.590,Male
+10K,2016,Tanya Barreto,44,1:04:24.040,Female
+10K,2016,William Tillo,61,1:04:59.763,Male
+10K,2016,Anat Abramson,35,1:05:03.533,Female
+10K,2016,Nick Roberts,38,1:05:09.067,Male
+10K,2016,Allen Reid,76,1:05:15.537,Male
+10K,2016,Kimberly Cornett,39,1:05:35.737,Female
+10K,2016,Hiromi Aw,46,1:05:43.390,Female
+10K,2016,Anthony Zeto,37,1:06:22.133,Male
+10K,2016,Jennifer Van-Yang,28,1:06:47.283,Female
+10K,2016,Martin Raygoza,51,1:06:59.157,Male
+10K,2016,Adelie Barry,42,1:07:03.630,Female
+10K,2016,Judi Daniels,67,1:07:18.193,Female
+10K,2016,Ben Mccoy,75,1:07:36.797,Male
+10K,2016,Skyler Michel-Evleth,32,1:07:39.480,Male
+10K,2016,Michele Santos,40,1:07:56.193,Female
+10K,2016,Erik Santos,45,1:07:56.903,Male
+10K,2016,Henry Nagle,12,1:08:41.277,Male
+10K,2016,Wendy Enos,38,1:08:49.380,Female
+10K,2016,Serra Mentessi,48,1:09:24.363,Female
+10K,2016,Craig Compton,42,1:09:33.220,Male
+10K,2016,Dianne Hyson,56,1:09:47.417,Female
+10K,2016,Sharon Myers,61,1:09:48.397,Female
+10K,2016,Frisby Smith,56,1:11:10.220,Male
+10K,2016,Marcia Morrison,68,1:11:26.730,Female
+10K,2016,Phalla Yann,38,1:11:58.963,Female
+10K,2016,Simone Vonrivenburgh,27,1:12:33.427,Female
+10K,2016,Drew Kessler,31,1:12:44.913,Male
+10K,2016,Brian Breneman,36,1:13:10.490,Male
+10K,2016,Clark Adams,70,1:14:17.607,Male
+10K,2016,Samantha Tighe,46,1:14:21.167,Female
+10K,2016,Julio Vasquez,70,1:15:38.700,Male
+10K,2016,Lucas Soiu,34,1:16:30.713,Male
+10K,2016,Karen Hatzigeorgion,59,1:17:23.187,Female
+10K,2016,Ann Brown,56,1:17:55.087,Female
+10K,2016,Maria Rackusin,66,1:18:06.133,Female
+10K,2016,Renvelyn Grey,72,1:18:53.193,Female
+10K,2016,Julie Weinacht,24,1:20:09.907,Female
+10K,2016,Kathi Illish,55,1:20:22.670,Female
+10K,2016,Crista Corbett,43,1:20:56.987,Female
+10K,2016,Kevin Tighe,48,1:23:22.200,Male
+10K,2016,Marites Kelly,42,1:24:03.300,Female
+10K,2016,Mary Sherman,35,1:25:39.733,Female
+10K,2016,Richard Harkless,47,1:29:51.653,Male
+10K,2016,Robert Islas,53,1:30:41.657,Male
+10K,2016,Michelle Dibb,44,1:30:42.450,Female
+10K,2016,Nora Pallotta,37,1:30:47.843,Female
+10K,2016,Kendall Arch,30,Not started,Female
+10K,2016,Lucinda Childress,59,Not started,Female
+10K,2016,Kris Erlenbusch,32,Not started,Male
+10K,2016,Yuchen Feng,0,Not started,Male
+10K,2016,Beatrice Fleureau,51,Not started,Female
+10K,2016,James Floyd,68,Not started,Male
+10K,2016,Kristin Gebhardt,32,Not started,Female
+10K,2016,David Gleason,66,Not started,Male
+10K,2016,Stephen Hodges,61,Not started,Male
+10K,2016,Veena Krishnamoorthy,35,Not started,Female
+10K,2016,Isaac Ligocki,32,Not started,Male
+10K,2016,Cristina R Ramirez,29,Not started,Female
+10K,2016,Scott Siesel,32,Not started,Male
+10K,2016,April Simmons,41,Not started,Female
+10K,2016,Kyle Story,32,Not started,Male
+10K,2016,Jane Sykes,45,Not started,Female
+5K,2015,Haruka,15,Finished,Male
+5K,2015,Kazuhito,18,Finished,Male
+5K,2015,Artemus,32,Finished,Male
+5K,2015,Caleb,20,Finished,Male
+5K,2015,Antonio,17,Finished,Male
+5K,2015,Ryuuka,15,Finished,Female
+5K,2015,Yoshiyuki,44,Finished,Male
+5K,2015,Pedro,28,Finished,Male
+5K,2015,Michael,50,Finished,Male
+5K,2015,Cj,14,Finished,Male
+5K,2015,Jennifer,45,Finished,Female
+5K,2015,Jose,28,Finished,Male
+5K,2015,Michael,29,Finished,Male
+5K,2015,Shane,38,Finished,Male
+5K,2015,John,50,Finished,Male
+5K,2015,Greg,52,Finished,Male
+5K,2015,Sarah,29,Finished,Female
+5K,2015,Holly,52,Finished,Female
+5K,2015,Leo,42,Finished,Male
+5K,2015,Kenneth,24,Finished,Male
+5K,2015,Teagan,13,Finished,Male
+5K,2015,Andrew,39,Finished,Male
+5K,2015,Jackson,17,Finished,Male
+5K,2015,Sarah,15,Finished,Female
+5K,2015,Anissa,38,Finished,Female
+5K,2015,Ashton,11,Finished,Male
+5K,2015,Donald,52,Finished,Male
+5K,2015,Robert,52,Finished,Male
+5K,2015,James,34,Finished,Male
+5K,2015,Scott,41,Finished,Male
+5K,2015,Daniel,26,Finished,Male
+5K,2015,Jon,39,Finished,Male
+5K,2015,Richard,64,Finished,Male
+5K,2015,Ron,44,Finished,Male
+5K,2015,Esther,54,Finished,Female
+5K,2015,Birgit,41,Finished,Female
+5K,2015,Isaac,12,Finished,Male
+5K,2015,Rockwell,12,Finished,Male
+5K,2015,Muhammad,11,Finished,Male
+5K,2015,Donna,20,Finished,Female
+5K,2015,Kat,26,Finished,Female
+5K,2015,Eardley,56,Finished,Male
+5K,2015,Paxton,12,Finished,Male
+5K,2015,Gavin,10,Finished,Male
+5K,2015,Susan,29,Finished,Female
+5K,2015,Tim,54,Finished,Male
+5K,2015,Bill,0,Finished,Male
+5K,2015,Madison,12,Finished,Female
+5K,2015,Leah,27,Finished,Female
+5K,2015,Hortensia,31,Finished,Female
+5K,2015,Bryson,11,Finished,Male
+5K,2015,Jason,37,Finished,Male
+5K,2015,Jos,44,Finished,Male
+5K,2015,Shannon,13,Finished,Female
+5K,2015,Sheryl,58,Finished,Female
+5K,2015,Cruz,11,Finished,Male
+5K,2015,Kelly,26,Finished,Female
+5K,2015,Joseph,28,Finished,Male
+5K,2015,Haytham,10,Finished,Male
+5K,2015,Kristen,53,Finished,Female
+5K,2015,David,66,Finished,Male
+5K,2015,Jamie,35,Finished,Female
+5K,2015,Tim,52,Finished,Male
+5K,2015,Rylie,26,Finished,Female
+5K,2015,Lisa,50,Finished,Female
+5K,2015,Emily,20,Finished,Female
+5K,2015,Dj,9,Finished,Male
+5K,2015,Jordan,15,Finished,Female
+5K,2015,Lisa,40,Finished,Female
+5K,2015,Tingrui,35,Finished,Male
+5K,2015,Soila,59,Finished,Female
+5K,2015,Tom,63,Finished,Male
+5K,2015,Sarah,34,Finished,Female
+5K,2015,Ryan,15,Finished,Male
+5K,2015,Rachel,27,Finished,Female
+5K,2015,Ivan,50,Finished,Male
+5K,2015,Rick,53,Finished,Male
+5K,2015,Corinne,34,Finished,Female
+5K,2015,Nicholas,21,Finished,Male
+5K,2015,Katheryn,30,Finished,Female
+5K,2015,Tatiana,21,Finished,Female
+5K,2015,Anthony,39,Finished,Male
+5K,2015,Larry,63,Finished,Male
+5K,2015,Martha,64,Finished,Female
+5K,2015,Edward,59,Finished,Male
+5K,2015,Burt,50,Finished,Male
+5K,2015,Victoria,13,Finished,Female
+5K,2015,Paige,10,Finished,Female
+5K,2015,Tim,30,Finished,Male
+5K,2015,Hope,43,Finished,Female
+5K,2015,Tania,51,Finished,Female
+5K,2015,Rick,71,Finished,Male
+5K,2015,Brian,36,Finished,Male
+5K,2015,Kaycee,35,Finished,Female
+5K,2015,Sara,31,Finished,Female
+5K,2015,Katie,28,Finished,Female
+5K,2015,Armando,35,Finished,Male
+5K,2015,John,59,Finished,Male
+5K,2015,Michael,34,Finished,Male
+5K,2015,Danielle,28,Finished,Female
+5K,2015,Larry,32,Finished,Male
+5K,2015,Joel,50,Finished,Male
+5K,2015,Terry,41,Finished,Male
+5K,2015,Ron,47,Finished,Male
+5K,2015,Grace,15,Finished,Female
+5K,2015,Douglas,70,Finished,Male
+5K,2015,Adam,41,Finished,Male
+5K,2015,Chad,45,Finished,Male
+5K,2015,Marcia,32,Finished,Female
+5K,2015,Sarah,34,Finished,Female
+5K,2015,Kent,44,Finished,Male
+5K,2015,Mikayla,12,Finished,Female
+5K,2015,Unknown,0,Finished,Male
+5K,2015,Miriam,35,Finished,Female
+5K,2015,Dean,15,Finished,Male
+5K,2015,Norman,8,Finished,Male
+5K,2015,Neil,71,Finished,Male
+5K,2015,Tammy,36,Finished,Female
+5K,2015,Curtis,49,Finished,Male
+5K,2015,Lani,52,Finished,Female
+5K,2015,Milania,8,Finished,Female
+5K,2015,Krista,44,Finished,Female
+5K,2015,Ralph,42,Finished,Male
+5K,2015,Catherine,34,Finished,Female
+5K,2015,Cathy,53,Finished,Female
+5K,2015,Dee Dee,29,Finished,Female
+5K,2015,Chandra,29,Finished,Female
+5K,2015,Ann,58,Finished,Female
+5K,2015,Tracy,26,Finished,Female
+5K,2015,Marissa,32,Finished,Female
+5K,2015,Dana,56,Finished,Female
+5K,2015,Cathy,35,Finished,Female
+5K,2015,Peter,15,Finished,Male
+5K,2015,Isabella,12,Finished,Female
+5K,2015,Sean,30,Finished,Male
+5K,2015,Jennifer,28,Finished,Female
+5K,2015,Sabrina,30,Finished,Female
+5K,2015,Janie,48,Finished,Female
+5K,2015,Karen,58,Finished,Female
+5K,2015,Rebecca,34,Finished,Female
+5K,2015,Arnold,35,Finished,Male
+5K,2015,Wayne,60,Finished,Male
+5K,2015,Camille,21,Finished,Female
+5K,2015,Madison,13,Finished,Female
+5K,2015,Katelyn,29,Finished,Female
+5K,2015,Damon,44,Finished,Male
+5K,2015,Joseph,34,Finished,Male
+5K,2015,Rosie,13,Finished,Female
+5K,2015,Nick,42,Finished,Male
+5K,2015,Margaret,58,Finished,Female
+5K,2015,Sullivan,11,Finished,Male
+5K,2015,Gilbert,75,Finished,Male
+5K,2015,Betty,63,Finished,Female
+5K,2015,Rebecca,33,Finished,Female
+5K,2015,Letian,9,Finished,Male
+5K,2015,Elizabeth,25,Finished,Female
+5K,2015,Linda,72,Finished,Female
+5K,2015,Denis,53,Finished,Male
+5K,2015,Janet,53,Finished,Female
+5K,2015,Nicole,0,Finished,Female
+5K,2015,Garrett,37,Finished,Male
+5K,2015,Michelle,37,Finished,Female
+5K,2015,Kim,49,Finished,Female
+5K,2015,Greg,37,Finished,Male
+5K,2015,Sam,11,Finished,Male
+5K,2015,Matthew,10,Finished,Male
+5K,2015,Najia,42,Finished,Female
+5K,2015,Rich,48,Finished,Male
+5K,2015,Anna,47,Finished,Female
+5K,2015,Rene,38,Finished,Male
+5K,2015,Ilda,36,Finished,Female
+5K,2015,Theresa,33,Finished,Female
+5K,2015,Jeana,39,Finished,Female
+5K,2015,Deanna,59,Finished,Female
+5K,2015,Katy,61,Finished,Female
+5K,2015,Nancy,36,Finished,Female
+5K,2015,Natalie,32,Finished,Female
+5K,2015,Amber,38,Finished,Female
+5K,2015,Faye,67,Finished,Female
+5K,2015,Brian,35,Finished,Male
+5K,2015,Peter,52,Finished,Male
+5K,2015,Carmen,55,Finished,Female
+5K,2015,Tania,37,Finished,Female
+5K,2015,Jenn,38,Finished,Female
+5K,2015,Mary,37,Finished,Female
+5K,2015,Katherine,37,Finished,Female
+5K,2015,Connie,59,Finished,Female
+5K,2015,Tiffany,27,Finished,Female
+5K,2015,Christina,32,Finished,Female
+5K,2015,Andee,40,Finished,Female
+5K,2015,Christy,35,Finished,Female
+5K,2015,Tammy,49,Finished,Female
+5K,2015,Pamela,51,Finished,Female
+5K,2015,Ken,12,Finished,Male
+5K,2015,Kathryn,46,Finished,Female
+5K,2015,Melody,54,Finished,Female
+5K,2015,Sunny,33,Finished,Female
+5K,2015,Tiffany,32,Finished,Female
+5K,2015,Min,52,Finished,Male
+5K,2015,Nancy,55,Finished,Female
+5K,2015,Vera,48,Finished,Female
+5K,2015,Steve,31,Finished,Male
+5K,2015,Sean,49,Finished,Male
+5K,2015,Linda,53,Finished,Female
+5K,2015,Andrea,39,Finished,Female
+5K,2015,Allison,42,Finished,Female
+5K,2015,Charlie,11,Finished,Male
+5K,2015,Kelly,52,Finished,Female
+5K,2015,Linda,47,Finished,Female
+5K,2015,Abby,14,Finished,Female
+5K,2015,Joanne,41,Finished,Female
+5K,2015,Pradyumna,13,Finished,Male
+5K,2015,Blaine,62,Finished,Male
+5K,2015,Susan,51,Finished,Female
+5K,2015,Diane,62,Finished,Female
+5K,2015,Jade,28,Finished,Female
+5K,2015,Gillian,8,Finished,Female
+5K,2015,Liz,55,Finished,Female
+5K,2015,Ashley,29,Finished,Female
+5K,2015,Kathy,57,Finished,Female
+5K,2015,Brian,44,Finished,Male
+5K,2015,Susan,43,Finished,Female
+5K,2015,Katie,23,Finished,Female
+5K,2015,Peyton,33,Finished,Female
+5K,2015,Elizabeth,19,Finished,Female
+5K,2015,Art,67,Finished,Male
+5K,2015,Ron,73,Finished,Male
+5K,2015,Sonia,40,Finished,Female
+5K,2015,Ludi,10,Finished,Female
+5K,2015,Qiang,44,Finished,Male
+5K,2015,David,59,Finished,Male
+5K,2015,Lisa,52,Finished,Female
+5K,2015,Barbara,70,Finished,Female
+5K,2015,Alison,34,Finished,Female
+5K,2015,Connie,49,Finished,Female
+5K,2015,Lauren,32,Finished,Female
+5K,2015,Bridget,20,Finished,Female
+5K,2015,Barbara,70,Finished,Female
+5K,2015,Cecile,43,Finished,Female
+5K,2015,Ken,65,Finished,Male
+5K,2015,Kate,64,Finished,Female
+5K,2015,George,66,Finished,Male
+5K,2015,Jaime,0,Finished,Female
+5K,2015,Laurie,66,Finished,Female
+5K,2015,Pat,60,Finished,Female
+5K,2015,Heather,31,Finished,Female
+5K,2015,Linda,56,Finished,Female
+5K,2015,Alison,30,Finished,Female
+5K,2015,Robert,52,Finished,Male
+5K,2015,Michelle,43,Finished,Female
+5K,2015,Mara,36,Finished,Female
+5K,2015,Susanne,62,Finished,Female
+5K,2015,Julianne,23,Finished,Female
+5K,2015,Tamiko,52,Finished,Female
+5K,2015,Timm,39,Finished,Male
+5K,2015,Gary,63,Finished,Male
+5K,2015,Deborah,67,Finished,Female
+5K,2015,Bridget,10,Finished,Female
+5K,2015,Terry,51,Finished,Male
+5K,2015,Shirley,83,Finished,Female
+5K,2015,Heidi,26,Finished,Female
+5K,2015,Erika,41,Finished,Female
+5K,2015,Elizabeth,44,Finished,Female
+5K,2015,Yuan,25,Finished,Female
+5K,2015,Ultralena,25,Finished,Female
+5K,2015,Leah,50,Finished,Female
+5K,2015,Pam,61,Finished,Female
+5K,2015,James,16,Finished,Male
+5K,2015,Marie,44,Finished,Female
+5K,2015,Ron,43,Finished,Male
+5K,2015,Teresa,27,Finished,Female
+5K,2015,Rita,51,Finished,Female
+5K,2015,Hui Ean,27,Finished,Female
+5K,2015,Eleanor,55,Finished,Female
+5K,2015,Carole,60,Finished,Female
+5K,2015,Melissa,33,Finished,Female
+5K,2015,Nathaniel,7,Finished,Male
+5K,2015,Lori,43,Finished,Female
+5K,2015,Missy,33,Finished,Female
+5K,2015,Lee,58,Finished,Male
+5K,2015,Maybelline,30,Finished,Female
+5K,2015,Rommel,33,Finished,Male
+5K,2015,Bob,46,Finished,Male
+5K,2015,Gayle,63,Finished,Female
+5K,2015,Lisa,57,Finished,Female
+5K,2015,Kim,50,Finished,Female
+5K,2015,Rob,64,Finished,Male
+5K,2015,Michelle,45,Finished,Female
+5K,2015,Tammy,56,Finished,Female
+5K,2015,Glenda,66,Finished,Female
+5K,2015,Raquel,45,Finished,Female
+5K,2015,Jennifer,38,Finished,Female
+5K,2015,Joe,54,Finished,Male
+5K,2015,Jennifer,45,Finished,Female
+5K,2015,Julie,78,Finished,Female
+5K,2015,Marilou,41,Finished,Female
+5K,2015,Joel,53,Finished,Male
+5K,2015,Mieko,56,Finished,Female
+5K,2015,Sandra,66,Finished,Female
+5K,2015,John,60,Finished,Male
+5K,2015,Kate,26,Finished,Female
+5K,2015,Marjorie,52,Finished,Female
+5K,2015,Jaime,38,Finished,Male
+5K,2015,Sheila,30,Finished,Female
+5K,2015,Jane,50,Finished,Female
+5K,2015,Marilyn,63,Finished,Female
+5K,2015,Ursula,53,Finished,Female
+5K,2015,Billy,68,Finished,Male
+5K,2015,Suzi,69,Finished,Female
+5K,2015,Shari,70,Finished,Female
+5K,2015,Charissa,33,Finished,Female
+5K,2015,Melissa,33,Finished,Female
+5K,2015,Catrina,26,Finished,Female
+5K,2015,Jarma,34,Finished,Female
+5K,2015,Christy,35,Finished,Female
+5K,2015,Christine,52,Finished,Female
+5K,2015,Tony,47,Finished,Male
+5K,2015,Maria,59,Finished,Female
+5K,2015,Lucinda,58,Finished,Female
+5K,2015,Kirtana,40,Finished,Female
+5K,2015,Michelle,44,Finished,Female
+5K,2015,Dee,87,Finished,Female
+5K,2015,Cheryl,44,Finished,Female
+5K,2015,Sandra,47,Finished,Female
+5K,2015,Janet,65,Finished,Female
+5K,2015,Ray,69,Finished,Male
+5K,2015,Vickie,67,Finished,Female
+5K,2015,Cay,83,Finished,Female
+5K,2015,Seth,41,Finished,Male
+5K,2015,Linda,58,Finished,Female
+5K,2015,Traci,51,Finished,Female
+5K,2015,Shannon,30,Finished,Female
+5K,2015,Tomoko,40,Finished,Female
+5K,2015,Adam,28,Finished,Male
+5K,2015,Robyn,27,Finished,Female
+5K,2015,Randi,28,Finished,Female
+5K,2015,Shilo,52,Finished,Female
+10K,2015,Corey,32,Finished,Male
+10K,2015,Brent,32,Finished,Male
+10K,2015,Mark,29,Finished,Male
+10K,2015,Stephen,33,Finished,Male
+10K,2015,Roheem,36,Finished,Male
+10K,2015,Brendan,27,Finished,Male
+10K,2015,Mark,32,Finished,Male
+10K,2015,Hayato,18,Finished,Male
+10K,2015,Joshua,34,Finished,Male
+10K,2015,Matt,34,Finished,Male
+10K,2015,Jeremy,40,Finished,Male
+10K,2015,Michael,35,Finished,Male
+10K,2015,Paul,32,Finished,Male
+10K,2015,Bret,20,Finished,Male
+10K,2015,Blair,31,Finished,Male
+10K,2015,Drew,23,Finished,Male
+10K,2015,Koso,62,Finished,Male
+10K,2015,Kristen,41,Finished,Female
+10K,2015,Edwin,50,Finished,Male
+10K,2015,Jim,50,Finished,Male
+10K,2015,Chris,49,Finished,Male
+10K,2015,Brian,25,Finished,Male
+10K,2015,Bryan,41,Finished,Male
+10K,2015,John,52,Finished,Male
+10K,2015,Alex,25,Finished,Male
+10K,2015,Madison,11,Finished,Female
+10K,2015,Robert,44,Finished,Male
+10K,2015,Eric,32,Finished,Male
+10K,2015,Annie,29,Finished,Female
+10K,2015,Gregory,31,Finished,Male
+10K,2015,Juan,38,Finished,Male
+10K,2015,Nancy,43,Finished,Female
+10K,2015,Mark,47,Finished,Male
+10K,2015,Ron,57,Finished,Male
+10K,2015,Brandon,34,Finished,Male
+10K,2015,Yuuri,14,Finished,Female
+10K,2015,Marek,30,Finished,Male
+10K,2015,Angie,49,Finished,Female
+10K,2015,Lori,59,Finished,Female
+10K,2015,Bingbiao,48,Finished,Male
+10K,2015,Patrick,27,Finished,Male
+10K,2015,Andrew,37,Finished,Male
+10K,2015,Cristina,28,Finished,Female
+10K,2015,Daniel,40,Finished,Male
+10K,2015,Ki,49,Finished,Male
+10K,2015,Kaitlyn,16,Finished,Female
+10K,2015,Pinter,51,Finished,Male
+10K,2015,Jonathan,12,Finished,Male
+10K,2015,Jane,44,Finished,Female
+10K,2015,Alexandra,30,Finished,Female
+10K,2015,Kv,34,Finished,Male
+10K,2015,Kevin,46,Finished,Male
+10K,2015,Art,46,Finished,Male
+10K,2015,Connie,57,Finished,Female
+10K,2015,Ken,45,Finished,Male
+10K,2015,Bruce,62,Finished,Male
+10K,2015,Mingzhi,25,Finished,Male
+10K,2015,Chris,44,Finished,Male
+10K,2015,Marlon,33,Finished,Male
+10K,2015,John,60,Finished,Male
+10K,2015,Michael,56,Finished,Male
+10K,2015,Joachim,62,Finished,Male
+10K,2015,Chris,30,Finished,Male
+10K,2015,Tim,51,Finished,Male
+10K,2015,Alex,32,Finished,Male
+10K,2015,Michael,40,Finished,Male
+10K,2015,Luke,12,Finished,Male
+10K,2015,Missy,40,Finished,Female
+10K,2015,Vanessa,46,Finished,Female
+10K,2015,Nique,0,Finished,Male
+10K,2015,Jennifer,44,Finished,Female
+10K,2015,Matt,30,Finished,Male
+10K,2015,Cameron,58,Finished,Male
+10K,2015,Unknown,0,Finished,Male
+10K,2015,Benjamin,52,Finished,Male
+10K,2015,Sharlet,64,Finished,Female
+10K,2015,Burch,50,Finished,Male
+10K,2015,William,53,Finished,Male
+10K,2015,Tom,48,Finished,Male
+10K,2015,Clarisa,27,Finished,Female
+10K,2015,James,52,Finished,Male
+10K,2015,Frank,30,Finished,Male
+10K,2015,Katherine,20,Finished,Female
+10K,2015,Jeffrey,54,Finished,Male
+10K,2015,Maricela,40,Finished,Female
+10K,2015,Margarita,35,Finished,Female
+10K,2015,Andrew,10,Finished,Male
+10K,2015,Louise,27,Finished,Female
+10K,2015,Seth,40,Finished,Male
+10K,2015,Luke,10,Finished,Male
+10K,2015,Jim,60,Finished,Male
+10K,2015,David,55,Finished,Male
+10K,2015,Sarah,25,Finished,Female
+10K,2015,Peter,62,Finished,Male
+10K,2015,Terry,38,Finished,Male
+10K,2015,Elizabeth,41,Finished,Female
+10K,2015,Leanne,45,Finished,Female
+10K,2015,John,41,Finished,Male
+10K,2015,Jason,27,Finished,Male
+10K,2015,Rochelle,26,Finished,Female
+10K,2015,John,45,Finished,Male
+10K,2015,Norma,36,Finished,Female
+10K,2015,Aydee,43,Finished,Female
+10K,2015,Zhechen,21,Finished,Male
+10K,2015,Debbie,53,Finished,Female
+10K,2015,Elizabeth,45,Finished,Female
+10K,2015,Alexandra,27,Finished,Female
+10K,2015,John,24,Finished,Male
+10K,2015,Zina,51,Finished,Female
+10K,2015,Ernest,51,Finished,Male
+10K,2015,Mark,32,Finished,Male
+10K,2015,Michael,57,Finished,Male
+10K,2015,Jane,60,Finished,Female
+10K,2015,Kaoru,52,Finished,Female
+10K,2015,Leah,33,Finished,Female
+10K,2015,Gary,53,Finished,Male
+10K,2015,Allison,54,Finished,Female
+10K,2015,Allen,74,Finished,Male
+10K,2015,Sita,33,Finished,Female
+10K,2015,Robert,42,Finished,Male
+10K,2015,Darryl,42,Finished,Male
+10K,2015,Rebekka,34,Finished,Female
+10K,2015,Diane,68,Finished,Female
+10K,2015,Cammy,40,Finished,Female
+10K,2015,Linda,61,Finished,Female
+10K,2015,Joe,44,Finished,Male
+10K,2015,Michael,47,Finished,Male
+10K,2015,John,52,Finished,Male
+10K,2015,Adam,23,Finished,Male
+10K,2015,Lucinida,58,Finished,Female
+10K,2015,Jonpaul,44,Finished,Male
+10K,2015,Stacy,43,Finished,Female
+10K,2015,Greg,45,Finished,Male
+10K,2015,Nicole,40,Finished,Female
+10K,2015,Elizabeth,34,Finished,Female
+10K,2015,Katrin,52,Finished,Female
+10K,2015,Craig,41,Finished,Male
+10K,2015,Craig,55,Finished,Male
+10K,2015,Jeff,55,Finished,Male
+10K,2015,Nichole,36,Finished,Female
+10K,2015,Ross,50,Finished,Male
+10K,2015,Alexia,24,Finished,Female
+10K,2015,Bryan,39,Finished,Male
+10K,2015,Hattie,53,Finished,Female
+10K,2015,Emily,28,Finished,Female
+10K,2015,Nancy,59,Finished,Female
+10K,2015,Donna,42,Finished,Female
+10K,2015,Stanley,36,Finished,Male
+10K,2015,Alphonso,41,Finished,Male
+10K,2015,Destroyer,41,Finished,Male
+10K,2015,Whit,57,Finished,Male
+10K,2015,Rachel,32,Finished,Female
+10K,2015,Breann,33,Finished,Female
+10K,2015,Maria,55,Finished,Female
+10K,2015,Jeannette,73,Finished,Female
+10K,2015,Ryan,12,Finished,Male
+10K,2015,Aaron,40,Finished,Male
+10K,2015,Paul,84,Finished,Male
+10K,2015,Richard,68,Finished,Male
+10K,2015,Sarah,49,Finished,Female
+10K,2015,Deborah,48,Finished,Female
+10K,2015,Tess,42,Finished,Female
+10K,2015,Elaine Grace,23,Finished,Female
+10K,2015,Unknown,0,Finished,Male
+10K,2015,Olivia,25,Finished,Female
+10K,2015,Alan,60,Finished,Male
+10K,2015,Gabriella,48,Finished,Female
+10K,2015,Virginia,45,Finished,Female
+10K,2015,Jose,58,Finished,Male
+10K,2015,Dj,26,Finished,Male
+10K,2015,Carly,27,Finished,Female
+10K,2015,Jose,29,Finished,Male
+10K,2015,Mac,37,Finished,Male
+10K,2015,Linda,36,Finished,Female
+10K,2015,Pete,42,Finished,Male
+10K,2015,Kelli,52,Finished,Female
+10K,2015,Tristan,30,Finished,Female
+10K,2015,Caitlin,34,Finished,Female
+10K,2015,Hannah,23,Finished,Female
+10K,2015,Ari,15,Finished,Female
+10K,2015,Elizabeth,25,Finished,Female
+10K,2015,Travis,30,Finished,Male
+10K,2015,Jason,13,Finished,Male
+10K,2015,Wesley,29,Finished,Male
+10K,2015,John,47,Finished,Male
+10K,2015,Chad,44,Finished,Male
+10K,2015,Maria,27,Finished,Female
+10K,2015,Renee,36,Finished,Female
+10K,2015,Seth,43,Finished,Male
+10K,2015,Emily,18,Finished,Female
+10K,2015,Amanda,15,Finished,Female
+10K,2015,Yayoi,52,Finished,Female
+10K,2015,Wanda,63,Finished,Female
+10K,2015,Frisby,55,Finished,Male
+10K,2015,Clifford,67,Finished,Male
+10K,2015,Christine,46,Finished,Female
+10K,2015,Angela,37,Finished,Female
+10K,2015,Tanya,43,Finished,Female
+10K,2015,Martin,50,Finished,Male
+10K,2015,Brett,39,Finished,Male
+10K,2015,Natasha,35,Finished,Female
+10K,2015,John,51,Finished,Male
+10K,2015,Sophy,51,Finished,Female
+10K,2015,Dave,62,Finished,Male
+10K,2015,Annmarie,31,Finished,Female
+10K,2015,Graviela,42,Finished,Female
+10K,2015,Alison,51,Finished,Female
+10K,2015,Marcia,67,Finished,Female
+10K,2015,Alison,32,Finished,Female
+10K,2015,Kevin,48,Finished,Male
+10K,2015,Blanca,32,Finished,Female
+10K,2015,Clark,70,Finished,Male
+10K,2015,Amy,39,Finished,Female
+10K,2015,Ellen,40,Finished,Female
+10K,2015,Miranda,35,Finished,Female
+10K,2015,Micaela,19,Finished,Female
+10K,2015,Matthew,25,Finished,Male
+10K,2015,Gary,64,Finished,Male
+10K,2015,Larissa,42,Finished,Female
+10K,2015,David,45,Finished,Male
+10K,2015,Joe,17,Finished,Male
+10K,2015,Malinda,51,Finished,Female
+10K,2015,Alice,64,Finished,Female
+10K,2015,Tom,37,Finished,Male
+10K,2015,Marilyn,57,Finished,Female
+10K,2015,Sarah,67,Finished,Female
+10K,2015,Barry,72,Finished,Male
+10K,2015,Holli,45,Finished,Female
+10K,2015,Nicole,44,Finished,Female
+10K,2015,Ashleigh,28,Finished,Female
+10K,2015,Tracy,54,Finished,Female
+10K,2015,Elizabeth,48,Finished,Female
+10K,2015,Allen,75,Finished,Male
+10K,2015,Joel,34,Finished,Male
+10K,2015,Claire,57,Finished,Female
+10K,2015,Jenifer,46,Finished,Female
+10K,2015,Karen,47,Finished,Female
+10K,2015,Jeannette,61,Finished,Female
+10K,2015,Samantha,45,Finished,Female
+10K,2015,Mary,59,Finished,Female
+10K,2015,Sarah,36,Finished,Female
+10K,2015,Susan,54,Finished,Female
+10K,2015,Shannon,27,Finished,Female
+10K,2015,Adriane,30,Finished,Female
+10K,2015,Ritchel,54,Finished,Female
+10K,2015,Luke,33,Finished,Male
+10K,2015,Jennifer,29,Finished,Female
+10K,2015,Cynthia,44,Finished,Female
+10K,2015,Marjorie,33,Finished,Female
+10K,2015,Lori,44,Finished,Female
+10K,2015,Wendy,37,Finished,Female
+10K,2015,Anabel,32,Finished,Female
+10K,2015,Hannah,18,Finished,Female
+10K,2015,Gail,61,Finished,Female
+10K,2015,Beth,52,Finished,Female
+10K,2015,Debbie,56,Finished,Female
+10K,2015,David,28,Finished,Male
+10K,2015,Karen,33,Finished,Female
+10K,2015,Lovely,27,Finished,Female
+10K,2015,Amy,38,Finished,Female
+10K,2015,Kimo,61,Finished,Male
+10K,2015,Mitchi,49,Finished,Female
+10K,2015,Susana,49,Finished,Female
+10K,2015,Rachel,41,Finished,Female
+10K,2015,James,54,Finished,Male
+10K,2015,Estefany,30,Finished,Female
+10K,2015,Henry,11,Finished,Male
+10K,2015,An,27,Finished,Female
+10K,2015,Reyna,38,Finished,Female
+10K,2015,Susan,38,Finished,Female
+10K,2015,Manuel,37,Finished,Male
+10K,2015,Eddy,72,Finished,Male
+10K,2015,Maria,54,Finished,Male
+10K,2015,Mandy Nguyen,46,Finished,Female
+10K,2015,Richard,66,Finished,Male
+10K,2015,Amanda,26,Finished,Female
+10K,2015,Lisa,43,Finished,Female
+10K,2015,Amy,44,Finished,Female
+10K,2015,Christine,34,Finished,Female
+10K,2015,Susan,48,Finished,Female
+10K,2015,Crista,42,Finished,Female
+10K,2015,Kate,36,Finished,Female
+10K,2015,Felicia,43,Finished,Female
+10K,2015,Evamarie,44,Finished,Female
+10K,2015,Karen,34,Finished,Female
+10K,2015,Jaclyn,25,Finished,Female
+10K,2015,Toni,38,Finished,Female
+10K,2015,Julia,30,Finished,Female
+10K,2015,Teresa,47,Finished,Female
+10K,2015,Brianna,21,Finished,Female
+10K,2015,Anthony,20,Finished,Male
+10K,2015,Julius,25,Finished,Male
+10K,2015,James,67,Finished,Male
+10K,2015,Carmen,60,Finished,Female
+10K,2015,Kevin,47,Finished,Male
+10K,2015,Doug,69,Finished,Male
+10K,2015,Gina,39,Finished,Female
+10K,2015,Nora,27,Finished,Female
+10K,2015,Alyssa,35,Finished,Female
+10K,2015,Debbie,41,Finished,Female
+10K,2015,Kelley,51,Finished,Male
+10K,2015,Patricia,68,Finished,Female
+10K,2015,Amy,48,Finished,Female
+10K,2015,Sara,47,Finished,Female
+10K,2015,Sheila,61,Finished,Female
+10K,2015,Robyn,37,Finished,Female
+10K,2015,Kellie,34,Finished,Female
+10K,2015,Kristie,37,Finished,Female
+10K,2015,Lloyd,30,Finished,Male
+10K,2015,Kathreen,30,Finished,Female
+10K,2015,Cindy,57,Finished,Female
+10K,2015,Eduvijes,54,Finished,Female
+10K,2015,Luanne,61,Finished,Female
+10K,2015,Lisa,54,Finished,Female
+10K,2015,Tami,40,Finished,Female
+10K,2015,Lisa,58,Finished,Female
+10K,2015,Milica,49,Finished,Female
+10K,2015,Aleksandar,12,Finished,Male
+10K,2015,Caryl,63,Finished,Female
+10K,2015,Anakarina,21,Finished,Female
+10K,2015,Danielle,29,Finished,Female
+10K,2015,Aylin,27,Finished,Female
+10K,2015,Emmanuel,29,Started,Male
+5K,2014,Mason,45,Finished,Male
+5K,2014,Matthew,27,Finished,Male
+5K,2014,Willie,16,Finished,Male
+5K,2014,Ollie,28,Finished,Male
+5K,2014,Stephen,32,Finished,Male
+5K,2014,Pedro,28,Finished,Male
+5K,2014,Benjamin,17,Finished,Male
+5K,2014,Laird,16,Finished,Male
+5K,2014,Jeff,51,Finished,Male
+5K,2014,Brad,48,Finished,Male
+5K,2014,Togo,14,Finished,Male
+5K,2014,Andy,26,Finished,Male
+5K,2014,Sam,54,Finished,Male
+5K,2014,Maggie,17,Finished,Female
+5K,2014,Bryan,40,Finished,Male
+5K,2014,Nanaka,14,Finished,Female
+5K,2014,Sofia,15,Finished,Female
+5K,2014,Zaragoza,0,Finished,Male
+5K,2014,Jesus Enrique,29,Finished,Male
+5K,2014,Hideki,46,Finished,Male
+5K,2014,Jose,28,Finished,Male
+5K,2014,Noah,13,Finished,Male
+5K,2014,Jack,9,Finished,Male
+5K,2014,Madison,10,Finished,Female
+5K,2014,Rik,47,Finished,Male
+5K,2014,Craighton,59,Finished,Male
+5K,2014,Laura,25,Finished,Female
+5K,2014,Greg,51,Finished,Male
+5K,2014,Kirk,28,Finished,Male
+5K,2014,Holly,51,Finished,Female
+5K,2014,Kate,15,Finished,Female
+5K,2014,Andrew,22,Finished,Male
+5K,2014,Melissa,37,Finished,Female
+5K,2014,Jose,18,Finished,Male
+5K,2014,Brian,29,Finished,Male
+5K,2014,Clay,25,Finished,Male
+5K,2014,Todd,53,Finished,Male
+5K,2014,Kenneth,23,Finished,Male
+5K,2014,Kristin,35,Finished,Female
+5K,2014,Kevin,45,Finished,Male
+5K,2014,Bruce,61,Finished,Male
+5K,2014,Leo,41,Finished,Male
+5K,2014,Traci,45,Finished,Female
+5K,2014,Yayoi,57,Finished,Female
+5K,2014,Shelby,21,Finished,Female
+5K,2014,Hiram,49,Finished,Male
+5K,2014,Ken,44,Finished,Male
+5K,2014,Sophia,48,Finished,Female
+5K,2014,Brian,40,Finished,Male
+5K,2014,Terry,40,Finished,Female
+5K,2014,Valerie,52,Finished,Female
+5K,2014,Sylus,14,Finished,Male
+5K,2014,Haley,30,Finished,Female
+5K,2014,Dan,0,Finished,Male
+5K,2014,Josh,16,Finished,Male
+5K,2014,Teagan,12,Finished,Male
+5K,2014,Naomi,11,Finished,Female
+5K,2014,Jeffrey,31,Finished,Male
+5K,2014,James,33,Finished,Male
+5K,2014,Adam,30,Finished,Male
+5K,2014,Brian,41,Finished,Male
+5K,2014,Diane,53,Finished,Female
+5K,2014,Chris,27,Finished,Male
+5K,2014,Scott,40,Finished,Male
+5K,2014,Rain,16,Finished,Female
+5K,2014,Steve,52,Finished,Male
+5K,2014,Luke,9,Finished,Male
+5K,2014,Isaac,11,Finished,Male
+5K,2014,Mikey,44,Finished,Male
+5K,2014,Kanli,9,Finished,Female
+5K,2014,Anna,17,Finished,Female
+5K,2014,Lily,11,Finished,Female
+5K,2014,Andrew,28,Finished,Male
+5K,2014,Nicole,39,Finished,Female
+5K,2014,Jon,55,Finished,Male
+5K,2014,Frank,62,Finished,Male
+5K,2014,Alec,12,Finished,Male
+5K,2014,Ben,36,Finished,Male
+5K,2014,Gib,56,Finished,Male
+5K,2014,David,65,Finished,Male
+5K,2014,David,52,Finished,Male
+5K,2014,Justin,17,Finished,Male
+5K,2014,Jannel,20,Finished,Female
+5K,2014,Suzanne,53,Finished,Female
+5K,2014,Katrina,26,Finished,Female
+5K,2014,Dave,46,Finished,Male
+5K,2014,Emily,17,Finished,Female
+5K,2014,Ken,50,Finished,Male
+5K,2014,George,35,Finished,Male
+5K,2014,Leah,26,Finished,Female
+5K,2014,Grace,14,Finished,Female
+5K,2014,Allison,59,Finished,Female
+5K,2014,Abe,25,Finished,Male
+5K,2014,Lisa,50,Finished,Female
+5K,2014,Amy,26,Finished,Female
+5K,2014,Scott,26,Finished,Male
+5K,2014,Richard,53,Finished,Male
+5K,2014,Shannon,12,Finished,Female
+5K,2014,Giovanni,13,Finished,Male
+5K,2014,Matt,50,Finished,Male
+5K,2014,Jeanne,39,Finished,Female
+5K,2014,Kim,26,Finished,Female
+5K,2014,Christopher,15,Finished,Male
+5K,2014,Zach,16,Finished,Male
+5K,2014,John,58,Finished,Male
+5K,2014,Jaspers,28,Finished,Female
+5K,2014,Tingrui,36,Finished,Male
+5K,2014,Heather,40,Finished,Female
+5K,2014,Rebecca,20,Finished,Female
+5K,2014,Gitta,38,Finished,Female
+5K,2014,Kerry,54,Finished,Female
+5K,2014,Sheryl,57,Finished,Female
+5K,2014,Karla,27,Finished,Female
+5K,2014,Heidi,42,Finished,Female
+5K,2014,Annmarie,30,Finished,Female
+5K,2014,Alexandra,38,Finished,Female
+5K,2014,Michael,57,Finished,Male
+5K,2014,Amy,32,Finished,Female
+5K,2014,Jacobi,13,Finished,Male
+5K,2014,Ryan,22,Finished,Male
+5K,2014,Gisselle,40,Finished,Female
+5K,2014,Erik,38,Finished,Male
+5K,2014,Mikayla,17,Finished,Female
+5K,2014,Kristy,23,Finished,Female
+5K,2014,Nancy,58,Finished,Female
+5K,2014,Heather,27,Finished,Female
+5K,2014,Allison,10,Finished,Female
+5K,2014,Elsy,27,Finished,Female
+5K,2014,Jamie,34,Finished,Female
+5K,2014,Erika,25,Finished,Female
+5K,2014,D J,8,Finished,Male
+5K,2014,Norman,54,Finished,Male
+5K,2014,Kenna,9,Finished,Female
+5K,2014,Brian,43,Finished,Male
+5K,2014,Brian,35,Finished,Male
+5K,2014,Jordan,14,Finished,Female
+5K,2014,Ian,36,Finished,Male
+5K,2014,Stephen,22,Finished,Male
+5K,2014,Regina,21,Finished,Female
+5K,2014,Laura,33,Finished,Female
+5K,2014,Gil,52,Finished,Male
+5K,2014,Richard,29,Finished,Male
+5K,2014,Tara,28,Finished,Female
+5K,2014,Louise,23,Finished,Female
+5K,2014,Andrew,9,Finished,Male
+5K,2014,Allison,28,Finished,Female
+5K,2014,Doug,69,Finished,Male
+5K,2014,Jeanne,54,Finished,Female
+5K,2014,Paige,9,Finished,Female
+5K,2014,Burt,49,Finished,Male
+5K,2014,Benjamin,26,Finished,Male
+5K,2014,Marie,30,Finished,Female
+5K,2014,Sarah,33,Finished,Female
+5K,2014,Leo,13,Finished,Male
+5K,2014,Debbie,65,Finished,Female
+5K,2014,Jalina,25,Finished,Female
+5K,2014,Michael,48,Finished,Male
+5K,2014,Tingwei,22,Finished,Male
+5K,2014,Ashleigh,27,Finished,Female
+5K,2014,Brett,38,Finished,Male
+5K,2014,Patricia,50,Finished,Female
+5K,2014,Gabriella,43,Finished,Female
+5K,2014,Allison,22,Finished,Female
+5K,2014,Jessica,22,Finished,Female
+5K,2014,Donna,49,Finished,Female
+5K,2014,Regan,12,Finished,Male
+5K,2014,Dana,55,Finished,Female
+5K,2014,Andrea,32,Finished,Female
+5K,2014,Milania,7,Finished,Female
+5K,2014,Betty,62,Finished,Female
+5K,2014,Kristin,41,Finished,Female
+5K,2014,Jill,53,Finished,Female
+5K,2014,Linda,54,Finished,Female
+5K,2014,Valerie,38,Finished,Female
+5K,2014,Ralph,41,Finished,Male
+5K,2014,Dean,14,Finished,Male
+5K,2014,Alice,55,Finished,Female
+5K,2014,Lani,51,Finished,Female
+5K,2014,Elizabeth,45,Finished,Female
+5K,2014,Jennifer,27,Finished,Female
+5K,2014,Krystle,28,Finished,Female
+5K,2014,Megan,34,Finished,Female
+5K,2014,Jillian,33,Finished,Female
+5K,2014,Omar,32,Finished,Male
+5K,2014,Joseph,33,Finished,Male
+5K,2014,Robyn,42,Finished,Female
+5K,2014,Claire,29,Finished,Female
+5K,2014,Thomas,31,Finished,Male
+5K,2014,J,28,Finished,Female
+5K,2014,Charles,36,Finished,Male
+5K,2014,Kara,26,Finished,Female
+5K,2014,Edward,58,Finished,Male
+5K,2014,Danny,55,Finished,Male
+5K,2014,Elmer,49,Finished,Male
+5K,2014,Amy,37,Finished,Female
+5K,2014,Anthony,36,Finished,Male
+5K,2014,Jasmine,29,Finished,Female
+5K,2014,Alex,29,Finished,Male
+5K,2014,Thomas,26,Finished,Male
+5K,2014,John,33,Finished,Male
+5K,2014,Jennifer,29,Finished,Female
+5K,2014,Heather,40,Finished,Female
+5K,2014,Tyrone,48,Finished,Male
+5K,2014,Kathryn,21,Finished,Female
+5K,2014,Nick,40,Finished,Male
+5K,2014,Rosie,11,Finished,Female
+5K,2014,Ian,12,Finished,Male
+5K,2014,Michael,41,Finished,Male
+5K,2014,Alexander,27,Finished,Male
+5K,2014,Gilbert,74,Finished,Male
+5K,2014,Eva,37,Finished,Female
+5K,2014,Mikako,51,Finished,Female
+5K,2014,Tiffany,26,Finished,Female
+5K,2014,Rachel,41,Finished,Female
+5K,2014,Morgan,24,Finished,Female
+5K,2014,Alison,33,Finished,Female
+5K,2014,Steve,30,Finished,Male
+5K,2014,Claudia,37,Finished,Female
+5K,2014,Suzanne,53,Finished,Female
+5K,2014,Susan,54,Finished,Female
+5K,2014,Henry,10,Finished,Male
+5K,2014,Holly,34,Finished,Female
+5K,2014,Brian,43,Finished,Male
+5K,2014,Lori,37,Finished,Female
+5K,2014,Silvia,49,Finished,Female
+5K,2014,Beth,36,Finished,Female
+5K,2014,Brenda,47,Finished,Female
+5K,2014,Darryne,43,Finished,Male
+5K,2014,Earth,41,Finished,Female
+5K,2014,Perri,56,Finished,Female
+5K,2014,Linda,71,Finished,Female
+5K,2014,Gretchen,32,Finished,Female
+5K,2014,Lynn,38,Finished,Female
+5K,2014,Jazjuan,12,Finished,Male
+5K,2014,Jenn,37,Finished,Female
+5K,2014,Toni,37,Finished,Female
+5K,2014,Charlie,10,Finished,Male
+5K,2014,Lori,42,Finished,Female
+5K,2014,Rhonda,44,Finished,Female
+5K,2014,Kate,63,Finished,Female
+5K,2014,Blaine,61,Finished,Male
+5K,2014,Ken,64,Finished,Male
+5K,2014,Kara,33,Finished,Female
+5K,2014,Rosehannah,32,Finished,Female
+5K,2014,Luke,33,Finished,Male
+5K,2014,Brianna,12,Finished,Female
+5K,2014,Sherylynn,35,Finished,Female
+5K,2014,Dan,61,Finished,Male
+5K,2014,Susan,48,Finished,Female
+5K,2014,Nicole,15,Finished,Female
+5K,2014,Julia,48,Finished,Female
+5K,2014,Mark,46,Finished,Male
+5K,2014,Beth,51,Finished,Female
+5K,2014,George,65,Finished,Male
+5K,2014,Cathy,49,Finished,Female
+5K,2014,Jed,37,Finished,Male
+5K,2014,Kathleen,62,Finished,Female
+5K,2014,Jaime,29,Finished,Female
+5K,2014,Jessica,15,Finished,Female
+5K,2014,Stacey,38,Finished,Female
+5K,2014,Natalie,43,Finished,Female
+5K,2014,Angela,41,Finished,Female
+5K,2014,Andrew,42,Finished,Male
+5K,2014,Dineen,14,Finished,Female
+5K,2014,Michelle,41,Finished,Female
+5K,2014,Eloisa,49,Finished,Female
+5K,2014,Derryl,51,Finished,Male
+5K,2014,Rosalinda,62,Finished,Female
+5K,2014,Jennifer,41,Finished,Female
+5K,2014,Rick,61,Finished,Male
+5K,2014,Allison,36,Finished,Female
+5K,2014,Tammy,52,Finished,Female
+5K,2014,Wayne,68,Finished,Male
+5K,2014,Gary,62,Finished,Male
+5K,2014,Mica,62,Finished,Female
+5K,2014,Jan,35,Finished,Male
+5K,2014,Michelle,39,Finished,Female
+5K,2014,Barbara,69,Finished,Female
+5K,2014,Madeline,14,Finished,Female
+5K,2014,Maia,14,Finished,Female
+5K,2014,Cathi,54,Finished,Female
+5K,2014,Kelle,61,Finished,Female
+5K,2014,Amanda,27,Finished,Female
+5K,2014,Darci,28,Finished,Female
+5K,2014,Valerie,63,Finished,Female
+5K,2014,Clara,8,Finished,Female
+5K,2014,Erika,42,Finished,Female
+5K,2014,Niel,36,Finished,Male
+5K,2014,Stu,74,Finished,Male
+5K,2014,Ruth,42,Finished,Female
+5K,2014,Angela,43,Finished,Female
+5K,2014,Jessica,45,Finished,Female
+5K,2014,Amanda,31,Finished,Female
+5K,2014,Stephanie,29,Finished,Female
+5K,2014,James,15,Finished,Male
+5K,2014,Josephn,80,Finished,Male
+5K,2014,Hui Ean,26,Finished,Female
+5K,2014,Debbie,48,Finished,Female
+5K,2014,Amanda,19,Finished,Female
+5K,2014,Sabrina,11,Finished,Female
+5K,2014,Greg,42,Finished,Male
+5K,2014,Michael,62,Finished,Male
+5K,2014,Natalie,60,Finished,Female
+5K,2014,Taylor,9,Finished,Female
+5K,2014,Cathy,46,Finished,Female
+5K,2014,Alison,67,Finished,Female
+5K,2014,Stacey,42,Finished,Female
+5K,2014,Emily,31,Finished,Female
+5K,2014,Terri,50,Finished,Female
+5K,2014,Kimberly,32,Finished,Female
+5K,2014,Gayle,62,Finished,Female
+5K,2014,Trish,48,Finished,Female
+5K,2014,Kelly,42,Finished,Female
+5K,2014,Merinda,38,Finished,Female
+5K,2014,Harmony,36,Finished,Female
+5K,2014,Chloe,21,Finished,Female
+5K,2014,Nate,22,Finished,Male
+5K,2014,Shirley,82,Finished,Female
+5K,2014,Eleanorweleanor,54,Finished,Female
+5K,2014,Dale,63,Finished,Male
+5K,2014,Ludi,9,Finished,Female
+5K,2014,Charlene,62,Finished,Female
+5K,2014,Elizabeth,47,Finished,Female
+5K,2014,Judy,59,Finished,Female
+5K,2014,Diane,61,Finished,Female
+5K,2014,Michael,56,Finished,Male
+5K,2014,Glenda,65,Finished,Female
+5K,2014,Siobhan,33,Finished,Female
+5K,2014,David,36,Finished,Male
+5K,2014,Shari,69,Finished,Female
+5K,2014,Patricia,53,Finished,Female
+5K,2014,Lisa,56,Finished,Female
+5K,2014,Jessica,40,Finished,Female
+5K,2014,Barbara,56,Finished,Female
+5K,2014,Catalina,11,Finished,Female
+5K,2014,Jamie,33,Finished,Female
+5K,2014,Chelsea,32,Finished,Female
+5K,2014,Bill,67,Finished,Male
+5K,2014,Suzi,68,Finished,Female
+5K,2014,Lee,57,Finished,Male
+5K,2014,Rebecca,49,Finished,Female
+5K,2014,Marjorie,51,Finished,Female
+5K,2014,Jill,60,Finished,Female
+5K,2014,Susan,52,Finished,Female
+5K,2014,Robert,52,Finished,Male
+5K,2014,Bailey,12,Finished,Female
+5K,2014,Courtney,14,Finished,Female
+5K,2014,Korrie,37,Finished,Female
+5K,2014,Christine,36,Finished,Female
+5K,2014,Evangeline,39,Finished,Female
+5K,2014,Virginia,45,Finished,Female
+5K,2014,Karen,52,Finished,Female
+5K,2014,Michele,57,Finished,Female
+5K,2014,Dee,86,Finished,Female
+5K,2014,Melissa,44,Finished,Female
+5K,2014,Paul,44,Finished,Male
+5K,2014,Sarahjane,29,Finished,Female
+5K,2014,Zack,29,Finished,Male
+5K,2014,Adam,27,Finished,Male
+5K,2014,Nicole,43,Finished,Female
+5K,2014,Tomoko,39,Finished,Female
+5K,2014,Kathy,56,Finished,Female
+5K,2014,Carmen,0,Finished,Female
+5K,2014,Sheila,60,Finished,Female
+5K,2014,Amy,47,Finished,Female
+5K,2014,Madison,7,Finished,Female
+5K,2014,Kimberly,44,Finished,Female
+5K,2014,Danielle,21,Finished,Female
+5K,2014,Dina,46,Finished,Female
+5K,2014,Rachel,32,Finished,Female
+5K,2014,Howard,65,Finished,Male
+5K,2014,Lelia,38,Finished,Female
+5K,2014,Debbie,38,Finished,Female
+5K,2014,Cassie,39,Finished,Female
+5K,2014,Mary,65,Finished,Female
+5K,2014,Debra,60,Finished,Female
+5K,2014,Louise,62,Finished,Female
+5K,2014,Jan,0,Finished,Female
+5K,2014,Laura,63,Finished,Female
+10K,2014,Brendan,26,Finished,Male
+10K,2014,Scott,35,Finished,Male
+10K,2014,Sarah,35,Finished,Female
+10K,2014,Vinicius,27,Finished,Male
+10K,2014,Andrew,34,Finished,Male
+10K,2014,Paul,31,Finished,Male
+10K,2014,Michael,48,Finished,Male
+10K,2014,Jim,49,Finished,Male
+10K,2014,Kevin,35,Finished,Male
+10K,2014,Robert,40,Finished,Male
+10K,2014,Michael,48,Finished,Male
+10K,2014,Neo,40,Finished,Male
+10K,2014,Michael,54,Finished,Male
+10K,2014,Keisuke,29,Finished,Male
+10K,2014,John,18,Finished,Male
+10K,2014,Nancy,42,Finished,Female
+10K,2014,Juan,37,Finished,Male
+10K,2014,Cameron,37,Finished,Male
+10K,2014,Annie,28,Finished,Female
+10K,2014,Jared,12,Finished,Male
+10K,2014,Bingbiau,47,Finished,Male
+10K,2014,Jessica,35,Finished,Female
+10K,2014,Tim,50,Finished,Male
+10K,2014,Andrew,36,Finished,Male
+10K,2014,Michael,35,Finished,Male
+10K,2014,Jonathan,45,Finished,Male
+10K,2014,Cristina,27,Finished,Female
+10K,2014,Christina,45,Finished,Female
+10K,2014,Vathan,35,Finished,Male
+10K,2014,Norman,38,Finished,Male
+10K,2014,Lance,33,Finished,Male
+10K,2014,Jane,43,Finished,Female
+10K,2014,John,59,Finished,Male
+10K,2014,Daniel,42,Finished,Male
+10K,2014,Richard,45,Finished,Male
+10K,2014,Marla,26,Finished,Female
+10K,2014,Eardley,56,Finished,Male
+10K,2014,Connie,56,Finished,Female
+10K,2014,Chris,43,Finished,Male
+10K,2014,Benjamin,51,Finished,Male
+10K,2014,Mike,59,Finished,Male
+10K,2014,Erick,24,Finished,Male
+10K,2014,Zach,34,Finished,Male
+10K,2014,Edward,44,Finished,Male
+10K,2014,Seth,59,Finished,Male
+10K,2014,Michael,39,Finished,Male
+10K,2014,Paul,48,Finished,Male
+10K,2014,Jennifer,44,Finished,Female
+10K,2014,Shiro,50,Finished,Male
+10K,2014,Tara,32,Finished,Female
+10K,2014,Andrea,51,Finished,Female
+10K,2014,Kari,28,Finished,Female
+10K,2014,Michael,37,Finished,Male
+10K,2014,Tracy,32,Finished,Female
+10K,2014,Joachim,61,Finished,Male
+10K,2014,Tracy,30,Finished,Female
+10K,2014,Sammy,21,Finished,Male
+10K,2014,Jennifer,43,Finished,Female
+10K,2014,Rochelle,25,Finished,Female
+10K,2014,Ryuichiro,41,Finished,Male
+10K,2014,Maria,38,Finished,Female
+10K,2014,Kv,33,Finished,Male
+10K,2014,Jeff,53,Finished,Male
+10K,2014,Benjamin,28,Finished,Male
+10K,2014,William,52,Finished,Male
+10K,2014,Katie,25,Finished,Female
+10K,2014,Ron,43,Finished,Male
+10K,2014,John,44,Finished,Male
+10K,2014,Tom,47,Finished,Male
+10K,2014,Peter,61,Finished,Male
+10K,2014,Burch,49,Finished,Male
+10K,2014,Scott,41,Finished,Male
+10K,2014,Amanda,14,Finished,Female
+10K,2014,Angela,41,Finished,Female
+10K,2014,Andrew,25,Finished,Male
+10K,2014,Jon-Paul,43,Finished,Male
+10K,2014,Noriko,52,Finished,Male
+10K,2014,David,36,Finished,Male
+10K,2014,Michael,54,Finished,Male
+10K,2014,Anna,33,Finished,Female
+10K,2014,Kari,44,Finished,Female
+10K,2014,Robin,15,Finished,Male
+10K,2014,Damin,50,Finished,Male
+10K,2014,Gary,52,Finished,Male
+10K,2014,James,51,Finished,Male
+10K,2014,Linda,60,Finished,Female
+10K,2014,Margarita,34,Finished,Female
+10K,2014,Sita,32,Finished,Female
+10K,2014,Takehiro,34,Finished,Male
+10K,2014,Meg,45,Finished,Female
+10K,2014,Nathaniel,44,Finished,Male
+10K,2014,Maria,19,Finished,Female
+10K,2014,Janice,42,Finished,Female
+10K,2014,David,38,Finished,Male
+10K,2014,Greg,44,Finished,Male
+10K,2014,Robert,43,Finished,Male
+10K,2014,Robert,43,Finished,Male
+10K,2014,Isabel,42,Finished,Female
+10K,2014,Dave,38,Finished,Male
+10K,2014,Norma,35,Finished,Female
+10K,2014,Tania,50,Finished,Female
+10K,2014,Stella,31,Finished,Female
+10K,2014,Ben,42,Finished,Male
+10K,2014,Emily,27,Finished,Female
+10K,2014,Shannon,38,Finished,Male
+10K,2014,Lendra,38,Finished,Female
+10K,2014,Carina,35,Finished,Female
+10K,2014,Ernest,50,Finished,Male
+10K,2014,John,39,Finished,Male
+10K,2014,Ana,37,Finished,Female
+10K,2014,Greg,46,Finished,Male
+10K,2014,Chad,43,Finished,Male
+10K,2014,Lisa,49,Finished,Female
+10K,2014,Yayoi,51,Finished,Female
+10K,2014,Stacy,42,Finished,Female
+10K,2014,Jose,46,Finished,Male
+10K,2014,Alison,50,Finished,Female
+10K,2014,Wen Hua,38,Finished,Female
+10K,2014,Cynthia,48,Finished,Female
+10K,2014,Hassan,53,Finished,Male
+10K,2014,Michael,52,Finished,Male
+10K,2014,Kimberly,26,Finished,Female
+10K,2014,Heather,36,Finished,Female
+10K,2014,Jeffrey,25,Finished,Male
+10K,2014,Whit,56,Finished,Male
+10K,2014,Peter,41,Finished,Male
+10K,2014,Elizabeth,33,Finished,Female
+10K,2014,Robert,41,Finished,Male
+10K,2014,Kathy,48,Finished,Female
+10K,2014,Amy,20,Finished,Female
+10K,2014,John,61,Finished,Male
+10K,2014,Rob,63,Finished,Male
+10K,2014,Craig,54,Finished,Male
+10K,2014,Juan,40,Finished,Male
+10K,2014,Angelina,17,Finished,Female
+10K,2014,Donna,41,Finished,Female
+10K,2014,Alan,58,Finished,Male
+10K,2014,Emily,37,Finished,Female
+10K,2014,Lisa,35,Finished,Female
+10K,2014,Merry,37,Finished,Female
+10K,2014,Linda,42,Finished,Female
+10K,2014,Paul,50,Finished,Male
+10K,2014,Heath,40,Finished,Male
+10K,2014,Pamela,47,Finished,Female
+10K,2014,Richard,67,Finished,Male
+10K,2014,Kerri,62,Finished,Female
+10K,2014,Paul,57,Finished,Male
+10K,2014,Sarah,37,Finished,Female
+10K,2014,Sierra,29,Finished,Female
+10K,2014,Janelle,35,Finished,Female
+10K,2014,John,50,Finished,Male
+10K,2014,Vexorg,40,Finished,Male
+10K,2014,Rebecca,22,Finished,Female
+10K,2014,Vivian,41,Finished,Female
+10K,2014,Chizuru,41,Finished,Female
+10K,2014,Kelly,29,Finished,Female
+10K,2014,Kristie,40,Finished,Female
+10K,2014,Barry,71,Finished,Male
+10K,2014,Lori,41,Finished,Female
+10K,2014,Bryan,36,Finished,Male
+10K,2014,Jennifer,34,Finished,Female
+10K,2014,John,40,Finished,Male
+10K,2014,Amy,15,Finished,Female
+10K,2014,Allen,74,Finished,Male
+10K,2014,Yao,45,Finished,Female
+10K,2014,Meghan,20,Finished,Female
+10K,2014,Emily,17,Finished,Female
+10K,2014,Joe,50,Finished,Male
+10K,2014,Araceli,40,Finished,Female
+10K,2014,Julie,28,Finished,Female
+10K,2014,Anabel,31,Finished,Female
+10K,2014,David,45,Finished,Male
+10K,2014,Yaia,34,Finished,Female
+10K,2014,Courtney,36,Finished,Female
+10K,2014,Denise,53,Finished,Female
+10K,2014,Sally,50,Finished,Female
+10K,2014,Charlie,35,Finished,Male
+10K,2014,Tammy,0,Finished,Female
+10K,2014,Brittney,28,Finished,Female
+10K,2014,Sierra,32,Finished,Female
+10K,2014,Heather,54,Finished,Female
+10K,2014,Luke,54,Finished,Male
+10K,2014,Danielle,30,Finished,Female
+10K,2014,Lisa,42,Finished,Female
+10K,2014,Christopher,26,Finished,Male
+10K,2014,Karen,51,Finished,Female
+10K,2014,Gary,63,Finished,Male
+10K,2014,Hiromi,44,Finished,Female
+10K,2014,Karen,46,Finished,Female
+10K,2014,Jennifer,46,Finished,Female
+10K,2014,Tad,53,Finished,Male
+10K,2014,Barbara,60,Finished,Female
+10K,2014,Danielle,38,Finished,Female
+10K,2014,Jeanette,23,Finished,Female
+10K,2014,Mike,45,Finished,Male
+10K,2014,Kimo,60,Finished,Male
+10K,2014,David,42,Finished,Male
+10K,2014,Steve,60,Finished,Male
+10K,2014,Marie,43,Finished,Female
+10K,2014,Carol,50,Finished,Female
+10K,2014,Wanda,62,Finished,Female
+10K,2014,Kelli,51,Finished,Female
+10K,2014,Robert,52,Finished,Male
+10K,2014,Janet,52,Finished,Female
+10K,2014,Gabriel,11,Finished,Male
+10K,2014,Abbie,25,Finished,Female
+10K,2014,Juliana,17,Finished,Female
+10K,2014,Jack,7,Finished,Male
+10K,2014,Melody,53,Finished,Female
+10K,2014,Kathryn,45,Finished,Female
+10K,2014,Megan,28,Finished,Female
+10K,2014,Michelle,28,Finished,Female
+10K,2014,Jordan,17,Finished,Female
+10K,2014,Felicia,42,Finished,Female
+10K,2014,Anne,52,Finished,Female
+10K,2014,Christen,29,Finished,Female
+10K,2014,Melinda,34,Finished,Female
+10K,2014,Claire,56,Finished,Female
+10K,2014,Alena,24,Finished,Female
+10K,2014,Holly,29,Finished,Female
+10K,2014,Kim,43,Finished,Female
+10K,2014,Courtney,29,Finished,Female
+10K,2014,Julie,40,Finished,Female
+10K,2014,Darrin,38,Finished,Male
+10K,2014,Estefany,29,Finished,Female
+10K,2014,Joe,16,Finished,Male
+10K,2014,Najia,41,Finished,Female
+10K,2014,Micaela,18,Finished,Female
+10K,2014,Rachel,40,Finished,Female
+10K,2014,Letian,8,Finished,Male
+10K,2014,Susana,48,Finished,Female
+10K,2014,Stefany,58,Finished,Female
+10K,2014,Faye,66,Finished,Female
+10K,2014,Amber,37,Finished,Female
+10K,2014,Luke,32,Finished,Male
+10K,2014,Stephanie,49,Finished,Female
+10K,2014,Dand,44,Finished,Male
+10K,2014,Paul,44,Finished,Male
+10K,2014,Paula,42,Finished,Female
+10K,2014,Miranda,34,Finished,Female
+10K,2014,Kathy,47,Finished,Female
+10K,2014,Rachel,34,Finished,Female
+10K,2014,Crista,41,Finished,Female
+10K,2014,Elizabeth,43,Finished,Female
+10K,2014,Erika,40,Finished,Female
+10K,2014,Kim,44,Finished,Female
+10K,2014,Katherine,63,Finished,Female
+10K,2014,Cecilia,49,Finished,Female
+10K,2014,Leslie,35,Finished,Female
+10K,2014,Jodie,50,Finished,Female
+10K,2014,Laurie,49,Finished,Female
+10K,2014,Pohlin,66,Finished,Female
+10K,2014,Ann,67,Finished,Female
+10K,2014,Aimee,48,Finished,Female
+10K,2014,Christi,34,Finished,Female
+10K,2014,Megan,41,Finished,Female
+10K,2014,Mitchi,48,Finished,Female
+10K,2014,Kate,38,Finished,Female
+10K,2014,Sarah,41,Finished,Female
+10K,2014,Stephanie,36,Finished,Female
+10K,2014,Angela,48,Finished,Female
+10K,2014,Heidi,43,Finished,Female
+10K,2014,Susie,46,Finished,Female
+10K,2014,Malinda,50,Finished,Female
+10K,2014,Jennifer,41,Finished,Female
+10K,2014,Joel,52,Finished,Male
+10K,2014,Cristina,23,Finished,Female
+10K,2014,Laura,53,Finished,Female
+10K,2014,Teresa,46,Finished,Female
+10K,2014,Phyllis,50,Finished,Female
+10K,2014,Jeff,54,Finished,Male
+10K,2014,Aylin,26,Finished,Female
+10K,2014,Christine,65,Finished,Female
+10K,2014,Aggie,65,Finished,Female
+10K,2014,Pam,54,Finished,Female
+10K,2014,Jennie,65,Finished,Female
+10K,2014,Tori,53,Finished,Female
+10K,2014,Julius,24,Finished,Male
+10K,2014,Ann,54,Finished,Female
+10K,2014,Pat,59,Finished,Female
+10K,2014,Susanne,61,Finished,Female
+10K,2014,Deborah,66,Finished,Female
+10K,2014,Casey,34,Finished,Male
+10K,2014,Amy,15,Finished,Female
+10K,2014,Debra,55,Finished,Female
+10K,2014,Linda,45,Finished,Female
+10K,2014,Lauren,34,Finished,Female
+10K,2014,Michelle,30,Finished,Female
+10K,2014,Debbie,47,Finished,Female
+10K,2014,Maria,57,Finished,Female
+10K,2014,Richard,65,Finished,Male
+10K,2014,Louise,54,Finished,Female
+10K,2014,Sam,69,Finished,Male
+10K,2014,Sara,46,Finished,Female
+10K,2014,Paul,38,Finished,Male
+10K,2014,Leslie,29,Finished,Female
+10K,2014,Julie,77,Finished,Female
+10K,2014,Mary,57,Finished,Female
+10K,2014,Sandra,65,Finished,Female
+10K,2014,Corri,37,Finished,Female
+10K,2014,Amy,38,Finished,Female
+10K,2014,Lesta,67,Finished,Female
+10K,2014,Hunter,10,Finished,Male
+10K,2014,Deirdre,57,Finished,Female
+10K,2014,Pradyumna,12,Finished,Male
+10K,2014,Kirtana,39,Finished,Female
+10K,2014,Michelle,43,Finished,Female
+5K,2013,Ron Young,33,16:03.3,Male
+5K,2013,Anthony Mcdermott,19,16:21.2,Male
+5K,2013,Lupe Cabada,27,16:28.9,Male
+5K,2013,Haruki Iwata,16,16:43.3,Male
+5K,2013,Chris Badolato,36,16:56.7,Male
+5K,2013,Pedro Flores,27,17:06.0,Male
+5K,2013,Emmanuel Calderon,27,17:10.0,Male
+5K,2013,John Butler,20,17:37.0,Male
+5K,2013,Luis Barraza,26,17:39.7,Male
+5K,2013,Evan Cross,15,17:48.0,Male
+5K,2013,Sarah Raitter,40,17:56.9,Female
+5K,2013,Konami Ushioda,16,18:19.0,Female
+5K,2013,Emi Prim,17,18:22.7,Female
+5K,2013,Roger Cross,47,18:22.7,Male
+5K,2013,Paul Baines,30,18:35.9,Male
+5K,2013,Tray Biasiolli,35,18:52.7,Male
+5K,2013,Sean Fitzpatrick,41,19:09.1,Male
+5K,2013,Rylee Bowen,14,19:09.2,Female
+5K,2013,Richard Byler,26,19:19.5,Male
+5K,2013,Jennifer Jackson,43,19:28.6,Female
+5K,2013,Brad Jones,47,19:53.0,Male
+5K,2013,Jillian Whisler,41,20:28.5,Female
+5K,2013,Kate Bowen,12,20:31.3,Female
+5K,2013,Keisuke Shono,29,20:33.2,Male
+5K,2013,Lance Halsted,54,20:51.2,Male
+5K,2013,Andrew Farhood,37,20:52.4,Male
+5K,2013,Jim Gorman,64,20:56.9,Male
+5K,2013,Patricio Salas,45,21:06.5,Male
+5K,2013,Gary Schmidt,37,21:09.1,Male
+5K,2013,Charlie Hamilton,10,21:11.0,Male
+5K,2013,Eardley Scheffer,54,21:14.4,Male
+5K,2013,Kyle Duchynshi,14,21:20.0,Male
+5K,2013,Becky Hacker,43,21:40.5,Female
+5K,2013,Sean Smith,40,21:46.0,Male
+5K,2013,Charles Kolsky,57,21:44.2,Male
+5K,2013,Traci Seto,44,21:47.6,Female
+5K,2013,David Lent,50,21:49.9,Male
+5K,2013,Donald Fields,59,22:03.9,Male
+5K,2013,David Cheit,60,22:09.9,Male
+5K,2013,Matthew Jr David,33,22:08.5,Male
+5K,2013,Marla Mcperson,25,22:18.3,Female
+5K,2013,Maarten Geerts,34,22:23.1,Male
+5K,2013,Katie Trent,21,22:22.5,Female
+5K,2013,Annie Trent,24,22:28.4,Female
+5K,2013,Mark Hicks,56,22:30.7,Male
+5K,2013,Kevin Bryan,44,22:35.7,Male
+5K,2013,Chris Baad,30,22:40.0,Male
+5K,2013,Kristin Gustafsson,44,22:36.1,Female
+5K,2013,Benjamin Yuen,27,22:48.3,Male
+5K,2013,Amy Elson,25,23:12.3,Female
+10K,2013,Ippei Tanaka,27,35:24.9,Male
+10K,2013,Stephen Andrews,31,35:34.3,Male
+10K,2013,Shuiochi Komatsuzaki,25,36:44.3,Male
+10K,2013,Greg Loge,35,38:26.4,Male
+10K,2013,Erik Aguilar,32,38:53.0,Male
+10K,2013,Joseph Huang,27,39:01.3,Male
+10K,2013,Andrew Hanks,33,39:42.7,Male
+10K,2013,Roberto Donaire,59,39:47.4,Male
+10K,2013,Mark Baker,30,40:10.9,Male
+10K,2013,Greg Mandler,50,41:31.4,Male
+10K,2013,Kidianga Tshiunza,43,42:03.7,Male
+10K,2013,Ernie Felix,47,42:47.9,Male
+10K,2013,Brian Krall,40,43:32.7,Male
+10K,2013,Juan Sanchez,36,44:04.9,Male
+10K,2013,Roberto Polar,33,44:25.4,Male
+10K,2013,Andrew Wyly,35,44:29.9,Male
+10K,2013,Ty Tadano,34,44:44.6,Male
+10K,2013,Skylar Jauregui,17,44:46.6,Female
+10K,2013,Jerry Wilcox,52,45:02.3,Male
+10K,2013,Charles Anderson,44,45:07.4,Male
+10K,2013,Ed Ballerini,49,45:10.5,Male
+10K,2013,Terry Anderson,39,45:07.7,Female
+10K,2013,Kiwamu Yamaguchi,25,45:14.8,Male
+10K,2013,Carlos Hernandez-Guillen,24,45:25.1,Male
+10K,2013,Clariza Aguillon-Doms,44,45:32.6,Female
+10K,2013,Rj Taylor,28,45:45.0,Male
+10K,2013,Katie Adams,34,45:35.9,Female
+10K,2013,T.c. Chadderton,50,45:49.4,Male
+10K,2013,Erick Studenicka,47,45:47.3,Male
+10K,2013,Bingbiao Fang,46,46:05.5,Male
+10K,2013,Matt Weil,39,46:16.1,Male
+10K,2013,Tatiana Smith,19,46:22.4,Female
+10K,2013,Bruce Wright,60,46:19.3,Male
+10K,2013,Patrick Rose,42,46:51.8,Male
+10K,2013,Bruce McAllister,49,46:34.4,Male
+10K,2013,Paul Smith,47,46:44.9,Male
+10K,2013,Bip Kaushal,41,46:43.7,Male
+10K,2013,James Bowling,38,47:01.7,Male
+10K,2013,Mark Oslund,49,47:27.1,Male
+10K,2013,Kristin Leon,34,47:40.9,Female
+10K,2013,Sharlet Gilbert,62,47:32.6,Female
+10K,2013,Kv Saechao,32,47:35.8,Male
+10K,2013,Bob Barton,51,47:58.8,Male
+10K,2013,Brandon Feldmann,37,48:02.3,Male
+10K,2013,Paul Sieracki,61,47:51.4,Male
+10K,2013,Andrea Kirsch,50,48:02.8,Female
+10K,2013,Gary Campbell,58,48:04.1,Male
+10K,2013,Tim Ojima,49,49:12.7,Male
+10K,2013,Eleanor Su,23,48:18.4,Female
+10K,2013,Irene Fong,59,48:23.9,Female
