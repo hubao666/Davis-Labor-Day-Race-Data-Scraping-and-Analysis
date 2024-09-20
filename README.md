@@ -1,6 +1,16 @@
+## Topic
+This project analyzes data from the Davis Labor Day Running Races to explore factors affecting running endurance, focusing on age, gender, race distance, and the impact of the COVID-19 pandemic.
 
-The Davis Labor Day Running Races stand as an important annual event, attracting participants with its athleticism and community spirit. This code report will provide the analysis of data associated with these races, finding valuable insights and patterns within the information. By employing `web scraping techniques`, we gather data directly from the event's official website, ensuring accuracy and up-to-date information for our analysis.
-### To view the report:
-`STA141B Project Report.ipynb`
-### To view the data:
-`data` folder
+## Methodology
+Using Python's BeautifulSoup and requests libraries, race data (names, ages, finish times, gender, race type, and year) were scraped from the official website. Data was processed with pandas and visualized using plotly.express. The analysis examined speed and pace differences by age and gender, as well as pre- and post-pandemic performance.
+
+## Tools
+- Web Scraping: BeautifulSoup, requests
+- Data Processing: pandas
+- Visualization: plotly.express
+- Storage: CSV format
+
+## Results
+- Age Group Performance: The 10-19 age group had the highest speed (10.65 Km/h), while >90 had the lowest (6.40 Km/h).
+- Gender Differences: Males generally had higher speeds.
+- Pandemic Impact: Post-pandemic performance showed slight changes, with younger groups (e.g., 10-19) seeing a decline in speed.
